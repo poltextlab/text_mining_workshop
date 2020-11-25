@@ -1,7 +1,4 @@
-# Text Mining Workshop
-## PTI TK POLTEXT
-
-A workshop gyakorlati része a [POLTEXT github weblapon](https://poltextlab.github.io/text_mining_workshop/) is elérhető.
+## Text Mining Workshop @ PTI TK POLTEXT 
 
 ## Topics
 

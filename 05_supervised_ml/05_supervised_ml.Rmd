@@ -1,0 +1,237 @@
+---
+title: "Supervised learning: Naive Bayes and Support Vector Machines"
+subtitle: ""
+date: '2020 November'
+output:
+    html_document:
+        code_folding: "show"
+        number_sections: TRUE
+        toc: true
+        toc_depth: 4
+        toc_float: true
+        theme: flatly
+        highlight: tango
+        css: ../rmd_style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      collapse = TRUE,
+                      comment = "#>",
+                      message = FALSE
+)
+```
+
+
+In this session, we'll see how to carry out supervised classification with Naive Bayes classifier and Support Vector Machines. The packages we use are the same like before. The only package needed to be installed is the `e1071`
+
+```{r eval=FALSE}
+install.packages("e1071")
+install.packages("quanteda.textmodels")
+```
+
+
+```{r}
+library(readr)
+library(dplyr)
+library(quanteda)
+library(quanteda.textmodels)
+library(e1071)
+```
+
+We will use random sampling so to get the same results let's set our random seed.
+```{r}
+set.seed(042)
+```
+
+We will replicate the spam/ham classification excercise with real data. The data comes from Kaggle: [https://www.kaggle.com/uciml/sms-spam-collection-dataset/data](https://www.kaggle.com/uciml/sms-spam-collection-dataset/data)
+
+We have 5572 observations of text messages and around 87% is ham, the rest is spam. The objective: predict if a text is ham or spam!
+
+```{r}
+spam_df <- read_csv("data/spam.csv") %>% 
+    select(1:2) %>% 
+    rename(type = v1, sms = v2)
+
+
+
+spam_df %>% 
+    group_by(type) %>% 
+    summarise(n = n()) %>% 
+    mutate(freq = n / sum(n))
+```
+
+# Using Naive Bayes
+
+Put our data frame into `quanteda` and create a corpus.
+
+```{r}
+spam_corpus <- corpus(spam_df, text_field = "sms")
+
+summary(spam_corpus, 5)
+```
+
+
+As a first thing before we do anything we should separate our data into a training and test set. There are no hard rules for the ratio, so we will just randomly put 80% of our data into our training set and the 20% for testing. The process:
+
+1. Create a numeric id for our documents (simple row numbers)
+2. Generate 4457 random number (between 1 and 5572) without replacement
+3. Subset the corpus accoring to the random numbers.
+
+
+```{r}
+docvars(spam_corpus, "id") <- 1:ndoc(spam_corpus)
+
+summary(spam_corpus, 10)
+```
+
+The random numbers
+```{r}
+id_train <- sample(1:ndoc(spam_corpus), 0.8 * ndoc(spam_corpus), replace = FALSE)
+
+head(id_train)
+```
+
+Subset out corpus into training and test sets and create dfms.
+
+```{r}
+training <- corpus_subset(spam_corpus, id %in% id_train)
+
+test <- corpus_subset(spam_corpus, !id %in% id_train)
+
+training_dfm <- dfm(training)
+
+test_dfm <- dfm(test)
+
+
+# check if the subset happened as we wanted it.
+cat("The training set has", ndoc(training), "documents")
+
+cat("The test set has", ndoc(test), "documents")
+```
+
+IMPORTANT: always separate data into training and test set before running your model so the classifier do not have any knowledge about your test set.
+
+Without further ado let's train our Naive Bayes model. We'll use the `textmodel_nb()` from quanteda.
+
+```{r}
+nb_train <- textmodel_nb(training_dfm, y = docvars(training_dfm, "type") ,smooth = 1)
+
+summary(nb_train)
+```
+
+Now we are ready to predict labels for our training set. We should also create a confusion matrix to quickly see how well our model did. (Naive Bayes can only take features into consideration that occur both in the training set and the test)
+
+```{r}
+matched_dfm <- dfm_match(test_dfm, features = featnames(training_dfm))
+
+
+spam_pred <- predict(nb_train, newdata = matched_dfm, type = "class")
+
+table(spam_pred, docvars(test_dfm, "type")) %>% 
+    print()
+
+
+```
+
+Let's compute the various metrics for our model. We'll write a function for it.
+
+```{r}
+model_eval <- function(conf_matrix) {
+    TP <- conf_matrix[1,1]
+    FP <- conf_matrix[2,1]
+    TN <- conf_matrix[2,2]
+    FN <- conf_matrix[1,2]
+    
+    prec <- TP / sum(TP, FP)
+    rec <- TP / sum(TP, FN)
+    acc <- sum(diag(conf_matrix)) / sum(conf_matrix)
+    
+    print(conf_matrix)
+    
+    cat("\n precesion = ", round(prec, 2),
+        "\n recall = ", round(rec, 2),
+        "\n accuracy = ", round(acc, 2))
+}
+```
+
+Time to check out our model. Pretty good!
+
+```{r}
+confusion_matrix <- table(spam_pred, docvars(test_dfm, "type"))
+
+model_eval(conf_matrix = confusion_matrix)
+```
+
+Time to do some digging! We can access the posterior class probabilities by checking the `param` (predicted class given word) part of our trained model.
+
+```{r}
+posterior <- nb_train$param %>% 
+    as.matrix() %>% 
+    t() %>% 
+    as.data.frame() %>% 
+    mutate(feature = rownames(.),
+           ham = round(ham, 5),
+           spam = round(spam, 5))
+
+head(posterior)
+
+
+```
+
+
+What are the features that are most likely to be ham or spam?
+
+```{r}
+# ham
+posterior %>% 
+    arrange(desc(ham)) %>% 
+    head(15)
+
+```
+
+
+
+
+# Support Vector Machine
+
+Let's stick to our training and test sets and see how well an SVM performs. We use the `factor()` function to wrap our docvars as the svm requires numeric dependent variables. For now we specify the cost parameter by hand (and just guessing really).
+
+```{r}
+svm_spam <- svm(x = training_dfm, y = factor(docvars(training_dfm, "type")),
+                kernel = "linear", cost = 5, probability = TRUE)
+
+pred_svm <- predict(svm_spam, matched_dfm)
+
+svm_spam
+```
+
+How well we did? Well, extremely well I would say.
+
+```{r}
+svm_cm <- table(pred_svm, docvars(test_dfm, "type"))
+
+model_eval(svm_cm)
+```
+
+To get a better cost function, we can use the `tune` function. This might be a little slow...
+
+```{r}
+best_cost <- tune(svm, train.x = training_dfm, 
+                  train.y = factor(docvars(training_dfm, "type")),
+                  kernel = "linear",
+                  ranges = list(cost = c(0.001, 0.01, 0.1, 1, 5, 10, 100)))
+                  
+
+summary(best_cost)               
+```
+
+
+To extract the best model (with cost = 0.1):
+
+```{r}
+best_svm <- best_cost$best.model
+
+summary(best_svm)
+```
+

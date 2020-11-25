@@ -1,0 +1,258 @@
+---
+title: "Describing the documents"
+subtitle: ""
+date: '2020 November'
+output:
+    html_document:
+        code_folding: "show"
+        number_sections: TRUE
+        toc: true
+        toc_depth: 4
+        toc_float: true
+        theme: flatly
+        highlight: tango
+        css: ../rmd_style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      collapse = TRUE,
+                      comment = "#>",
+                      message = FALSE
+)
+```
+
+
+```{r}
+library(readtext)
+library(dplyr)
+library(lubridate)
+library(stringr)
+library(ggplot2)
+library(GGally)
+library(quanteda)
+```
+
+Let's work with the UNGA texts again for this session again. Load it and let's describe it! We'll work with the packages that we are already familiar with from our intro to R session.
+
+
+# Data prep
+
+```{r}
+unga_texts <- readtext("data/unga/*.txt")
+
+head(unga_texts)
+```
+
+
+For practice, we carry out the same few modification as we did in the last hands on session. We also add a party dummy to our data. As opposed to the approach we took in the previous session we'll use the `mutate` function instead of the `$` method.
+
+```{r}
+
+unga_texts <- unga_texts %>% 
+    mutate(doc_id = str_extract(doc_id, "[^\\.]*"),
+           potus = str_sub(doc_id, end = -3),
+           party = if_else(potus %in% c("obama", "clinton"), "dem", "rep"))
+
+
+
+unga_texts$year <- str_sub(unga_texts$doc_id, start = -2) %>% 
+    str_c("-01-01") %>% 
+    lubridate::ymd() %>% 
+    lubridate::year()
+
+glimpse(unga_texts)
+```
+
+# Simple descriptives
+
+Now we will create our corpus object in quanteda and prepare some summary statistics. Tokens are individual words, types are unique words in our corpus.
+
+```{r}
+unga_corpus <- corpus(unga_texts)
+
+summary(unga_corpus)
+```
+
+If we want to subset our corpus, we should use the `corpus_subset` function.
+
+```{r}
+unga_dem <- corpus_subset(unga_corpus, potus %in% c("clinton", "obama"))
+
+summary(unga_dem)
+```
+
+We can add more descriptive statistics as well. The trick is that the `summary` function will create a dataframe object for us, which we can then treat as such and use our data manipulation tools.
+
+```{r}
+summary(unga_corpus) %>% 
+    group_by(party) %>% 
+    summarise(mean_wordcount = mean(Tokens), std_dev = sd(Tokens), min_wordc = min(Tokens), max_wordc = max(Tokens))
+```
+
+# Collocations with quanteda
+
+With the `textstat_collocations` functions we can have two general approach. Feed the function a corpus or the tokens that we created (and with stopwords removed.) With the whole corpus without any pre-processing, we get the following result.
+
+```{r}
+unga_corpus %>% 
+    textstat_collocations() %>% 
+    head(n = 10)
+
+```
+
+After tokenization and removing our stopwords:
+
+```{r}
+unga_corpus %>% 
+    tokens() %>% 
+    tokens_select(pattern = stopwords("en"), selection = "remove") %>%
+    textstat_collocations(size = c(2:3)) %>% 
+    head(n = 10)
+```
+
+A third approach is see if in a weighted dfm we have particularly highly weighted bigrams or trigrams. This approach seem to give us cruder and less refined collocations.
+
+```{r}
+unga_corpus %>% 
+    tokens(remove_numbers = TRUE, remove_punct = TRUE, remove_separators = TRUE) %>% 
+    tokens_select(pattern = stopwords("en"), selection = "remove") %>%
+    tokens_ngrams(n = 2:3) %>% 
+    dfm() %>% 
+    dfm_tfidf(scheme_tf = "prop") %>% 
+    textstat_frequency(n = 10, force = TRUE)
+    
+```
+
+
+# Lexical diversity
+
+Now we are wondering how the lexical diversity differs between some of our documents.
+To check the implemented lexical diversity approaches in the `quanteda` package, let's examine the `textstat_lexdiv` function. The data input needs to be a dfm, so prepare that as the first step. Again, the result is a data frame, which we can treat accordingly and order our results decreasingly.
+
+```{r}
+unga_dfm <- unga_corpus %>% 
+    tokens(remove_punct = TRUE, remove_separators = TRUE, remove_hyphens = TRUE) %>% 
+    dfm(remove = stopwords("en"))
+
+unga_dfm %>% 
+    textstat_lexdiv(measure = "CTTR") %>% 
+    arrange(desc(CTTR))
+```
+
+If we are still undiceded on what diversity measure we should use, the `measure = all` will give us the result for all the implemented measures.
+
+```{r}
+unga_dfm %>% 
+    textstat_lexdiv(measure = "all")
+```
+
+How much are these measures correlated with each other?
+
+```{r}
+div_df <- unga_dfm %>% 
+    textstat_lexdiv(measure = "all")
+
+
+cor(div_df[,2:13])
+```
+
+Or in a visual form, using `GGally::ggcorr` 
+
+```{r}
+ggcorr(div_df[,2:13], label = TRUE)
+```
+
+We can add the document level results to our corpus with the use of the `docvars` function. The `unlist` function creates a vector from our dataframe which is the original output of the `textstat_lexdiv` function. After that we can merge it into our dfm as another covariate. 
+
+```{r}
+unga_dfm_lexdiv <- unga_dfm
+
+cttr_score <- unlist(textstat_lexdiv(unga_dfm_lexdiv, measure = "CTTR")[,2])
+
+docvars(unga_dfm_lexdiv, "cttr") <- cttr_score
+
+docvars(unga_dfm_lexdiv)
+```
+
+
+# Readability and complexity
+Following up on this, let's check if lexical diversity translates into complexity as well. We'll use the `textstat_readability` function which implements (amongst many other) the Flesch reading ease score and the Flesch-Kincaid readability score. (for all of the implemented variations, see the function documentation)
+
+We will use the corpus as input for the function.
+
+```{r}
+unga_corpus %>% 
+    textstat_readability(measure = "Flesch.Kincaid")
+```
+
+Let's add the readability scores to our corpus as well. As the corpus is not a matrix object, we don't need to use the `unlist` trick to get our result added as additional document level variable.
+
+```{r}
+docvars(unga_corpus, "f_k") <- textstat_readability(unga_corpus, measure = "Flesch.Kincaid")[,2]
+
+docvars(unga_corpus)
+```
+
+As a bonus this allows for easier visualization.
+
+```{r}
+unga_corpus_df <- docvars(unga_corpus)
+
+ggplot(unga_corpus_df, aes(year, f_k, color = party)) +
+    geom_point(size = 2) +
+    geom_line(aes(linetype = party), size = 1) +
+    geom_text(aes(label = potus), color = "black", nudge_y = 0.15) +
+    scale_x_continuous(breaks = unga_corpus_df$year) +
+    theme_minimal()
+```
+
+
+
+# Similarity measures
+
+We see considerable variation for within party and even within presidents in terms of readability. Let's dig deeper and see how similar these speeches are actually? For this we'll use the `textstat_dist` and `textstat_simil` functions. As these methods require a matrix input we'll plug in our dfm.
+
+```{r}
+unga_dfm %>% 
+    dfm_weight("prop") %>% 
+    textstat_simil(margin = "documents", method = "jaccard") 
+```
+
+
+For distance based measures, we can experiment with the Euclidean distance.
+
+```{r}
+unga_dfm %>%
+    textstat_dist(margin = "documents", method = "euclidean")
+
+```
+
+
+To visualize the distance between the documents, we can draw a dendogram that shows various possible pairings. (more on this when we look at classification). To be able to get this plot, we convert our output to a distance class, and then perform hierarchical clustering, and plot the output of this whole chain.
+
+```{r}
+unga_dist <- unga_dfm %>%
+    textstat_dist(margin = "documents", method = "euclidean")
+
+plot(hclust(as.dist(unga_dist)))
+```
+
+By modifying the `margin = ` option in both similarity and distance measures we can look at feature similarity as well. To have a select few features, we define that selection in the `y = ` option.
+
+```{r}
+unga_dfm %>% 
+    textstat_simil(y = unga_dfm[, c("peace")], margin = "features", method = "correlation") %>% 
+    head(n = 10)
+```
+
+
+# KWIC exploration
+
+Finally, let's check how the US presidents speak about terror in the UN.
+
+```{r}
+kwic(unga_corpus, pattern = "terror*", valuetype = "glob", window = 5, case_insensitive = TRUE) %>% 
+    head(20)
+```
+

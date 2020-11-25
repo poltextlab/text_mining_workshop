@@ -1,0 +1,170 @@
+---
+title: "Descriptive statistics for texts"
+subtitle: "and some other basics"
+date: '2020 November'
+output:
+    html_document:
+        code_folding: "show"
+        number_sections: TRUE
+        toc: true
+        toc_depth: 4
+        toc_float: true
+        theme: flatly
+        highlight: tango
+        css: ../rmd_style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      collapse = TRUE,
+                      comment = "#>",
+                      message = FALSE
+)
+```
+
+
+```{r}
+library(readtext)
+library(dplyr)
+library(lubridate)
+library(stringr)
+library(ggplot2)
+library(quanteda)
+```
+
+# Cleaning texts
+
+Cleaning texts is tedious but unavoidable work when working with them. The most basic pre-processing steps that we have to do is remove capitalization, numbers, and other sort of noise that might happen during the data acquisition process (e.g.: html tags after scraping).
+
+The first example showcases how to use the `stringr` package for this purpose. In the below case, we have the `\n` newline and the font size html tag that we want to get rid of. 
+
+```{r}
+text1 <- c("Something is wrong \nBut I don't know what    ", "   The <font size='6'> bridge is too far")
+
+text1
+```
+
+In `str_replace_all(pattern =  "<.*?>|\n", replacement = "")` what we do is specify a regular expression (regex) in the pattern argument. This tells the function, that we want everything within  `< >` matched OR the exact string of `\n`. After the regex match is achieved, we replace it to an empty character.
+
+The `str_to_lower()` converts everything to lower case and finally, `str_trim()` removes excess white space around the text.
+
+```{r}
+text1 %>% 
+    str_replace_all(pattern =  "<.*?>|\n", replacement = "") %>% 
+    str_to_lower() %>% 
+    str_trim()
+```
+
+
+This is a very basic example of text pre-processing using the `stringr` package. For more essentials, and a quick tutorial on regular expressions in R, see the [Chapter 14 of R for Data Science](https://r4ds.had.co.nz/strings.html).
+
+
+# Importing text
+We use the `readtext` package to import texts into R. The data is the first UN General Assembly speech by US presidents after their inauguration. The `readtext()` function can read all text documents in a given folder with the `*.txt` expression. It is a versatile package and can read texts from URLs, zips, with strange encodings.
+
+```{r}
+unga_texts <- readtext("data/unga/*.txt")
+
+glimpse(unga_texts)
+```
+
+Using some string manipulation we can get additional document attributes by parsing the `doc_id`. It is done with the `stringr` package.
+We clean up the `doc_id`, then get the name of the president and the year. We use the `str_extract()` function to get all the characters before the first dot, by supplying the regular expression `"[^\\.]*"`
+
+The `str_sub` function subsets the given string starting from the specified position. For the date, we first parse the last two digit, then extend it to a date format by adding the month and date, then extract the year from that date. For this, we use the `lubridate::year` and `lubridate::ymd` functions, as well as the `str_c` function to combine strings.
+
+```{r}
+unga_texts$doc_id <- str_extract(unga_texts$doc_id, "[^\\.]*")
+
+unga_texts$potus <- str_sub(unga_texts$doc_id, end = -3)
+
+unga_texts$year <- str_sub(unga_texts$doc_id, start = -2) %>% 
+    str_c("-01-01") %>% 
+    lubridate::ymd() %>% 
+    lubridate::year()
+    
+
+glimpse(unga_texts)
+```
+
+# Cleaning and pre-processing
+
+First we create a corpus from our data frame.
+
+```{r}
+unga_corpus <- corpus(unga_texts)
+```
+
+
+
+At this point we still have all the noise and clutter in our data. Let's clean it! We can pass our corpus object to the `tokens` function which will tokenize it. Tokens are going to be our unit of analysis. They can be single words (unigrams) or n-word combinations (n-grams) for more refined analysis. Similarly, tokens can be whole sentences as well. What tokens we choose should be informed and guided by our research question and the appropriate method for answering it.
+
+During this step we can remove common words of no interest (referred as stopwords), numbers, special characters, transform the text to lowercase and stem the words. **Remember to remove stopwords before stemming!** Because stopwords are not stemmed they will miss the stemmed words in the text.
+
+Example of stopwords:
+```{r}
+head(stopwords(language = "english"), 15)
+
+```
+
+
+Let's tokenize our corpus.
+```{r}
+unga_tok <- tokens(unga_corpus, what = "word", remove_symbols = TRUE, remove_numbers = TRUE, remove_punct = TRUE) %>% 
+    tokens_tolower() %>% 
+    tokens_remove(stopwords("english")) %>% 
+    tokens_wordstem()
+
+# first 20 tokens in the first document
+head(unga_tok[[1]], 20)
+```
+
+
+Most of our analysis will require a document feature matrix (DFM), where our tokens will be put into a $n*m$ sparse matrix, where $n=$ number of documents, $m=$ number of features (tokens). We can do all the pre-processing and normalizing procedure in one step, skipping the `tokens` function, or just put our token object into the `dfm` function.
+
+```{r}
+unga_dfm <- dfm(unga_corpus, tolower = TRUE, remove = stopwords("english"), stem = TRUE, remove_punct = TRUE, remove_symbols = TRUE, remove_numbers = TRUE)
+
+# which is the same as:
+dfm(unga_tok)
+
+unga_dfm
+```
+
+
+## Word frequency, weights
+
+What are the most frequent features?
+```{r}
+topfeatures(unga_dfm, 15)
+```
+
+Get more information with `textstat_frequency`
+
+```{r}
+freq <- textstat_frequency(unga_dfm, n = 5, groups = docvars(unga_dfm, "potus"))
+
+freq
+```
+
+
+We can plot this, as it is a nice data frame at this point. A neat little trick that we do here is to use the `tidytext::reorder_within` and the `tidytext::scale_x_reordered` to make sure each of the faceted plots display the terms in their correct order.
+
+```{r}
+ggplot(freq, aes(x = tidytext::reorder_within(feature, frequency, group), y = frequency)) +
+    geom_point() +
+    coord_flip() +
+    labs(x = NULL,
+         y = "Frequency") +
+    facet_wrap(~group, scales = "free") +
+    tidytext::scale_x_reordered()
+```
+
+
+We can of course perform all of the above with a trimmed dfm (either based on term frequency or document frequency) and adding weights to our features. Trimming the dfm happens with the `dfm_trim` function, while weighting the features is carried out with `dfm_weight` and `dfm_tfidf`.
+
+```{r}
+unga_tfidf <- dfm_tfidf(unga_dfm)
+
+textstat_frequency(unga_tfidf, groups = "potus", force = TRUE, n = 5)
+```

@@ -1,0 +1,254 @@
+---
+title: "Dictionaries"
+subtitle: ""
+date: '2020 November'
+output:
+    html_document:
+        code_folding: "show"
+        number_sections: TRUE
+        toc: true
+        toc_depth: 4
+        toc_float: true
+        theme: flatly
+        highlight: tango
+        css: ../rmd_style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      collapse = TRUE,
+                      comment = "#>",
+                      message = FALSE
+)
+```
+
+A new packages to install: `devtools` and `quanteda.dictionaries` and `quanteda.corpora`
+
+```{r eval=FALSE}
+install.packages("devtools")
+devtools::install_github("kbenoit/quanteda.dictionaries") # press 3, so no package are updated during install
+devtools::install_github("quanteda/quanteda.corpora") # press 3, so no package are updated during install
+install.packages("tibble")
+install.packages("broom")
+```
+
+
+And the packages that we'll use.
+```{r}
+library(dplyr)
+library(lubridate)
+library(stringr)
+library(ggplot2)
+library(quanteda)
+library(quanteda.corpora)
+library(quanteda.dictionaries)
+library(broom)
+
+
+set.seed(042)
+```
+
+# dictionaries in quanteda
+We can create dictionaries in `quanteda` with the `dictionary()` function. They are essentially named lists of words combined into a single object. The function allows to load a file from your computer or create one in R.
+
+We'll use the Laver-Garry dictionary which is in the /dictionary folder and load it into R. If it is in a specific dictionary format, you can specify it in the `format = ` argument. 
+
+```{r}
+lg_dict <- dictionary(file = "dictionary/laver-garry.cat")
+
+```
+
+The Laver-Garry is a hierarchical dictionary with many subcategories. We can use the `summary()` and `str()` function to get a better sense of our dictionary object. The summary only displays the topmost levels.
+
+```{r}
+summary(lg_dict)
+```
+
+With str we can see the whole structure of the object.
+
+```{r}
+str(lg_dict)
+```
+
+
+Let's dig around a bit.
+
+```{r}
+sample(lg_dict$ECONOMY$`+STATE+`, 5)
+
+
+sample(lg_dict$LAW_AND_ORDER$`LAW-CONSERVATIVE`, 5)
+```
+
+
+# LSD on british party manifesto
+
+Load the UK election manifestos corpus from the data/ folder, or from the `quanteda.corpora` package.
+
+```{r}
+load("data/data_corpus_ukmanifestos.rda")
+
+summary(data_corpus_ukmanifestos)
+```
+
+We don't really need all this, so let's subset our corpus for the 2005 election.
+
+```{r}
+uk_subset <- corpus_subset(data_corpus_ukmanifestos, Year >= 1970 & Year <= 1974)
+
+uk_subset
+
+```
+
+
+We know that we want to use the Lexicoder dictionary to estimate the positive or negative sentiments in these party manifestos. It is part of quanteda, as `data_dictionary_LSD2015`. Let's look around.
+
+```{r}
+dict_lsd <- data_dictionary_LSD2015
+
+summary(dict_lsd)
+
+str(dict_lsd)
+
+sample(dict_lsd$negative, 10)
+
+sample(dict_lsd$positive, 10)
+
+sample(dict_lsd$neg_positive, 10)
+```
+
+What decisions should we make when we create our document-feature matrix? 
+
+
+```{r}
+uk_dfm <- dfm(uk_subset, tolower = TRUE, remove_punct = TRUE, remove = stopwords("en"))
+```
+
+
+To apply the dictionary, we use the `dictionary` argument of the `dfm` function.
+
+```{r}
+uk_sentiment <- dfm(uk_dfm, dictionary = dict_lsd)
+
+uk_sentiment
+```
+
+Let's add the net sentiment to the docvars of our corpus. We should also create a net sentiment from the positive and negative categories.
+
+```{r}
+docvars(uk_subset, "net_sentiment") <- as.numeric(uk_sentiment[, 2]) - as.numeric(uk_sentiment[, 1])
+
+docvars(uk_subset)
+```
+
+
+Time to plot! First we create a data frame from our corpus variables.
+
+```{r}
+uk_df <- as.data.frame(docvars(uk_subset)) %>% 
+    tibble::rownames_to_column("text")
+
+ggplot(data = uk_df, mapping = aes(x = Year, y = net_sentiment, color = Party)) +
+    geom_point(aes(shape = Party), size = 2.5) + 
+    geom_line(alpha = 0.5) + 
+    theme_minimal()
+```
+
+
+Did we miss anything? What are some additional steps that we would do in a real analysis?
+
+
+
+# NRC on Tweets
+
+As the next demonstration we will use another type of dictionary on a different type of corpus. The NRC Word-Emotion Association Lexicon comes from the `quanteda.dictionaries` package, and the corpus is either loaded from the `data/` folder or from the `quanteda.corpora` package.
+
+```{r}
+nrc_dict <- quanteda.dictionaries::data_dictionary_NRC
+
+summary(nrc_dict)
+```
+
+The corpus we use is Trump tweets in the 2016 election campaign. An interesting analysis (where the data is coming from) is here from David Robinson: [http://varianceexplained.org/r/trump-tweets/](http://varianceexplained.org/r/trump-tweets/). We'll replicate some of that work with quanteda.
+
+
+```{r}
+load("data/trump_tweets.Rda")
+
+glimpse(trump_tweets_df)
+```
+
+Let's make some adjustments to our data. We want to extract the device the tweet is made and only keep some relevant variables.
+
+```{r}
+trump_tweets_df <- trump_tweets_df %>% 
+    mutate(device = str_extract(statusSource, "android|iphone")) %>% 
+    filter(isRetweet == FALSE, device %in% c("android", "iphone")) %>% 
+    select(text, device, created, favoriteCount, retweetCount)
+```
+
+
+```{r}
+trump_corpus <- corpus(trump_tweets_df)
+```
+
+Let's apply our dictionary, but now with the `dfm_lookup` function.
+
+```{r}
+trump_sentiment <- trump_corpus %>% 
+    dfm() %>% 
+    dfm_lookup(dictionary = nrc_dict)
+
+head(trump_sentiment, 15)
+```
+
+
+we add the sentiment scores back to our original dataset.
+
+```{r}
+trump_sentiment_df <- convert(trump_sentiment, to = "data.frame")
+
+trump_tweets_df <- bind_cols(trump_tweets_df, trump_sentiment_df)
+```
+
+Some plots to satisfy our curiosity
+```{r}
+ggplot(trump_tweets_df, aes(x = anger, y = log(retweetCount), color = device)) +
+    geom_point(alpha = 0.45) +
+    theme_minimal()
+```
+
+```{r}
+summary(lm(log(retweetCount) ~ anger + fear + joy + negative + positive + sadness + surprise + trust + factor(device), data = trump_tweets_df))
+```
+
+Visualize our results
+
+```{r}
+ols <- lm(log(retweetCount) ~ anger + fear + joy + negative + positive + sadness + surprise + trust + factor(device), data = trump_tweets_df)
+
+ols_coef <- tidy(ols, conf.int = TRUE)
+
+ggplot(ols_coef[2:10,], aes(estimate, term, color = term)) +
+    geom_point()+
+    geom_errorbarh(aes(xmin = conf.low, xmax = conf.high)) +
+    geom_vline(xintercept = 0, size = 1, linetype = "dotted") +
+    theme_minimal()
+    
+```
+
+# Create dictionary
+
+As quick excercise we'll create a dictionary for Trump tweets. For inspiration: [https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html](https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html)
+
+```{r}
+dict_trump <- dictionary(list(insult = c("crooked", "fake", "crazy", "failing", "wrong", "phony"),
+                              happy = c("great", "proud", "deal", "approval")))
+
+trump_insult <- trump_corpus %>% 
+    dfm() %>% 
+    dfm_lookup(dictionary = dict_trump)
+
+head(trump_insult)
+```
+

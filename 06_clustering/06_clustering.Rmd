@@ -1,0 +1,205 @@
+---
+title: "Clustering texts"
+subtitle: "K-means and Hierarchical clustering"
+date: '2020 November'
+output:
+    html_document:
+        code_folding: "show"
+        number_sections: TRUE
+        toc: true
+        toc_depth: 4
+        toc_float: true
+        theme: flatly
+        highlight: tango
+        css: ../rmd_style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      collapse = TRUE,
+                      comment = "#>",
+                      message = FALSE
+)
+```
+
+
+```{r}
+library(quanteda)
+library(quanteda.corpora)
+
+library(gridExtra)
+
+library(factoextra)
+library(ggplot2)
+library(ggdendro)
+
+```
+
+```{r}
+set.seed(042)
+```
+
+
+
+# Clustering texts
+
+## Text similarity refresher
+
+(This section is from Pablo Barbera's LSE course materials. For links see the workshop repo description)
+
+```{r}
+docs <- c("this is document one", "this is document two")
+(doc_dfm <- dfm(docs))
+```
+
+Calculate distance and similarity with the use of the Eucledian distance and cosine similarity
+
+Euclidean distrance:
+```{r}
+textstat_dist(doc_dfm, method = "euclidean")
+```
+
+Remember: $d_2(X_i, X_j)=(\sum(X_{i,k}-X_{j,k})^2)^{1/2}$
+
+The distances we want to compute
+```{r}
+(d1 <- as.numeric(doc_dfm[1,]))
+
+(d2 <- as.numeric(doc_dfm[2,]))
+```
+
+Doing it by hand
+```{r}
+sqrt(sum((d1 - d2)^2))
+```
+
+Important: Euclidean distance measures the *distance* of the documents. If we want to express similarity with this we need to formulate it as (1-distance) = similarity.
+
+
+Cosine similarity
+```{r}
+textstat_simil(doc_dfm, method="cosine")
+```
+
+Cosine similarity is computed as: $\frac{\sum A*B}{\sqrt{\sum A^2} * \sqrt{\sum B^2}}$
+
+```{r}
+sum(d1 * d2) / (sqrt(sum(d1^2)) *  sqrt(sum(d2^2)))
+```
+
+## Clustering texts
+
+We use the US presidents' State of the Union speeches to try and cluster them with K-means and hierarchical clustering.
+
+```{r}
+sotu <- corpus_subset(data_corpus_sotu, Date >= "1990-01-01")
+
+summary(sotu, 5)
+
+ndoc(sotu)
+```
+
+Let's do the usual steps and create a dfm.
+
+```{r}
+sotu_dfm <- dfm(sotu, remove_punct = TRUE, remove_numbers = TRUE, 
+                stem = TRUE, remove = stopwords("english")) %>% 
+    dfm_trim(min_docfreq = 3) %>% 
+    dfm_weight("prop")
+
+sotu_dfm
+```
+
+The K-means clustering happens with the `kmeans` function which is built in the base R toolkit. We try first with `centers = 2` to see if we can get a republican democrat divide.
+
+```{r}
+sotu_k <- kmeans(sotu_dfm, centers = 2)
+
+table(sotu_k$cluster)
+```
+
+
+Seems OK.
+```{r}
+head(docvars(sotu)$President[sotu_k$cluster == 1])
+
+head(docvars(sotu)$President[sotu_k$cluster == 2])
+```
+
+We can investigate the feature level as well.
+
+```{r}
+head(textstat_keyness(sotu_dfm, target = sotu_k$cluster == 1), n = 15)
+```
+
+```{r}
+head(textstat_keyness(sotu_dfm, target = sotu_k$cluster == 2), n = 15)
+```
+
+
+### How many K?
+
+How many K do we need? We can choose between three methods, the elbow, silhouette and gap statistics. For more on them, see this practical guide: [https://uc-r.github.io/kmeans_clustering](https://uc-r.github.io/kmeans_clustering).
+
+These methods have been implemented for the `factoextra` package so they are easy to visualize.
+
+```{r}
+
+fviz_nbclust(as.matrix(sotu_dfm), kmeans, method = "wss")
+
+```
+
+
+Visual representation of our k-means
+
+```{r}
+fviz_cluster(sotu_k, data = sotu_dfm)
+```
+
+Let's compare the evolution with different K-s.
+
+```{r}
+k2 <- kmeans(sotu_dfm, centers = 2)
+k3 <- kmeans(sotu_dfm, centers = 3)
+k4 <- kmeans(sotu_dfm, centers = 4)
+k5 <- kmeans(sotu_dfm, centers = 5)
+
+# plots to compare
+p1 <- fviz_cluster(k2, geom = "point", data = sotu_dfm) + ggtitle("k = 2")
+p2 <- fviz_cluster(k3, geom = "point",  data = sotu_dfm) + ggtitle("k = 3")
+p3 <- fviz_cluster(k4, geom = "point",  data = sotu_dfm) + ggtitle("k = 4")
+p4 <- fviz_cluster(k5, geom = "point",  data = sotu_dfm) + ggtitle("k = 5")
+
+
+gridExtra::grid.arrange(p1, p2, p3, p4, nrow = 2)
+```
+
+
+## Hierarchical clustering
+
+The process of hierarchical clustering rests on computing some sort of distance measure and then start our bottom-up aggregation process. IMPORTANT, use some sort of normalization (we did with the `dfm_weight` in the beggining) for the Euclidean distance computation!
+
+```{r}
+sotu_dist_mat <- as.dist(textstat_dist(sotu_dfm, method = "euclidean"))
+```
+
+
+The clustering algorithm is provided by the base R function `hclust`
+
+```{r}
+sotu_hclust <- hclust(sotu_dist_mat, method = "complete")
+```
+
+
+A visual representation with base R
+```{r}
+plot(sotu_hclust)
+```
+
+
+A nicer plot can be made with the `ggdendro` package
+
+```{r}
+ggdendrogram(sotu_hclust, rotate = FALSE)
+```
+

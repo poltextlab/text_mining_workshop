@@ -1,0 +1,121 @@
+---
+title: "Scaling"
+subtitle: "Wordfish and Wordscores"
+date: '2020 November'
+output:
+    html_document:
+        code_folding: "show"
+        number_sections: TRUE
+        toc: true
+        toc_depth: 4
+        toc_float: true
+        theme: flatly
+        highlight: tango
+        css: ../rmd_style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      collapse = TRUE,
+                      comment = "#>",
+                      message = FALSE
+)
+```
+
+
+
+```{r}
+library(quanteda)
+library(quanteda.textmodels)
+library(readtext)
+library(dplyr)
+library(stringr)
+```
+
+We are using the UNGA data again.
+
+We carry out the same pre-processing steps that we did previously.
+
+```{r}
+unga_texts <- readtext("data/unga/*.txt")
+
+unga_texts$doc_id <- str_extract(unga_texts$doc_id, "[^\\.]*")
+
+unga_texts$potus <- str_sub(unga_texts$doc_id, end = -3)
+
+unga_texts$year <- str_sub(unga_texts$doc_id, start = -2) %>% 
+    str_c("-01-01") %>% 
+    lubridate::ymd() %>% 
+    lubridate::year()
+```
+
+
+# Wordfish
+
+The wordfish model is implemented in quanteda as `textmodel_wordfish()`. We need a dfm for it.
+
+```{r}
+unga_dfm <- corpus(unga_texts) %>% 
+    tokens(remove_symbols = TRUE,
+           remove_numbers = TRUE,
+           remove_punct = TRUE) %>% 
+    tokens_tolower() %>% 
+    tokens_remove(stopwords("english")) %>%
+    dfm()
+```
+
+
+
+Then we fit our wordfish. Let’s suppose that this is Trump and Obama in their first term.
+
+```{r}
+unga_dfm@docvars
+
+unga_wf <- textmodel_wordfish(unga_dfm, dir = c(4,6))
+```
+
+```{r}
+summary(unga_wf)
+```
+
+Let's plot it
+
+```{r}
+textplot_scale1d(unga_wf)
+```
+
+We can also plot the features and highlight a selected sample of them. We use the margin argument to switch to features instead of the aggregated document level plot, like above. In the below plot, the Estimated beta is the weight of the given word, while the Estimated psi is the word fixed effects. For the interpretation it means that more frequent words should appear in each text because they do not have a political meaning (such as prepositions). So while a common word might have a high fixed effect, it has a weight of zero because of it’s lack of political meaning.
+
+```{r}
+textplot_scale1d(unga_wf, margin = "features",
+                 highlighted = c("terror","sovereignity", "islam", "war", "nuclear", "iran"),
+                 highlighted_color = "orangered2")
+```
+
+## Wordscores
+
+We set the reference scores to `NA` except of Trump and Obama.
+
+```{r}
+docvars(unga_dfm, "reference_score") <- NA
+
+docvars(unga_dfm, "reference_score")[4] <- 1
+docvars(unga_dfm, "reference_score")[6] <- -1
+```
+
+
+And we fit the model
+```{r}
+unga_ws <- textmodel_wordscores(unga_dfm, y = docvars(unga_dfm, "reference_score"), scale = c("linear"),
+smooth = 0)
+
+
+summary(unga_ws, 10)
+```
+
+```{r}
+unga_ws_pred <- predict(unga_ws, newdata = unga_dfm)
+
+textplot_scale1d(unga_ws_pred)
+```
+

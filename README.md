@@ -5,7 +5,7 @@
 ## Topics
 
 | **#** | **Topic** | **Scripts** |
-| --- | ---- |----------------------------------------------- | --- | --- |
+| --- | ----------------------------------------------- | --- |
 |  1  | Intro to R | [Link]() |
 |  2  | Descriptive statistics (and pre-processing)  | [Link]() |
 |  3  |Descriptive statistics |[Link]() |

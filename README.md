@@ -1,4 +1,4 @@
-## Text Mining Workshop @ PTI TK POLTEXT 
+## Text Mining Workshop @ TK PTI POLTEXT 
 
 ## Topics
 

@@ -11,6 +11,7 @@
 |  5  |  Machine learning applications | [Link](https://poltextlab.github.io/text_mining_workshop/05_supervised_ml/05_supervised_ml.html) |
 |  6  |  Text similarity and clustering | [Link](https://poltextlab.github.io/text_mining_workshop/06_clustering/06_clustering.html) |
 |  7  | Scaling | [Link](https://poltextlab.github.io/text_mining_workshop/07_scaling/07_scaling.html) |
+|  8  | Topic models | [Link](https://github.com/poltextlab/text_mining_workshop/tree/main/08_topic_models) |
 
 
 

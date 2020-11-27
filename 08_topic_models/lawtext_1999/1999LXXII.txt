@@ -1,0 +1,220 @@
+1999. évi LXXII. törvény
+
+a polgárok személyi adatainak kezelésével összefüggő egyes törvények módosításáról  [LÁBJEGYZET_1] 
+
+I. Fejezet
+1. § (1) A személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény (a továbbiakban: Avtv.) 2. §-ának 4. pontja helyébe a következő rendelkezés lép:
+(E törvény alkalmazása során)
+„4. a) adatkezelés: az alkalmazott eljárástól függetlenül a személyes adatok gyűjtése, felvétele és tárolása, feldolgozása, hasznosítása (ideértve a továbbítást és a nyilvánosságra hozatalt) és törlése. Adatkezelésnek számít az adatok megváltoztatása és további felhasználásuk megakadályozása is;
+b) adatfeldolgozás: az adatkezelési műveletek, technikai feladatok elvégzése, függetlenül a műveletek végrehajtásához alkalmazott módszertől és eszköztől, valamint az alkalmazás helyétől.”
+(2) Az Avtv. 2. §-ának 7. pontja helyébe a következő rendelkezés lép:
+„7. a) adatkezelő: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely a személyes adatok kezelésének célját meghatározza, az adatkezelésre vonatkozó döntéseket meghozza és végrehajtja, illetőleg a végrehajtással adatfeldolgozót bízhat meg. Kötelező adatkezelés esetén az adatkezelés célját és feltételeit, valamint az adatkezelőt az adatkezelést elrendelő törvény vagy önkormányzati rendelet határozza meg;
+b) adatfeldolgozó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely az adatkezelő megbízásából személyes adatok feldolgozását végzi.”
+2. § Az Avtv. a következő új alcímmel és 4/A. §-sal egészül ki:
+„Adatfeldolgozás
+4/A. § (1) Az adatfeldolgozónak a személyes adatok feldolgozásával kapcsolatos jogait és kötelezettségeit e törvény, valamint az adatkezelésre vonatkozó külön törvények keretei között az adatkezelő határozza meg. Az adatkezelési műveletekre vonatkozó utasítások jogszerűségéért az adatkezelő felel.
+(2) Az adatfeldolgozó tevékenységi körén belül, illetőleg az adatkezelő által meghatározott keretek között felelős a személyes adatok feldolgozásáért, megváltoztatásáért, törléséért, továbbításáért és nyilvánosságra hozataláért. Az adatfeldolgozó tevékenységének ellátása során más adatfeldolgozót nem vehet igénybe.”
+3. § Az Avtv. 6. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az érintettet tájékoztatni kell az adatkezelés céljáról és arról, hogy az adatokat kik fogják kezelni, illetve feldolgozni. Az adatkezelésről való tájékoztatás megtörténik azzal is, hogy jogszabály rendelkezik a már létező adatkezelésből továbbítással vagy összekapcsolással az adat felvételéről.”
+4. § Az Avtv. 10. §-a helyébe a következő rendelkezés lép:
+„10. § (1) Az adatkezelő, illetőleg tevékenységi körében az adatfeldolgozó köteles gondoskodni az adatok biztonságáról, köteles továbbá megtenni azokat a technikai és szervezési intézkedéseket és kialakítani azokat az eljárási szabályokat, amelyek e törvény, valamint az egyéb adat- és titokvédelmi szabályok érvényre juttatásához szükségesek.
+(2) Az adatokat - kiemelten az államtitokká és a szolgálati titokká minősített személyes adatot - védeni kell különösen a jogosulatlan hozzáférés, megváltoztatás, nyilvánosságra hozás vagy törlés, illetőleg sérülés vagy a megsemmisülés ellen.”
+5. § Az Avtv. 12. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az érintett kérelmére az adatkezelő tájékoztatást ad az általa kezelt, illetőleg az általa megbízott feldolgozó által feldolgozott adatairól, az adatkezelés céljáról, jogalapjáról időtartamáról, az adatfeldolgozó nevéről, címéről (székhelyéről) és az adatkezeléssel összefüggő tevékenységéről, továbbá arról, hogy kik és milyen célból kapják vagy kapták meg az adatokat. Az adattovábbításra vonatkozó nyilvántartás - és ennek alapján a tájékoztatási kötelezettség - időtartamát az adatkezelést szabályozó jogszabály korlátozhatja. A korlátozás időtartama személyes adatok esetében öt évnél, különleges adatok esetében pedig húsz évnél rövidebb nem lehet.”
+6. § Az Avtv. 18. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az adatkezelő az érintett adatainak jogellenes kezelésével vagy a technikai adatvédelem követelményeinek megszegésével másnak okozott kárt köteles megtéríteni. Az érintettel szemben az adatkezelő felel az adatfeldolgozó által okozott kárért is. Az adatkezelő mentesül a felelősség alól, ha bizonyítja, hogy a kárt az adatkezelés körén kívül eső elháríthatatlan ok idézte elő.”
+7. § (1) Az Avtv. 26. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az államtitok és szolgálati titok az adatvédelmi biztost e §-ban szabályozott jogainak gyakorlásában nem akadályozhatja, de a titok megtartására vonatkozó rendelkezések rá nézve is kötelezőek. Az államtitkot vagy a szolgálati titkot érintő adatkezelés esetén az adatvédelmi biztos jogait csak személyesen, vagy az általa kezdeményezett nemzetbiztonsági ellenőrzésen átesett munkatársai útján gyakorolhatja.”
+(2) Az Avtv. 28. §-a (1) bekezdésének g) pontja helyébe a következő rendelkezés lép:
+(Az adatkezelő köteles e tevékenysége megkezdése előtt az adatvédelmi biztosnak nyilvántartásba vétel végett bejelenteni)
+„g) az adatkezelő, valamint az adatfeldolgozó nevét és címét (székhelyét), a tényleges adatkezelés, illetve az adatfeldolgozás helyét és az adatfeldolgozónak az adatkezeléssel összefüggő tevékenységét.”
+II. Fejezet
+8. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 1. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) E törvény a nyilvántartás törvényességét annak célhoz kötöttségével, az adatkezelés feltételeinek és a személyes adatok körének pontos meghatározásával, az adatkezelési jogosultságoknak a nyilvántartás szervei közötti megosztásával, továbbá az adatkezelés időbeni korlátozásával biztosítja.”
+9. § Az Nytv. 4. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) E törvény hatálya kiterjed a személyiadat-nyilvántartási, az adatkezelési, a lakcímbejelentési eljárásra és - a külföldön élő magyar állampolgárok kivételével - a személyazonosító igazolvánnyal kapcsolatos eljárásra, valamint a személyazonosítás célját szolgáló és jogosultságot igazoló egyéb okmányok kiadásával összefüggő eljárásra.”
+10. § Az Nytv. 5. §-ának (10) bekezdése helyébe a következő rendelkezés lép:
+„(10) Archív adatok azok az adatok, amelyek a polgár adatainak változása miatt már nem részei az aktuális és a történeti adatállománynak, továbbá azok a korábbi alapiratok, amelyek a nyilvántartás alapját képezték.”
+11. § Az Nytv. 5. §-a a következő (11)-(12) bekezdésekkel egészül ki:
+„(11) Személyi azonosító: a nyilvántartás hatálya alá tartozó polgárt törvényben meghatározott adatkezelés során egyértelműen azonosító, különleges adatra nem utaló - külön törvényben meghatározott módon képzett - számjegysor.
+(12) Okmányazonosító: a személyi azonosítót és a lakcímet igazoló hatósági igazolvány nyomtatványnak, illetőleg a személyazonosító igazolvány nyomtatványának azonosítására alkalmazott jel.”
+12. § Az Nytv. 6. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az e törvényben meghatározott feladatokat a települési (fővárosi kerületi) önkormányzat jegyzője, a megyei, fővárosi közigazgatási hivatal vezetője és a 9. §-ban meghatározott - az egész országra kiterjedő illetékességgel működő - központi hivatal látja el.”
+13. § Az Nytv. 7. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A jegyző
+a) kezdeményezi a település közigazgatási területén lakcímmel rendelkező polgár adatainak, illetve adatváltozásainak, valamint a polgár adataiban a település közigazgatási területén bekövetkezett változásnak a nyilvántartáson történő átvezetését;
+b) végzi a polgár személyi azonosítóval történő ellátásával, annak módosításával, illetőleg visszavonásával kapcsolatos feladatokat;
+c) ellátja a lakcímbejelentés tudomásul vételével összefüggő első fokú hatósági feladatokat;
+d) a törvényben meghatározott feltételek fennállása esetén adatszolgáltatást teljesít a nyilvántartásból;
+e) az érintett egészségügyi okból történő akadályoztatása esetén - ha nem végzi a 7/A. § szerinti feladatokat - átveszi a polgár személyazonosító igazolvány iránti kérelmét, ellenőrzi a kérelmező jogosultságát és személyazonosságát, ellátja a kérelem továbbításával kapcsolatban hatáskörébe utalt hatósági feladatokat;
+f) közokiratot ad ki a nyilvántartott adatokról;
+g) gondoskodik a személyes adatok védelméről.”
+14. § Az Nytv. 7/A. §-a helyébe a következő rendelkezés lép:
+„7/A. § (1) A kormányrendeletben kijelölt - körzetközponti feladatokat ellátó - települési (fővárosi kerületi) önkormányzat jegyzője a polgármesteri hivatal részeként okmányirodát működtet, amelynek a folyamatos és a szakmai szabályoknak megfelelő működését a települési (fővárosi kerületi) önkormányzat biztosítja. A jegyző - a kormányrendeletben meghatározott illetékességi területén lakcímmel rendelkező polgár tekintetében -
+a) ellenőrzi a személyazonosító igazolvány iránti kérelem adatait, intézkedik az okmány kitöltéséről és gondoskodik a polgár részére történő átadásáról;
+b) végzi a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kitöltésével, nyilvántartásával és a polgár részére történő kézbesítésével kapcsolatos feladatokat;
+c) ellátja a személyazonosítás céljára szolgáló, illetőleg jogosultságot igazoló okmányok kiadásával kapcsolatosan hatáskörébe utalt, törvényben meghatározott adatkezelési feladatokat.
+ (2) A személyazonosító igazolvánnyal összefüggő hatósági ügyben első fokon a körzetközponti feladatokat ellátó települési (fővárosi kerületi) önkormányzat jegyzője jár el.”
+15. § Az Nytv. a következő 7/B. §-sal egészül ki:
+„7/B. § A körzetközponti feladatokat ellátó település jegyzője az illetékességi területén lakcímmel rendelkező polgár tekintetében átvezeti a nyilvántartáson a személyi és lakcímadatokat, illetőleg adatváltozásokat, továbbá a polgárnak a jegyző illetékességi területén bekövetkezett adatváltozását.”
+16. § Az Nytv. 8. §-a (2) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+(A megyei, fővárosi közigazgatási hivatal vezetője a nyilvántartás működtetésével kapcsolatos technikai feltételek biztosítása során)
+„a) közreműködik a nyilvántartás adatkezelésének és adatszolgáltatásának megszervezésében;”
+17. § (1) Az Nytv. 9. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A személyiadat- és lakcímnyilvántartás adatkezelője országos illetékességgel a belügyminiszter irányítása alatt álló önálló központi hivatal (a továbbiakban: Hivatal).”
+(2) Az Nytv. 9. §-a (2) bekezdésének a)-d) pontjai helyébe a következő rendelkezések lépnek:
+(A Hivatal feladata és hatásköre:)
+„a) szakmailag irányítja és ellenőrzi a nyilvántartás szervei feladatainak teljesítését;
+b) első fokú hatósági jogkörében gondoskodik a személyi azonosító képzéséről;
+c) kezeli és működteti a nyilvántartás központi rendszerét és abból - a törvényben meghatározott feltételek fennállása esetében - első fokú hatósági jogkörében adatszolgáltatást teljesít;
+d) ellenőrzi a nyilvántartásban kezelt adatok helyességét;”
+(3) Az Nytv. 9. §-a (2) bekezdésének f) pontja helyébe a következő rendelkezés lép:
+„f) első fokú hatósági jogkörében ellátja a 4. § (2) bekezdése alapján a törvény hatálya alá tartozó, külföldön élő magyar állampolgárok adatainak nyilvántartásba vételével, a nyilvántartott adatok módosításával, illetőleg törlésével kapcsolatos feladatokat;”
+(4) Az Nytv. 9. §-a (2) bekezdésének g) pontja helyébe a következő rendelkezés lép:
+„g) adatfeldolgozót bízhat meg egyes adatkezelési műveletek, technikai feladatok elvégzésével;”
+(5) Az Nytv. 9. §-a (2) bekezdésének h) pontja helyébe a következő rendelkezés lép:
+„h) a polgárnak a személyazonosító igazolványban szereplő adatai alapján történő azonosítása, illetőleg azok igazolása céljából a személyazonosító igazolvány nyilvántartásban kezeli a 29. § (3) bekezdése szerinti adatokat, továbbá a személyazonosító igazolvány elvesztésére, illetve találására utaló adatokat, valamint a személyazonosító igazolvány elvételének vagy bevonásának tényét és következő indokait:
+ha) a katonai szolgálatra történő bevonulást,
+hb) a szabadságvesztés, kényszergyógykezelés, vagy pénzbírságot helyettesítő elzárás letöltésének megkezdését, az őrizetbe vagy előzetes letartóztatásba vételt,
+hc) a Magyar Köztársaság területének külföldi letelepedés szándékával történő elhagyását,
+hd) a bevándorlási engedély visszavonását, illetőleg a menekült jogállás megszűnését,
+he) a magyar állampolgárság megszűnését,
+hf) a tulajdonos halálát.”
+(6) Az Nytv. 9. §-a a következő (3)-(4) bekezdéssel egészül ki:
+„(3) A Hivatal Központi Okmánytárában - adatlapokon, illetve számítógépes adathordozón tárolva - kezeli:
+a) a személyazonosító igazolvány adatlapokat és fényképeket, a lakcímjelentő lapokat, valamint az ezen iratokban szereplő adatok változását igazoló okmányokat;
+b) a külföldön élő magyar állampolgároknak a nyilvántartással kapcsolatos bejelentéseit, illetőleg nyilatkozatait tartalmazó iratokat;
+c) a nyilvántartási eljárásban keletkezett - a nyilvántartásba vétellel, az abból való törléssel, adatszolgáltatási korlátozással, adatváltozással, adathelyesbítéssel kapcsolatos alapiratokat, az anyakönyvi bejegyzések alapiratainak kivételével;
+d) a területszervezési, közigazgatás-szervezési, címváltozási iratokat.
+(4) A (3) bekezdés a) pontja szerinti, 1993. június 1-je előtt keletkezett iratokat és fényképeket a Központi Okmánytár elkülönítetten, zárt archívumként kezeli. Ebben az adatállományban csak a passziválás okát és időpontját lehet átvezetni.
+Az adatállományból adatot szolgáltatni az érintetten kívül, a bíróság és a nemzetbiztonsági szolgálatok, a nyomozó hatóságok, az ügyészség, valamint a Belügyminisztérium állampolgársági és névváltoztatási ügyeket intéző szerve törvényben előírt feladatainak ellátásához, továbbá a 17. § (2) bekezdésének a)-c) pontjai szerinti adatok felhasználásának célját és jogalapját igazoló adatigénylő részére lehet, feltéve, ha az adatszolgáltatást a történeti adatállományból nem lehet teljesíteni.”
+18. § (1) Az Nytv. 11. §-a (1) bekezdésének b) pontja helyébe a következő rendelkezés lép:
+(A nyilvántartás tartalmazza a polgár)
+„b) magyar vagy külföldi állampolgárságát, illetőleg hontalanságát (a továbbiakban: állampolgárság), valamint menekült, illetőleg bevándorolt jogállását;”
+(2) Az Nytv. 11. §-a (1) bekezdésének f) pontja helyébe a következő rendelkezés lép:
+„f) személyi azonosítóját;”
+(3) Az Nytv. 11. §-a (1) bekezdésének k) pontja helyébe a következő rendelkezés lép:
+„k) családi állapotát, a házasságkötés helyét;”
+(4) Az Nytv. 11. §-ának (1) bekezdése a következő m) ponttal egészül ki:
+„m) személyazonosító igazolványának, továbbá személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját.”
+19. § Az Nytv. 12. §-a helyébe a következő rendelkezés lép:
+„12. § (1) A nyilvántartás történeti állománya tartalmazza a polgár minden eddigi, a törvény hatálya alá tartozó adatát és adatváltozását az érintett elhalálozásától, magyar állampolgárságának megszűnésétől, illetőleg a külföldi letelepedés szándékával külföldre távozásától számított 15 évig.
+(2) A Központi Okmánytárban a 9. § (3) bekezdésében meghatározott adatokat, illetőleg okiratokat az (1) bekezdés szerinti időpont lejártától számított negyven évig kell megőrizni.
+(3) A nyilvántartás történeti állományából, valamint a Központi Okmánytárból - a 9. § (4) bekezdésében tett kivétellel - e törvény általános szabályai szerint teljesíthető adatszolgáltatás.
+(4) A történeti állományban, továbbá a Központi Okmánytárban tárolt adatokat, okiratokat az e törvényben meghatározott megőrzési idő lejárta után egy éven belül meg kell semmisíteni, illetőleg törölni kell.”
+20. § (1) Az Nytv. 17. §-a (2) bekezdésének b) pontja helyébe a következő rendelkezés lép:
+(A nyilvántartásból adatok az alábbi csoportosításban szolgáltathatók:)
+„b) név- és lakcímadatok, anyja neve, állampolgárság, születési hely, születési idő, családi állapot, a házasságkötés helye, a nem, a nyilvántartásból való kikerülés oka, helye és ideje;”
+ (2) Az Nytv. 17. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A személyazonosító igazolvány okmányazonosítója alapján a személyazonosító igazolvány nyilvántartásból, a polgár, a jogi személy és a jogi személyiséggel nem rendelkező szervezet írásbeli kérelmére, a felhasználás céljának és jogalapjának igazolása esetén a személyazonosító igazolvány kiadásáról, érvényességének, elvesztésének, ellopásának, megsemmisülésének, találásának, megkerülésének tényéről adatok szolgáltathatók.”
+(3) Az Nytv. 17. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A körzetközponti feladatokat ellátó települési önkormányzat jegyzője, illetőleg a Hivatal annak a személyazonosító igazolványnak az adatairól, amelynek elvesztését, ellopását vagy megsemmisülését bejelentették, a személyazonosító igazolvány jogosulatlan felhasználásának megakadályozása céljából értesíti a rendőrség személy-, tárgy- és gépjármű-körözési nyilvántartását vezető szervet.”
+21. § (1) Az Nytv. 18. §-a helyébe a következő rendelkezés lép:
+„18. § (1) Egyedi adatszolgáltatás elsősorban az adatigénylő lakó- vagy tartózkodási helye, székhelye, telephelye szerint, illetőleg az érintett polgár ismert lakcíme szerint illetékes jegyzőtől kérelmezhető. A Központi Hivataltól akkor igényelhető az egyedi adatszolgáltatás, ha az a jegyző által - a szükséges technikai feltételek hiányában, vagy egyéb okból - nem, illetőleg csak célszerűtlenül teljesíthető.
+(2) Csoportos adatszolgáltatás a településen, illetőleg az okmányiroda illetékességi területén lakcímmel rendelkező polgárok adatairól az illetékes jegyzőtől, a polgárok szélesebb körének adatait érintően a Hivataltól igényelhető.
+(3) Adatszolgáltatás helyett a kérelmező igényelheti, hogy kapcsolatfelvétel céljából a nyilvántartás illetékes szerve az általa megjelölt személyt, személyi kört keresse meg és
+a) kérje írásos hozzájárulását ahhoz, hogy név- és lakcímadataikat a kérelmező rendelkezésére bocsáthassa, vagy
+b) arról értesítse, hogy a kérelmezőt közvetlenül keresse meg, ha vele a kapcsolatot fel kívánja venni.”
+(2) Az Nytv. 19. §-ának (4) bekezdése a következő új d) ponttal egészül ki:
+(A kérelem teljesítését meg kell tagadni, ha)
+„d) az újszülött adatainak nyilvántartásba vételét követően kilencven nap még nem telt el.”
+22. § Az Nytv. 23. §-ának a) pontja helyébe a következő rendelkezés lép:
+[E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak]
+„a) a választási szerv a népszavazásról és a népi kezdeményezésről szóló törvényekben és önkormányzati rendeletekben, továbbá a népszámlálásról szóló törvényben, valamint az országgyűlési, a helyi önkormányzati és kisebbségi önkormányzati képviselő, az országos kisebbségi önkormányzati közgyűlés tagjai és a polgármesterek választásáról szóló törvényekben meghatározott feladatai ellátásához;”
+23. § Az Nytv. 28. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Magyar Köztársaság területét a külföldi letelepedés szándékával elhagyó magyar vagy - a nyilvántartás hatálya alá tartozó - külföldi állampolgár, illetőleg hontalan személy lakcím ügyében a 7. § (1) bekezdése szerint illetékes jegyző jár el.”
+24. § (1) Az Nytv. 29. §-a (3) bekezdésének f) pontja helyébe a következő rendelkezés lép:
+(A személyazonosító igazolvány tartalmazza a polgár)
+„f) nemét;”
+(2) Az Nytv. 29. §-a (3) bekezdésének h)-i) pontja helyébe a következő rendelkezések lépnek:
+„h) saját kezű aláírását, illetőleg a cselekvőképességet kizáró gondnokság alá helyezett személy törvényes képviselőjének aláírását,
+i) a személyazonosító igazolvány okmányazonosítóját és érvényességi idejét.”
+(3) Az Nytv. 29. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A polgár személyazonosságát - a személyazonosító igazolványon túl - minden olyan hatósági igazolvány igazolja, amely tartalmazza a (3) bekezdés a)-d) és g)-h) pontjaiban meghatározott adatokat. Az előzőeknek megfelelő adattartalmú érvényes hatósági igazolvány bemutatása esetében személyazonosítás céljából - jogszabályban meghatározott kivételekkel - a polgár nem kötelezhető más okmány bemutatására.”
+(4) Az Nytv. 29. §-a a következő új (5) bekezdéssel egészül ki, egyidejűleg a jelenlegi (5) bekezdés számozása (6) bekezdésre változik:
+„(5) A személyazonosító igazolvány nemzetközi szerződésben meghatározott esetben külföldre utazásra, illetőleg onnan való visszatérésre jogosító hatósági igazolvány.”
+(5) Az Nytv. 29. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A polgár köteles igényelni a személyazonosító igazolvány kiadását, amennyiben nem rendelkezik más érvényes, a személyazonosságát igazoló hatósági igazolvánnyal.”
+25. § Az Nytv. 31. §-a a következő (5)-(8) bekezdésekkel egészül ki:
+„(5) A jegyző nyilvántartást vezet azokról a köztisztviselőkről, akik az eljárás során jogosultak az egyes okmány-nyilvántartások adataihoz hozzáférni.
+(6) Az (5) bekezdésben meghatározott nyilvántartás tartalmazza:
+a) az érintett köztisztviselő természetes személyazonosító adatait;
+b) okmány-nyilvántartásonként elkülönítve a hozzáférési jogosultságot, a hozzáférési jogosultság kezdő időpontját és időtartamát, valamint a hozzáférési jogosultság módosításának, visszavonásának okát és időpontját.
+(7) A jegyző az érintett köztisztviselő nevét, nyilvántartási kód számát és a (6) bekezdés b) pontjában meghatározott adatokat legkésőbb a jogosultság kezdő időpontját megelőző munkanapon közli a Hivatallal.
+(8) A nyilvántartás adatait a hozzáférési jogosultság megszűnésétől számított 5 évig kell megőrizni.”
+26. § Az Nytv. 36. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az adatszolgáltatásért, valamint a 18. § (3) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, illetőleg értesítésért - ha jogszabály másként nem rendelkezik - a belügyminiszter rendeletében meghatározott összegű igazgatási szolgáltatási díjat kell fizetni.”
+27. § (1) Az Nytv. 47. §-a (1) bekezdésének b) pontja helyébe a következő rendelkezés lép:
+(A Kormány felhatalmazást kap arra, hogy rendeletben állapítsa meg)
+„b) az okmányirodák illetékességi területét és működésük szabályait.”
+(2) Az Nytv. 47. §-a (2) bekezdésének c) pontja helyébe a következő rendelkezés lép:
+(A belügyminiszter felhatalmazást kap arra, hogy rendeletben szabályozza)
+„c) a pénzügyminiszterrel egyetértésben az adatszolgáltatásért, valamint a kapcsolatfelvétel céljából való megkeresésért, illetőleg értesítésért fizetendő igazgatási szolgáltatási díj összegét;”
+(3) Az Nytv. 47. §-ának (2) bekezdése a következő e) ponttal egészül ki:
+(A belügyminiszter felhatalmazást kap arra, hogy rendeletben szabályozza)
+„e) az okmányirodák működésének személyi és technikai feltételeit.”
+(4) Az Nytv. 47. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A helyi önkormányzatok felhatalmazást kapnak arra, hogy - a belügyminiszterrel egyeztetve - rendeletben meghatározzák azokat a szervezeteket, amelyek a nyilvántartás részére adatfeldolgozást végezhetnek.”
+ (5) Az Nytv. 47. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Az okmányirodák működését és illetékességi területét a belügyminiszter - kétévenként - rendszeresen felülvizsgálja. A felülvizsgálat eredményeként, vagy a települési önkormányzat képviselő-testületének kezdeményezésére a belügyminiszter a Kormánynál kezdeményezheti okmányiroda illetékességi területének módosítását, okmányiroda létesítését vagy megszüntetését.”
+III. Fejezet
+28. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaz. tv.) 29. §-ának (1) bekezdése a következő f)-g) ponttal egészül ki:
+(A személyi azonosítót igazoló hatósági igazolvány tartalma:)
+„f) a lakcím, a tartózkodási hely cím érvényességi ideje,
+g) okmányazonosító.”
+29. § A Szaz. tv. 29. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A személyi azonosítót igazoló hatósági igazolványt úgy kell kiállítani, hogy abból az érintett polgár személyi azonosítója és lakcím adata egyidejűleg ne váljon megismerhetővé.”
+30. § A Szaz. tv. 32. §-ának g) pontja helyébe a következő rendelkezés lép:
+(A személyi azonosító kezelésére - adattovábbítás kivételével - jogosult)
+„g) a választási szerv a népszavazásról és a népi kezdeményezésről szóló törvényekben és önkormányzati rendeletekben, továbbá a népszámlálásról szóló törvényben, valamint az országgyűlési, a helyi önkormányzati és kisebbségi önkormányzati képviselő, az országos kisebbségi önkormányzati közgyűlés tagjai és a polgármesterek választásáról szóló törvényekben meghatározott feladatai ellátásához;”
+31. § A külföldre utazásról szóló 1998. évi XII. törvény (a továbbiakban: Utv.) 27. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Az útlevélhatóság, illetőleg a központi adatkezelő szerv a személyiadat- és lakcímnyilvántartás szerve részére a személyazonosító igazolvány kiadására irányuló eljárásban való személyazonosítás céljára adatot szolgáltathat az érintett polgár arcképmásáról és aláírásáról, valamint úti okmányának érvényességi idejéről.”
+32. § A büntetések és intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet (a továbbiakban: Bv. tvr.) 74. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A kitiltott a kitiltás tartama alatt köteles a kitiltást elrendelő határozatot vagy annak hiteles kivonatát magánál tartani, és ha a rendőrség igazoltatja, a határozatot a személyazonosító igazolvánnyal együtt bemutatni.”
+33. § A Bv. tvr. 96. §-a a következő f) ponttal egészül ki:
+(A pártfogolt köteles:)
+„f) a pártfogó felügyelet tartama alatt a pártfogó felügyeletet elrendelő határozatot magánál tartani, és ha a rendőrség igazoltatja, a határozatot a személyazonosító igazolvánnyal együtt bemutatni.”
+34. § (1) Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüavtv.) 3. §-ának i) pontja helyébe a következő rendelkezés lép, egyidejűleg a következő új l) ponttal egészül ki:
+(E törvény alkalmazásában)
+„i) adatkezelő: a betegellátó, az intézményvezető és az adatvédelmi felelős;”
+„l) adatfeldolgozó: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki vagy amely az adatkezelő megbízásából az egészségügyi és személyazonosító adatok feldolgozását végzi.”
+(2) Az Eüavtv. 5. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az egészségügyi ellátó hálózaton belül az egészségügyi és személyazonosító adat kezelésére - amennyiben e törvény másként nem rendelkezik - jogosult
+a) a betegellátó,
+b) az intézményvezető, valamint
+c) az adatvédelmi felelős.”
+(3) Az Eüavtv. 6. §-a helyébe a következő rendelkezés lép:
+„6. § Az egészségügyi és személyazonosító adatok kezelése és feldolgozása során biztosítani kell az adatok biztonságát véletlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, károsodással, nyilvánosságra kerüléssel szemben, továbbá, hogy azokhoz illetéktelen személy ne férjen hozzá.”
+(4) Az Eüavtv. 7. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az adatkezelő - a (2) bekezdésben foglalt kivétellel -, továbbá az adatfeldolgozó az orvosi titkot köteles megtartani.”
+(5) Az Eüavtv. 10. §-a (1) bekezdésének első mondata helyébe a következő rendelkezés lép:
+„(1) A 4. § (1) bekezdése szerinti célból történő adatkezelés és adatfeldolgozás esetén az egészségügyi ellátóhálózaton belül az egészségügyi és személyazonosító adatok továbbíthatók, illetve összekapcsolhatók.”
+(6) Az Eüavtv. 10. §-a (2) bekezdésének első mondata helyébe a következő rendelkezés lép:
+„(2) A 4. § (1) bekezdése szerinti adatkezelés és adatfeldolgozás esetén az érintett betegségével kapcsolatba hozható minden olyan egészségügyi adat továbbítható, amely a gyógykezelés érdekében fontos, kivéve, ha ezt az érintett írásban kifejezetten megtiltja.”
+(7) Az Eüavtv. 30. §-a (1) bekezdésének első mondata helyébe a következő rendelkezés lép, egyidejűleg a második mondatból a „(2) bekezdés kivételével” szövegrész helyébe a „(3) bekezdés kivételével” szövegrész lép:
+„(1) Az egészségügyi dokumentációt - a képalkotó diagnosztikai eljárással készült felvételek, valamint a (7) bekezdés kivételével - az adatfelvételtől számított legalább 30 évig, a zárójelentést legalább 50 évig kell megőrizni.”
+(8) Az Eüavtv. 30. §-a a következő új (2) bekezdéssel egészül ki, egyidejűleg a jelenlegi (2)-(6) bekezdések számozása (3)-(7) bekezdésre változik:
+„(2) Képalkotó diagnosztikai eljárással készült felvétel esetén az arról készített leletet kell - a felvétel készítésétől számított - legalább 30 évig megőrizni.”
+(9) Az Eüavtv. 32. §-a (2) bekezdésének b) és d) pontjai helyébe a következő rendelkezések lépnek:
+(Az intézményvezető tevékenysége során)
+„b) ellenőrzi az adatkezelők és adatfeldolgozók adatkezeléssel, illetve adatfeldolgozással összefüggő tevékenységét,”
+„d) biztosítja az adatkezeléssel és adatfeldolgozással foglalkozó személyek adatkezelési oktatását,”
+35. § A Büntető Törvénykönyvről szóló 1978. évi IV. törvény 177/A. §-a helyébe a következő rendelkezés lép:
+(Jogosulatlan adatkezelés)
+„177/A. § Az az adatkezelő vagy adatfeldolgozó, aki
+a) jogosulatlanul vagy a céltól eltérően személyes adatot kezel,
+b) személyes adatot jogellenesen továbbít, vagy nyilvánosságra hoz,
+c) személyes adatok kezelésére vonatkozó bejelentési kötelezettségét nem teljesíti,
+d) személyes adatot az arra jogosult elől eltitkol,
+e) kezelt személyes adatot meghamisít,
+f) közérdekű adatot eltitkol vagy meghamisít,
+vétséget követ el, és egy évig terjedő szabadságvesztéssel, közérdekű munkával vagy pénzbüntetéssel büntethető.”
+IV. Fejezet
+Záró rendelkezések
+36. § A települési önkormányzat jegyzője az érintett személy egészségügyi okból történő akadályoztatása esetén végzi a polgár személyazonosító igazolvány iránti kérelmének átvételével, a kérelmező jogosultságának és személyazonosságának megállapításával, valamint a kérelem továbbításával kapcsolatban hatáskörébe utalt hatósági feladatokat.
+37. § Az Nytv. 9. §-ának (3) bekezdésében felsorolt 2001. január 1-jét megelőzően keletkezett papír alapú okmányokat a központi hivatal 2010. január 1-jéig megőrzi. Ezt követően az iratokat a levéltárra vonatkozó rendelkezések szerint kell selejtezni.
+38. § (1) Ez a törvény - a (2)-(3) bekezdésben foglalt kivételekkel - a kihirdetését követő 8. napon lép hatályba, ezzel egyidejűleg az Nytv. 47. §-a (1) bekezdésének a) pontjából az „átmeneti” szövegrész hatályát veszti.
+(2) E törvény 8-9. §-ai, 11-12. §-ai, 14. §-a, 17. §-ának (4)-(5) bekezdése, 18. §-ának (2) és (4) bekezdése, 20. §-ának (2) bekezdése, 22-25. §-ai, valamint 28-33. §-ai és 36. §-a 2000. január 1-jén lépnek hatályba, ezzel egyidejűleg az Nytv. 14. §-ának f) és m) pontja, valamint a Szaz. tv. 29. §-ának (3) bekezdése, továbbá a Bv. tvr. 94. §-ának (2) bekezdéséből a „bejegyzi a pártfogolt személyi igazolványába az intézkedéssel kapcsolatos rendelkezéseket” szövegrész és a Bv. tvr. 103. §-ának (5) bekezdése hatályát veszti.
+(3) E törvény 10. §-a, 13. §-a, 15-16. §-ai, 17. §-ának (1)-(3) bekezdései, 18. §-ának (1) és (3) bekezdése, 19. §-a, 20. §-ának (1) bekezdése, 21. §-ának (1) bekezdése, továbbá 26. §-a és 37. §-a 2001. január 1-jén lépnek hatályba, ezzel egyidejűleg hatályát veszti e törvény 36. §-a, továbbá az Nytv. 3. §-ának (1) bekezdéséből a „települési (fővárosi kerületi), területi és központi szinten működő” szövegrész, az Nytv. 7. §-ának (1) bekezdése, továbbá az Nytv. 8. §-a (2) bekezdésének b)-c) pontja és 11. §-ának (2), (4)-(5) bekezdése.
+
+[LÁBJEGYZET_1] A törvényt az Országgyűlés az 1999. június 22-i ülésnapján fogadta el.

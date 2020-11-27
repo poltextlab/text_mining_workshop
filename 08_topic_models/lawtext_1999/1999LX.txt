@@ -1,0 +1,693 @@
+1999. évi LX. törvény
+
+a közbeszerzésekről szóló 1995. évi XL. törvény módosításáról  [LÁBJEGYZET_1] 
+
+Az Országgyűlés a közbeszerzésekről szóló 1995. évi XL. törvény (a továbbiakban: Kbt.) módosításáról a következő törvényt alkotja:
+1. § A Kbt. 1. §-ának a)-c) és e) pontja helyébe a következő rendelkezések lépnek:
+[E törvény hatálya alá tartoznak a következő szervezeteknek a 2. § (1) bekezdése szerinti beszerzései:]
+„a) az állam, a helyi önkormányzat, a kisebbségi települési önkormányzat, az országos, illetve a helyi kisebbségi önkormányzat, a települési önkormányzatok társulása, a központi, a helyi önkormányzati, az országos, illetve a helyi kisebbségi önkormányzati költségvetési szerv, a megyei, illetőleg a regionális fejlesztési tanács, az elkülönített állami pénzalap kezelője, a társadalombiztosítás igazgatási szerve;
+b) a köztestület és a köztestületi költségvetési szerv, valamint a közalapítvány;
+c) az a)-b) pontban meghatározott szervezet által vagy részvételével a vagyon egyharmadát meghaladó hozzájárulásával létrehozott, illetve a beszerzés megkezdésének időpontjában ilyen feltételekkel működő alapítvány, társadalmi szervezet, illetőleg az olyan közhasznú társaság, biztosító egyesület, víziközmű-társulat, ideértve ezek jogi személyiséggel rendelkező szervezeti egységét is, amely felett az a)-b) pontban meghatározott szervezet a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény (a továbbiakban: Tpt.) szerinti irányítási jogokat gyakorol;
+e) a Magyar Köztársaság Polgári Törvénykönyvéről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 685. §-ának c) pontja szerinti gazdálkodó szervezet vagy a helyi önkormányzat feladatkörébe tartozó közszolgáltatás céljából alapított önkormányzati intézmény, ha országos, regionális vagy helyi közszolgáltató tevékenység gyakorlására jogszabály alapján kizárólagos jogosítvánnyal rendelkezik;”
+2. § (1) A Kbt. 2. §-ának (1)-(2) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az 1. § szerinti szervezet árubeszerzése, építési beruházása, illetve a szolgáltatás megrendelése során, ha annak a 4. § (1) bekezdése szerinti értéke a beszerzés megkezdésekor külön meghatározott összeget eléri vagy meghaladja (a továbbiakban: közbeszerzés), köteles e törvény szabályai szerint eljárni. Az 1. § e) pontja szerinti szervezet szolgáltatás megrendelése esetén nem köteles a törvény szabályai szerint eljárni, ha a szolgáltatást olyan vállalkozástól szerzi be, amely felett a Tpt. 23. §-a szerint irányítást gyakorol, feltéve, hogy a tárgyévet megelőző három év során az irányított vállalkozás nettó árbevételének nyolcvan százaléka az irányító vállalkozással folytatott gazdasági tevékenységből keletkezett.
+(2) Az 1. § e) pontjában szereplő szervezet kizárólag a közszolgáltató tevékenységével közvetlenül összefüggő közbeszerzése tekintetében köteles e törvény szabályai szerint eljárni. A közszolgáltató tevékenységgel közvetlenül összefügg a közbeszerzés, ha annak tárgya nélkül a közszolgáltató tevékenységet nem lehetne ellátni. Az olyan közbeszerzésre, amelynek tárgya természetben nem osztható, illetőleg részekre bontása esetén nem használható megfelelően és a közbeszerzés tárgyát az ajánlatkérő a közszolgáltató, illetve az azon kívüli tevékenységéhez egyaránt felhasználja, a törvény szabályait kell alkalmazni.”
+(2) A Kbt. 2. §-ának (4) bekezdése helyébe a következő rendelkezés lép, egyúttal a § az alábbi (5)-(6) bekezdéssel egészül ki:
+„(4) E törvény szabályai szerint jogosult eljárni
+a) az 1. §-ban meghatározott szervezet a (3) bekezdés szerinti értékhatár alatti értékű - a központosított közbeszerzés hatálya alá nem tartozó - beszerzése során;
+b) az 1. § e) pontja szerinti szervezet a közszolgáltató tevékenységével közvetlenül össze nem függő beszerzése során.
+(5) Az e törvényt a (4) bekezdés alapján önkéntesen alkalmazó szervezetre vagy személyre a törvény minden rendelkezése vonatkozik.
+(6) A 6. § i) pontja alapján eltérő szerződéskötési szabályokat tartalmazó vagy az ilyen jogszabály alkotására felhatalmazást adó törvény előírhatja, hogy az így előírt eljárási szabályok megszegése vagy mellőzése esetén a 76-93. §-okat kell alkalmazni, illetőleg hogy az ezekben az eljárásokban készült hirdetményeket a Közbeszerzési Értesítőben közzé kell tenni.”
+3. § A Kbt. 3. §-ának (1)-(2) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Kormány a Magyar Közlönyben közzétett határozatával a közbeszerzések központosított eljárás keretében történő lefolytatását rendelheti el az általa irányított szervezetek vonatkozásában, meghatározva annak személyi és tárgyi hatályát, valamint az ajánlatkérésre jogosult költségvetési szervet.
+(2) A Kormány a Magyar Közlönyben közzétett határozatával a közbeszerzések központosított eljárás keretében történő lefolytatását rendelheti el az általa irányított - az Egészségbiztosítási Alapból finanszírozott - költségvetési szerveknél az egészségügyi ellátásokhoz kapcsolódóan. A központosított közbeszerzés fedezete a mindenkori Egészségbiztosítási Alap költségvetésében az adott ellátási forma előirányzata.”
+4. § (1) A Kbt. 4. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A beszerzés értékén a beszerzés megkezdésének időpontjában annak tárgyáért általában kért, illetve kínált - általános forgalmi adó nélkül számított, a (2)-(6) bekezdésben és az 5. §-ban foglaltakra tekintettel meghatározott - legmagasabb összegű ellenszolgáltatást kell érteni (a továbbiakban: becsült érték).”
+(2) A Kbt. 4. §-a a következő (6)-(7) bekezdéssel egészül ki:
+„(6) A több év alatt megvalósuló építési beruházás esetén a közbeszerzés értéke a teljes beruházás ellenértéke.
+(7) Az ajánlatkérő az időszakonként visszatérő, egy évnél hosszabb vagy határozatlan ideig tartó beszerzés tárgyában kötött szerződésről a szerződéskötést követő öt munkanapon belül a 10. számú melléklet szerinti hirdetményt tesz közzé, ha annak az (1)-(6) bekezdés, illetve az 5. § szerint számított értéke a szerződéskötéskor eléri vagy meghaladja a 2. § (3) bekezdése szerinti értékhatár felét.”
+5. § A Kbt. 5. §-a helyébe a következő rendelkezés lép:
+„5. § (1) Tilos e törvény megkerülése céljából a közbeszerzést a (2) bekezdésbe ütköző módon részekre bontani.
+(2) A becsült érték kiszámítása során mindazon árubeszerzések vagy építési beruházások vagy szolgáltatások értékét egybe kell számítani, amelyek
+a) beszerzésére egy költségvetési évben kerül sor [a 4. § (6) bekezdése szerinti eset kivételével], és
+b) beszerzésére egy ajánlattevővel lehetne szerződést kötni, továbbá
+c) rendeltetése azonos vagy hasonló, illetőleg felhasználásuk egymással összefügg.
+(3) Ha a (2) bekezdés alapján több - egyenként a 2. § (3) bekezdése szerinti értékhatárt el nem érő értékű - beszerzési tárgy együttes értéke miatt közbeszerzési eljárást kell tartani, nem minősül a törvény megkerülésének, ha az egybeszámított értékű beszerzési tárgyakat több közbeszerzési eljárásban szerzik be.
+(4) Ha a becsült érték kiszámításakor a (2) bekezdésben foglaltakat nem vették figyelembe, a közbeszerzésnek a költségvetési évben még beszerzendő tárgyaira - azok értékétől függetlenül - csak a törvény szerinti eljárás alapján lehet szerződést kötni.”
+6. § A Kbt. 6. §-ának a), e) és h) pontja helyébe a következő rendelkezések lépnek, a § a következő i) és j) ponttal egészül ki:
+[E törvény hatálya nem terjed ki]
+„a) azokra az államtitkot vagy szolgálati titkot érintő, illetőleg nemzetbiztonsági vagy honvédelmi érdekkel összefüggő beszerzésekre, amelyek vonatkozásában az Országgyűlés illetékes bizottsága a törvény alkalmazását kizáró előzetes döntést hozott;
+e) a piaci intervenciós célelőirányzatból megvalósított beszerzésre;
+h) a katasztrófa, állatok járványos megbetegedése, továbbá a jelentős ipari vagy közlekedési baleset okozta kár, illetőleg védekezési készültség esetén a vízkár, illetve vízminőségi kár közvetlen megelőzése, elhárítása vagy az azt közvetlenül követő helyreállítás érdekében történő beszerzésre;
+i) a beszerzésre, ha az ezzel kapcsolatos szerződést kizárólag más törvényben vagy törvény felhatalmazása alapján hozott egyéb jogszabályban meghatározott - az e törvény szerinti eljárástól kizárólag a beszerzés tárgya vagy körülményei miatt indokolt körben eltérő - feltételek mellett vagy eljárás alapján lehet megkötni;
+j) a NATO Biztonsági Beruházási Program keretében megvalósuló beszerzésre.”
+7. § A Kbt. 8. §-a helyébe a következő rendelkezés lép:
+„8. § (1) E törvény alkalmazásában építési beruházás - a felújítás és a korszerűsítés kivételével - az építmény, építményrész, építményegyüttes megépítése, átalakítása, bővítése, helyreállítása, lebontása, elmozdítása, rendeltetésének építési munkával járó megváltoztatása, valamint az ezekhez kapcsolódó szakipari, technológiai szerelési munkák.
+(2) Ha e törvény az építési beruházással kapcsolatban különös eljárási szabályokat ír elő, e szabályokat kell alkalmazni az (1) bekezdés szerinti tevékenységgel együtt járó és egy közbeszerzési eljárásban megrendelt - annak értékénél alacsonyabb értékű - árura, illetve szolgáltatásra is.”
+8. § A Kbt. 9. §-a (2) bekezdésének c), d) és g) pontja helyébe a következő rendelkezések lépnek:
+[E törvény hatálya nem terjed ki a következő szolgáltatásokra:]
+„c) jegybanki tevékenység, pénzügyi szolgáltatás - a pénzügyi lízing kivételével -, valamint kiegészítő pénzügyi szolgáltatás;
+d) befektetési szolgáltatási tevékenység és kiegészítő befektetési szolgáltatási tevékenység;”
+„g) a tervezési tevékenység, ha az ajánlatkérő azzal kapcsolatban külön jogszabályban előírt módon tervpályázatot folytat le;”
+9. § A Kbt. 10. §-ának b) és d) pontja helyébe a következő rendelkezések lépnek, egyidejűleg a § az alábbi k)-sz) ponttal egészül ki:
+[E törvény alkalmazásában]
+„b) helyi önkormányzati költségvetési szerv: a (fő)polgármesteri hivatal, a megyei önkormányzati hivatal, a körjegyzőség és a közös képviselő-testület hivatala, valamint a helyi önkormányzat képviselő-testületének felügyelete alá tartozó egyéb költségvetési szervek, ideértve a hatósági igazgatási, intézményi és egyéb (nem haszonszerzésre irányuló tevékenységet folytató) igazgatási társulásokat is;”
+„d) támogatás: adókedvezmény (ár-, díj-, vám-, illetékkedvezmény), továbbá egy vagy több - az 1. § a) pontjában meghatározott - szervezet, illetőleg nemzetközi szervezet által pénzforrás juttatása útján biztosított anyagi előny, melyet a 2. § (1) bekezdésében meghatározott közbeszerzésre kell fordítani, feltéve, hogy annak (azoknak) az összege eléri vagy meghaladja a közbeszerzés értékének ötven százalékát vagy a 2. § (3) bekezdése szerinti értékhatárt, és a támogatók között legalább egy - az 1. § a) pontjában meghatározott - szervezet van;
+k) nemzetközi szerződés: a más állammal vagy a nemzetközi jog egyéb alanyával kötött, a magyar állam számára nemzetközi jogokat és kötelezettségeket létesítő, módosító vagy megszüntető olyan írásbeli megállapodás, amelyben Szerződő Félként a Magyar Köztársaság vagy a Magyar Köztársaság Kormánya szerepel;
+l) pénzügyi szolgáltatás és kiegészítő pénzügyi szolgáltatás: a hitelintézetekről és pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben így meghatározott tevékenységek;
+m) befektetési szolgáltatási és kiegészítő befektetési szolgáltatási tevékenység: az értékpapírok forgalomba hozataláról, a befektetési szolgáltatásokról és az értékpapír-tőzsdéről szóló 1996. évi CXI. törvényben így meghatározott tevékenységek;
+n) a 8. § (1) bekezdésében használt fogalmak alatt az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben, valamint az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben így meghatározott fogalmakat kell érteni;
+o) ajánlatkérő: az 1. § szerinti bármely szervezet, illetőleg a központosított közbeszerzési eljárásban ajánlatkérésre feljogosított szervezet;
+p) hirdetmény:
+1. az ajánlati vagy a részvételi felhívás (a továbbiakban együtt: felhívás),
+2. az előzetes összesített tájékoztató,
+3. a tájékoztató az eljárás eredményéről,
+4. a tájékoztató a két szakaszból álló eljárás részvételi szakaszának eredményéről,
+5. a tájékoztató a 4. § (7) bekezdése szerinti szerződéskötésről,
+6. a 2. § (6) bekezdése alapján külön jogszabályban meghatározott hirdetmény,
+7. a 29. § (9) bekezdése alapján külön eljárásban lefolytatott beszerzésről közzétett hirdetmény,
+8. a hirdetmény módosításáról, visszavonásáról, a dokumentáció vagy a határidő módosításáról a 11. számú melléklet szerint közzétett hirdetmény;
+q) alvállalkozó: az a szervezet (személy), amellyel (akivel) az ajánlattevő a közbeszerzésre vonatkozó szerződés teljesítése céljából, arra tekintettel fog szerződést kötni vagy módosítani, kivéve az 1. § e) pontja vagy a 70. § (1) bekezdésének b) pontja szerinti szervezetet (személyt), vagy a 6. § g) pontja, illetve a 9. § (2) bekezdése szerinti szerződéskötést;
+r) központi adóhatóság: az Adó- és Pénzügyi Ellenőrzési Hivatal és szervei, valamint a Vám- és Pénzügyőrség Országos Parancsnoksága és szervei;
+s) önkormányzati adóhatóság: az adózás rendjéről szóló törvényben így meghatározott fogalom;
+sz) katasztrófa: a katasztrófák elleni védekezés irányításáról, szervezéséről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló törvényben így meghatározott fogalom.”
+10. § A Kbt. 12. §-a helyébe a következő rendelkezés lép:
+„12. § (1) A Tanács tizenkilenc tagból áll. A Tanácsban az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket azonos számú tag képviseli.
+(2) A törvény alapelveinek és egyes közérdekű céloknak az érvényesítése a Tanácsban a következő szervezetek vagy személyek által kijelölt személyek feladata:
+a) a legfőbb ügyész;
+b) a Gazdasági Versenyhivatal elnöke;
+c) a földművelésügyi és vidékfejlesztési miniszter;
+d) a gazdasági miniszter;
+e) az igazságügyminiszter;
+f) a környezetvédelmi miniszter.
+(3) A közbeszerzési eljárás ajánlatkérőinek általános érdekeit a Tanácsban a következő szervezetek vagy személyek által kijelölt személyek képviselik:
+a) a Kormány által kijelölt két személy;
+b) a Miniszterelnöki Hivatalt vezető miniszter által kijelölt személy;
+c) a társadalombiztosítás igazgatási szerveinek felügyeletét ellátó személy által kijelölt személy;
+d) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
+e) az országos gazdasági kamarák, az országos szakmai kamarák és a Magyar Tudományos Akadémia által együttesen kijelölt személy.
+(4) A közbeszerzési eljárás ajánlattevőinek általános érdekeit a Tanácsban a munkáltatók országos érdek-képviseletei és a gazdasági kamarák által kijelölt hat személy képviseli.
+(5) A Tanács elnöke a Tanács tagjává válik akkor is, ha nem a tagok közül választották. Ha a Tanács elnökét a Tanács tagjai közül választották, az elnök a továbbiakban nem képviseli az őt kijelölő (kijelölők) szerinti általános célokat vagy érdekeket, a kijelölő (kijelölők) pedig jogosult a Tanácsba új tagot kijelölni. A kijelölő (kijelölők) a Tanács elnökével szemben nem élhet a 13. § (2) bekezdésében és 14. § (8) bekezdésének b) pontjában biztosított jogával.
+(6) A Tanács tagja évenként köteles beszámolni az őt kijelölőnek (kijelölőknek) az általa érvényesítendő célok, illetőleg képviselendő általános érdekek, továbbá a törvény céljainak megvalósulása érdekében a Tanácsban folytatott tevékenységéről, valamint ezeknek a közbeszerzések terén való érvényesüléséről.”
+11. § A Kbt. 14. §-a helyébe a következő rendelkezés lép:
+„14. § (1) A Tanács elnökének öt évre történő kinevezéséről a Tanács a jelenlevő tagok kétharmados szótöbbségével dönt. A kinevezés egyszer ismételhető.
+(2) A Tanács elnökére a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény rendelkezéseit az e törvény szerinti eltérésekkel kell alkalmazni.
+(3) A Tanács elnöke a helyettes államtitkárnak járó illetményre, valamint egyéb juttatásokra jogosult.
+(4) A Tanács elnöke felett a munkáltatói jogokat a Tanács gyakorolja, az elnök az összeférhetetlenségével kapcsolatos bejelentést [16. § (5) bekezdése] a Tanácsnak köteles megtenni.
+(5) A Tanács a tagok közül két évre a jelenlevő tagok kétharmados szótöbbségével hozott döntéssel alelnököt választ.
+(6) A Tanács elnökét távolléte esetén az alelnök teljes jogkörrel helyettesíti.
+(7) A Tanács elnöke
+a) képviseli a Tanácsot;
+b) meghívása esetén részt vesz az Országgyűlés és bizottságainak ülésein és ismerteti a tanács éves beszámolóját;
+c) a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról elnöki tájékoztatót ad ki;
+d) halasztást nem tűrő ügyek eldöntése érdekében - a Tanács szervezeti és működési szabályzatában meghatározottak szerint - az ülések közötti időszakban rövid úton való szavazást kezdeményez;
+e) gyakorolja a munkáltatói jogokat a Közbeszerzések Tanácsa főtitkára (a továbbiakban: főtitkár), valamint a Közbeszerzési Döntőbizottság elnöke és elnökhelyettese vonatkozásában.
+(8) A Tanács elnökének, alelnökének és tagjainak megbízatása megszűnik
+a) a megbízatás időtartamának lejártával;
+b) visszahívással;
+c) lemondással;
+d) a 13. § (1) bekezdésében foglalt körülmények bekövetkezése esetén;
+e) halálával.”
+12. § A Kbt. 15. §-a (1) bekezdésének i) és l) pontja helyébe a következő rendelkezés lép, egyidejűleg a bekezdés kiegészül az alábbi új m) ponttal:
+[A Tanács]
+„i) gondoskodik a „Közbeszerzési Értesítő - a Közbeszerzések Tanácsának Hivatalos Lapjá”-nak (a továbbiakban: Közbeszerzési Értesítő) az általa meghatározott rendszerességgel történő kiadásáról, közzéteszi a közbeszerzési eljárással kapcsolatban készült hirdetményeket, a Közbeszerzési Döntőbizottság határozatait, valamint a bíróság ezek felülvizsgálata tárgyában hozott jogerős határozatait, a c) pont szerinti ajánlásokat, továbbá egyéb, közbeszerzéssel kapcsolatos közleményeket;
+l) elfogadja saját szervezeti és működési, valamint más, működését érintő belső szabályzatát - így különösen a Közbeszerzési Értesítőben megjelenő hirdetmények vizsgálata kapcsán a jogorvoslati eljárás indításának eljárásrendjét -, továbbá költségvetési javaslatát és éves költségvetési beszámolóját;
+m) nyilvántartást vezet a közbeszerzésekről, ideértve a közbeszerzési eljárások éves mennyiségét, valamint a beszerzések tárgyainak az egységre vetített - közbeszerzési eljárás alapján fizetendő - ellenértékét is.”
+13. § A Kbt. 18. §-a helyébe a következő rendelkezés lép:
+„18. § (1) A Tanács tevékenységével kapcsolatos koordinációt, döntéseinek előkészítését és végrehajtását, továbbá az ennek végzéséhez szükséges adatgyűjtő, nyilvántartó, valamint adminisztratív tevékenységet a Közbeszerzések Tanácsának Titkársága végzi. A Titkárságot a főtitkár vezeti.
+(2) A főtitkár és a Titkárság alkalmazottai a Tanáccsal állnak közszolgálati jogviszonyban. A főtitkár gyakorolja a munkáltatói jogokat a Titkárság alkalmazottai vonatkozásában. A főtitkár főosztályvezetői illetményre jogosult.
+(3) A Tanács a Titkárság keretében Szerkesztőbizottságot működtet a Közbeszerzési Értesítő kiadásával kapcsolatos feladata végrehajtásának érdekében.”
+14. § A Kbt. 19. §-a (3) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a § az alábbi (4) bekezdéssel egészül ki:
+„(3) A Bizottság a Tanács által meghatározott számú és a Tanáccsal közszolgálati jogviszonyban álló közbeszerzési biztosból áll, akiket a Tanács nevez ki és ment fel. A Bizottság elnökét és elnökhelyettesét a közbeszerzési biztosok közül a Tanács a jelen lévő tagok kétharmadának szavazatával választja meg öt évre. Az elnökhelyettes személyére a Bizottság elnöke tesz javaslatot. A Bizottság elnöke és elnökhelyettese újraválasztható. A Bizottság elnöke főosztályvezetői, az elnökhelyettes főosztályvezető-helyettesi illetményre jogosult.
+(4) A Bizottság elnöke irányítja a Bizottság munkáját, képviseli a Bizottságot és gyakorolja a munkáltatói jogokat - az elnökhelyettes kivételével - a közbeszerzési biztosok vonatkozásában. A Bizottság elnökét távollétében az elnökhelyettes teljes jogkörrel helyettesíti.”
+15. § A Kbt. 24. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A Kormány az általa irányított központi költségvetési szervek tekintetében, a helyi önkormányzat a helyi önkormányzati költségvetési szervek tekintetében rendeletben az (1)-(3) bekezdésben foglalt elveknek megfelelő egyszerűsített eljárásrendet állapíthat meg a 2. § (3) bekezdése szerinti értékhatár alatti értékű beszerzésekre, melyben előírhatja a kért ajánlatok kötelező legkisebb számát is. E rendeletek hatálya sem terjedhet ki azonban a 6. § és 9. § (2) bekezdése szerinti esetekre.”
+16. § A Kbt. a 28. §-a után a következő 28/A. §-sal egészül ki:
+„28/A. § Ha az ajánlatkérő az ajánlati felhívás, illetve a részvételi felhívás közzétételétől számított legalább negyven napnál korábban, de legfeljebb egy éven belül előzetes összesített tájékoztatót tett közzé, és az tartalmazta legalább a közbeszerzésre vonatkozó - az 1. számú melléklet 4. pontja szerinti - adatokat, a 47. § (1) bekezdésében, a 63. § (5) bekezdésében és a 64. § (4) bekezdésében előírt határidők helyett negyven nap esetén huszonöt, a részvételi jelentkezés huszonöt napos határideje helyett pedig tizenöt napot lehet előírni.”
+17. § (1) A Kbt. 29. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Ha e törvény a hirdetmény közzétételére határidőt ír elő, a hirdetményt e határidőn belül kell levél formájában megküldeni a Közbeszerzési Értesítő részére.”
+(2) A Kbt. 29. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A hirdetményben megjelölt határidők a Közbeszerzési Értesítő megjelenését követő napon kezdődnek, és legkorábban az e törvényben megjelölt legrövidebb időtartamot követő első munkanapon járnak le.”
+(3) A Kbt. 29. §-a kiegészül a következő (9) bekezdéssel:
+„(9) Az ajánlatkérő a 6. § b) vagy c) pontja alapján nemzetközi szerződésben, illetőleg nemzetközi szervezet által meghatározott eljárásban megvalósuló beszerzés megkezdéséről, valamint eredményéről hirdetményt tehet közzé a Közbeszerzési Értesítőben.”
+18. § (1) A Kbt. 31. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az eljárás előkészítésében, a felhívás, illetve a dokumentáció elkészítése során vagy az eljárás más szakaszában az ajánlatkérő nevében nem járhat el, illetőleg az eljárásba nem vonható be a közbeszerzés tárgyával kapcsolatos gazdasági tevékenységet végző gazdálkodó szervezet (a továbbiakban: érdekelt gazdálkodó szervezet), illetőleg az olyan személy vagy szervezet, aki (amely)
+a) az érdekelt gazdálkodó szervezettel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll;
+b) az érdekelt gazdálkodó szervezet vezető tisztségviselője;
+c) az érdekelt gazdálkodó szervezetben tulajdoni részesedéssel rendelkezik;
+d) az a)-c) pont szerinti személy hozzátartozója.”
+(2) A Kbt. 31. §-ának (4) bekezdése helyébe a következő új (4) bekezdés lép, egyidejűleg a § kiegészül a következő (5) bekezdéssel:
+„(4) Nem kell alkalmazni a (2) bekezdést, ha az ajánlatkérő által az eljárás előkészítésébe vagy más szakaszába bevonni kívánt vagy nevében eljáró érdekelt gazdálkodó szervezet, illetve az eljárásba bevonni kívánt szervezettel vagy személlyel a (2) bekezdés a)-d) pontja szerinti viszonyban álló érdekelt gazdálkodó szervezet írásban nyilatkozik, hogy az eljárásban nem vesz részt ajánlattevőként vagy alvállalkozóként.
+(5) Ha a (2) bekezdést megsértették, az eljárás további részében nem lehet ajánlattevő vagy alvállalkozó a (2) bekezdés hatálya alá tartozó vagy az ott felsorolt személyekkel a (2) bekezdés a)-d) pontja szerinti viszonyban álló érdekelt gazdálkodó szervezet.”
+19. § (1) A Kbt. 33. §-a a következő új (2)-(4) bekezdéssel egészül ki, egyidejűleg a (2)-(3) bekezdés számozása (5)-(6) bekezdésre változik:
+„(2) A közbeszerzés mennyiségét úgy is meg lehet határozni, hogy az ajánlatkérő a legalacsonyabb vagy a legmagasabb mértéket közli és kiköti az ettől - a szerződéskötés során - való eltérés lehetőségét, előírva az eltérés százalékos mértékét. Ebben az esetben lehetővé kell tenni a többváltozatú ajánlattételt a közbeszerzés mennyiségétől függően.
+(3) Az ajánlatkérő a felhívásban lehetővé teheti a közbeszerzés egy részére történő ajánlattételt. Ebben az esetben a felhívásban, illetve a dokumentációban elő kell írni, hogy a közbeszerzés tárgyának mely elemeire lehet részajánlatot tenni. A közbeszerzés tárgyának részeit nem lehet kizárólag a mennyiség alapján meghatározni.
+(4) Az ajánlatkérő köteles az ajánlati felhívásban ellenszolgáltatása teljesítésének feltételeit megadni, illetve a vonatkozó jogszabályokra hivatkozni.”
+ (2) A Kbt. 34. §-ának (2)-(3) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az ajánlatkérő a felhívásban köteles meghatározni az (1) bekezdésben foglaltakra figyelemmel az általa választott elbírálási szempontot.
+(3) Ha az ajánlatkérő az összességében legelőnyösebb ajánlatot kívánja kiválasztani, a részvételi felhívásban jogosult, az ajánlati felhívásban köteles meghatározni
+a) az összességében legelőnyösebb ajánlat megítélésére szolgáló - a közbeszerzés tárgyával szembeni követelményekre, az ellenszolgáltatás mértékére és a teljesítés egyéb körülményeire vonatkozó - részszempontokat;
+b) részszempontonként az azok súlyát meghatározó - a részszempont tényleges jelentőségével arányban álló - szorzószámokat (a továbbiakban: súlyszám);
+c) az ajánlatok részszempontok szerinti tartalmi elemeinek értékelése során adható pontszám alsó és felső határát, mely minden részszempont esetében azonos.”
+(3) A Kbt. 35. §-a helyébe a következő rendelkezés lép:
+„35. § (1) Az ajánlatkérő a felhívásban az összességében legelőnyösebb ajánlat elbírálása részszempontjainak és azok súlyszámainak meghatározása körében vagy az egyébként egyenértékű ajánlatok választásánál - az előnyben részesítés elveit, illetőleg mértékét egyértelműen meghatározva -, az esélyegyenlőség követelményére is tekintettel az 59. § (2)-(5) bekezdéseiben foglaltak fenntartása mellett további előnyben részesítheti az ajánlatot, ha az a felhívásban meghatározott módon elősegíti
+a) az országos, a regionális, illetve - a helyi önkormányzatokról szóló 1990. évi LXV. törvény 8. §-ának (1) bekezdésével összhangban - a helyi foglalkoztatáspolitikai célkitűzések érvényesítését, beleértve a munkahelyteremtés ösztönzését, vagy
+b) az elmaradott térség (térségek) fejlesztését, vagy
+c) a környezet védelmét - így különösen a Nemzeti Környezetvédelmi Programban foglaltak megvalósítását - vagy
+d) a kis- és középvállalkozások részvételi esélyének növelését.
+(2) Az 59. § (2)-(5) bekezdésében foglaltak az ajánlati felhívásnak részét képezik. Erre a körülményre az ajánlati felhívásban fel kell hívni az ajánlattevők figyelmét.
+(3) Az ajánlatkérő a felhívásban az (1) bekezdés a)-d) pontjaiban meghatározott célok közül csak egyet részesíthet előnyben és annak súlyszáma az ellenérték súlyszámának legfeljebb száztíz százaléka lehet.”
+20. § A Kbt. 37. §-ának (2) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a § kiegészül az alábbi (3)-(4) bekezdéssel:
+„(2) Az ajánlatkérő köteles gondoskodni arról, hogy a dokumentáció a felhívás közzétételének, illetőleg az ajánlattevő részére közvetlenül való megküldésének időpontjától kezdve legalább tizenöt napig - gyorsított eljárás esetén az ajánlattételi határidő (részvételi jelentkezési határidő) lejártáig - rendelkezésre álljon.
+(3) A dokumentáció ellenértékét az annak előállításával és az ajánlattevők részére történő rendelkezésre bocsátásával kapcsolatban a közbeszerzési eljárásra tekintettel felmerült költséget alapul véve kell megállapítani.
+(4) A dokumentáció, valamint annak ellenértéke tíz napon belül visszajár, ha
+a) az ajánlatkérő visszavonja a felhívást;
+b) az eljárás a 60. § (1) bekezdésének d) pontja alapján eredménytelen;
+c) az ajánlatkérő az eljárás, illetőleg az első szakasz eredményét a felhívásban megjelölt vagy a módosított eredményhirdetési időpontig nem hirdeti ki.”
+21. § A Kbt. 41. §-a helyébe a következő rendelkezés lép:
+„41. § (1) Az ajánlatkérő az eljárásban való részvételt ajánlati biztosíték (a továbbiakban: biztosíték) adásához kötheti, amit az ajánlattevőnek ajánlata benyújtásával egyidejűleg vagy az ajánlatkérő által az ajánlati felhívásban meghatározott időpontig, az ott megjelölt mértékben kell az ajánlatkérő rendelkezésére bocsátania. Az ajánlattevőnek igazolnia kell, hogy a biztosítékot az ajánlatkérő rendelkezésére bocsátotta.
+(2) A biztosíték teljesíthető az előírt összegnek az ajánlatkérő bankszámlájára történő befizetésével vagy bankgarancia biztosításával. A befizetés helyét, illetőleg az ajánlatkérő bankszámlaszámát, továbbá a befizetés igazolásának módját a felhívásban meg kell határozni.
+(3) A biztosíték értékét az ajánlattevők esélyegyenlőségének biztosítása mellett, a felek ajánlati kötöttségének a (4) bekezdés szerinti megsértése esetén az ajánlatkérőnél az ajánlatnak az ajánlati kötöttség ideje alatti visszavonása vagy a szerződésnek az ajánlattevő érdekkörében felmerült okból történő meghiúsulása miatt előreláthatólag felmerülő veszteség mértékére tekintettel kell megállapítani.
+(4) Ha az ajánlattevő az ajánlati kötöttségének ideje alatt ajánlatát visszavonja, vagy a szerződés megkötése érdekkörében felmerült okból hiúsul meg, a biztosítékot elveszti, és az az ajánlatkérőt illeti meg.
+(5) A biztosítékot vissza kell fizetni
+a) az ajánlattevők részére az ajánlati felhívás visszavonását, az ajánlattevő kizárását, az eljárás eredménytelenségének megállapítását, illetve az eredmény kihirdetését követő tíz napon belül;
+b) a nyertes ajánlattevő, valamint - az 59. § (1) bekezdése szerinti esetben - a második legkedvezőbb ajánlatot tevő részére a szerződéskötést követő tíz napon belül, kivéve, ha a biztosíték a felhívás szerint a megkötött szerződést biztosító mellékkötelezettséggé válik.
+(6) Ha az ajánlatkérő az eljárásban való részvételt biztosíték adásához kötötte, a biztosíték kétszeres összegének tíz napon belüli megfizetésére köteles
+a) az ajánlattevők részére, ha az eljárás eredményét a felhívásban megjelölt vagy a módosított eredményhirdetési időpontig nem hirdeti ki;
+b) a nyertes ajánlattevő, valamint - az 59. § (1) bekezdése szerinti esetben - a második legkedvezőbb ajánlatot tevő részére, ha a szerződést nem köti meg.
+(7) A két szakaszból álló eljárás (63. §) első (részvételi) szakaszában a részvételt nem lehet biztosíték adásához kötni.”
+22. § A Kbt. 42. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Az előminősítési eljárás eredményének kihirdetését követően az ajánlatkérő az összes alkalmasnak talált részvételre jelentkezőt egyidejűleg, közvetlenül, írásban hívja fel ajánlattételre.”
+23. § A Kbt. 43. §-ának (2) bekezdése helyébe a következő rendelkezés lép és a § az alábbi (3)-(7) bekezdéssel egészül ki:
+„(2) Az ajánlatban - ha ezt az ajánlatkérő az ajánlati felhívásban előírta - meg kell jelölni
+a) a közbeszerzésnek azt a részét, amellyel összefüggésben az ajánlattevő harmadik személlyel szerződést fog kötni, e szervezet (személy) meghatározása nélkül, illetőleg
+b) az ajánlattevő által a közbeszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozókat, illetőleg
+c) a teljesítésben egyébként - a közbeszerzés értékének tíz százalékát meghaladó mértékben - résztvevő szervezeteket (személyeket).
+ (3) Az ajánlattevő köteles igazolni a szerződés teljesítésére való pénzügyi, gazdasági és műszaki alkalmasságát, valamint - ha ezt az ajánlatkérő az ajánlati felhívásban a 33. § (5) bekezdésének figyelembevételével előírta - az általa a közbeszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozókét. Az erre vonatkozó igazolásokat az ajánlathoz csatolni kell. A 46. §-t a közbeszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozókra kell alkalmazni.
+(4) Az ajánlatkérő egy ízben, az összes ajánlattevő számára azonos feltételekkel, legfeljebb tíz napos határidőt biztosíthat a 44. és 46. § szerinti igazolás vagy nyilatkozat utólagos csatolására, illetve az ajánlattal kapcsolatos formai hiányosságok pótlására, így különösen a nem megfelelő aláírással vagy példányszámban benyújtott ajánlat esetén.
+(5) Ha a hiánypótlásról az ajánlatok felbontásának időpontjában dönt az ajánlatkérő, ezt a jelenlévő ajánlattevőknek ki kell hirdetni és a jegyzőkönyvbe kell foglalni, az ezt követően lehetővé tett hiánypótlásról pedig haladéktalanul, egyidejűleg, írásban tájékoztatni kell az összes ajánlattevőt.
+(6) Az ajánlatkérő köteles meggyőződni arról, hogy a hiánypótlást követően benyújtott ajánlati példányok tartalma megegyezik az eredeti ajánlat tartalmával. Eltérés esetén vagy ha a hiánypótlást nem teljesítették, kizárólag az eredeti ajánlati példányt (példányokat) lehet figyelembe venni és - ha annak feltételei fennállnak - az 52. § (2) bekezdésének b) vagy d) pontját, illetve az 53. § (1) bekezdésének a) pontját kell alkalmazni.
+(7) Ha az ajánlatban nyilvánvaló számítási hiba van, annak javítását az ajánlatkérő végzi el úgy, hogy a beszerzés tárgya elemeinek tételesen meghatározott értékeit alapul véve számítja ki az összesített ellenértéket. A számítási hiba javításáról az összes ajánlattevőt egyidejűleg, haladéktalanul, írásban tájékoztatni kell.”
+24. § (1) A Kbt. 44. §-ának (1)-(2) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az ajánlattevőnek, illetőleg az alvállalkozónak a szerződés teljesítéséhez szükséges pénzügyi és gazdasági alkalmassága igazolható
+a) pénzügyi intézménytől származó - erről szóló - nyilatkozattal;
+b) mérlegének (egyszerűsített mérlegének, beszámolójának vagy konszolidált mérlegének) benyújtásával;
+c) előző legfeljebb háromévi teljes forgalmáról és ugyanezen időszakban a közbeszerzés tárgyának forgalmáról szóló nyilatkozatával;
+d) az ajánlatkérő által előírt tartalmú egyéb - fizetőképességének megállapítására alkalmas - nyilatkozattal vagy dokumentummal.
+(2) Az ajánlattevőnek, illetőleg az alvállalkozónak a szerződés teljesítéséhez szükséges műszaki alkalmassága igazolható
+a) az előző legfeljebb három év legjelentősebb szállításainak, szolgáltatásainak, illetve az előző legfeljebb öt év legjelentősebb építési beruházásainak ismertetésével (legalább az ellenszolgáltatás összege, a teljesítés ideje és a szerződést kötő másik fél megnevezésével);
+b) műszaki-technikai felszereltségének leírásával;
+c) azoknak a szakembereknek (szervezeti egységeknek), illetve vezetőknek a megnevezésével, képzettségük ismertetésével, akiket be kíván vonni a teljesítésbe, különösen azok bemutatásával, akik a minőségellenőrzésért felelősek;
+d) a termék leírásával, mintapéldányának, fényképének bemutatásával, melynek eredetiségét az ajánlatkérő felhívására igazolni kell;
+e) a megkövetelt és egyértelműen megadott műszaki leírások tekintetében az elismert - bármely nemzeti rendszerben akkreditált - minőségtanúsító intézménytől származó tanúsítvánnyal;
+f) termelési, illetve kutatási-fejlesztési képességéről az ajánlatkérő vagy más szervezet által végzett vizsgálattal, ha a termék, illetve a szolgáltatás összetett, vagy ha különleges célra szolgál;
+g) a saját és a teljesítésbe bevonandó műszaki vagy gazdasági egységek minőségbiztosítási rendszerének - bármely nemzeti rendszerben akkreditált - tanúsító általi tanúsításával.”
+(2) A Kbt. 44. §-ának (4) bekezdése helyébe a következő rendelkezés lép és a § kiegészül az alábbi (5)-(6) bekezdéssel:
+„(4) Az ajánlati felhívásban meg kell határozni, hogy az (1), illetőleg (2) bekezdésben foglaltakkal összefüggő mely körülmények megléte, illetőleg hiánya vagy azok milyen mértékű fogyatékossága miatt minősíti az ajánlatkérő az ajánlattevőt alkalmatlannak a szerződés teljesítésére.
+(5) Az ajánlatkérőnek az (1)-(2) bekezdésben meghatározott adatok és tények kérését - figyelemmel az ajánlattevő üzleti titokhoz fűződő érdekére - a közbeszerzés tárgyára kell korlátoznia, a (4) bekezdés szerinti követelményeket pedig - a beszerzés becsült értékére is tekintettel - legfeljebb a szerződés teljesítéséhez ténylegesen szükséges feltételek mértékéig lehet előírni.
+(6) Az ajánlatkérő az ajánlatok felbontását követően az (1), (2) és (4) bekezdés szerinti adatok, tények és körülmények alapján dönt az ajánlattevőnek a szerződés teljesítésére való alkalmasságáról vagy alkalmatlanságáról, ennek során az igazolások eredetiségét is ellenőrizheti.”
+25. § (1) A Kbt. 46. §-a helyébe a következő rendelkezés lép:
+„46. § (1) A közbeszerzési eljárásban nem lehet ajánlattevő vagy alvállalkozó, aki
+a) végelszámolás alatt áll, vagy az ellene indított csőd-, illetve felszámolási eljárás folyamatban van;
+b) egy évnél régebben lejárt vám-, társadalombiztosítási járulék, vagy a központi adóhatóság által nyilvántartott adófizetési kötelezettségének, továbbá elkülönített állami pénzalappal szemben fennálló fizetési kötelezettségének nem tett eleget, kivéve, ha a hitelező az adósság későbbi időpontban történő megfizetéséhez írásban hozzájárult;
+c) korábbi - három évnél nem régebben lezárult - közbeszerzési eljárásban általa a valóságnak megfelelően ismert, de ettől eltérően közölt adatot (a továbbiakban: hamis adat) szolgáltatott és ezért az eljárásból kizárták, illetőleg a hamis adat szolgáltatását a Bizottság vagy a bizottsági határozat bírósági felülvizsgálata esetén a bíróság jogerős és végrehajtható határozatával megállapította.
+(2) Az ajánlatkérő a felhívásban előírhatja azt is, hogy az eljárásban nem lehet ajánlattevő vagy alvállakozó az sem, aki
+a) üzletvitele körében öt évnél nem régebben meghozott - jogerős bírósági ítéletben a számviteli renddel vagy a bizonylatadási kötelezettséggel kapcsolatban, illetve jogerős és végrehajtható versenyfelügyeleti határozatban vagy a versenyfelügyeleti határozat bírósági felülvizsgálata esetén a bíróság jogerős és végrehajtható ítéletében a Tpt. 11. §-a (2) bekezdésének e) pontjával kapcsolatban - megállapított jogszabálysértést követett el;
+b) korábbi - öt évnél nem régebben lezárult - közbeszerzési eljárás alapján vállalt szerződéses kötelezettségének megszegését jogerős államigazgatási, illetve bírósági határozat megállapította.
+(3) Ha az ajánlatkérő helyi önkormányzat, kisebbségi települési önkormányzat, helyi kisebbségi önkormányzat, helyi önkormányzati vagy helyi kisebbségi önkormányzati költségvetési szerv a felhívásban előírhatja, hogy az eljárásban az sem lehet ajánlattevő vagy alvállalkozó, aki az ajánlatkérő székhelye szerinti önkormányzati adóhatóság által nyilvántartott adófizetési kötelezettségének nem tett eleget, kivéve, ha a hitelező az adósság későbbi időpontban történő megfizetéséhez írásban hozzájárult.
+ (4) Az ajánlattevőnek az ajánlathoz, illetve a részvételi jelentkezéshez legkésőbb az ajánlattételi, illetve részvételi jelentkezési határidő lejártáig írásbeli nyilatkozatot kell csatolnia arról, hogy ő, illetőleg az alvállalkozó nem tartozik az (1) bekezdés a), c) pontja, illetve a (2) bekezdés hatálya alá és hogy az (1) bekezdés b) pontjában említett elkülönített állami pénzalapok közül melyik irányában áll fenn jogszabály alapján fizetési kötelezettsége.
+(5) Az ajánlattevő a (4) bekezdésnek megfelelően köteles csatolni az (1) bekezdés b) pontja és - ha az ajánlatkérő ezt előírta - a (3) bekezdés szerinti köztartozást nyilvántartó hatóságnak az eljárás eredménye kihirdetésének időpontját legfeljebb egy évvel megelőzően kelt eredeti vagy másolati igazolását arról, hogy az igazolás kiállításának időpontjában neki, illetőleg az alvállalkozónak nincs a hatóság által nyilvántartott köztartozása vagy ha van, milyen időpontban járt le és annak megfizetésére halasztást kapott-e.
+(6) Az elkülönített állami pénzalapok tekintetében csak azon alap kezelőjétől kell igazolást csatolni, amellyel szemben az ajánlattevőnek vagy az alvállalkozónak jogszabály alapján fizetési kötelezettsége áll fenn.
+(7) Ha jogszabály az (1) bekezdés b) pontja vagy a (3) bekezdés hatálya alá tartozó új közterhet állapít meg, az ezzel kapcsolatos igazolást csak azokban a közbeszerzési eljárásokban kell csatolni, melyekben az eljárás eredményének kihirdetése a köztartozásról szóló rendelkezés hatálybalépését követő egy évnél későbbi időpontban történik.
+(8) A kizárólag külföldi székhellyel rendelkező ajánlattevőnek vagy alvállalkozónak a székhelye szerinti ország jogrendszerében meghatározott - az (1) bekezdés b) pontjában foglaltaknak megfelelő - hatóságoktól kell igazolást beszerezni, amelyből megállapítható, hogy nincs egy évnél régebben lejárt köztartozása. Az igazolások mellett szükséges nyilatkozni arról, hogy a székhelye szerinti országban milyen köztartozások felelnek meg a 46. § (1) bekezdés b) pontjában foglaltaknak, és ezeket milyen szervezet tartja nyilván.
+(9) A két szakaszból álló eljárásban az ajánlathoz nem kell csatolni az (5)-(6) bekezdés szerinti azon igazolásokat, melyeket a részvételi jelentkezéshez csatoltak, kivéve ha a korábban benyújtott igazolás már nem alkalmas az (1) bekezdés b) pontjában vagy a (3) bekezdésben foglaltak bizonyítására.”
+(2) A Kbt. 46. §-át követő cím helyébe az alábbi cím lép:
+„Az ajánlattételi határidő és az ajánlati kötöttség”
+26. § A Kbt. 55. §-ának helyébe a következő rendelkezés lép:
+„55. § (1) Az ajánlatokat a lehető legrövidebb időn belül el kell bírálni, az eljárás eredményét vagy eredménytelenségét legkésőbb az ajánlatok felbontástól számított harminc (építési beruházás esetén hatvan) napon belül - az ajánlati felhívásban meghatározott eredményhirdetési időpontban - nyilvánosan ki kell hirdetni.
+(2) Az ajánlatkérő az eredményhirdetés időpontját - indokolt esetben - egy alkalommal, legfeljebb harminc nappal elhalaszthatja. Az ajánlatkérő az eredeti határidő lejárta előtt köteles a halasztásról és annak indokáról az összes ajánlattevőt egyidejűleg, közvetlenül, írásban tájékoztatni.
+(3) A (2) bekezdés szerinti esetben az ajánlatkérő felkérheti az ajánlattevőket ajánlataiknak az eredményhirdetés elhalasztott időpontjáig történő fenntartására. Az ajánlattevő ajánlati kötöttsége - eltérő nyilatkozat hiányában - az eredményhirdetés elhalasztott időpontját követő harminc - építési beruházás esetén hatvan - napig tart.
+(4) Az ajánlatkérő köteles az ajánlatokat elbírálni, kivéve, ha a közbeszerzés megkezdését követően - általa előre nem látható és elháríthatatlan ok következtében - beállott lényeges körülmény miatt a szerződés megkötésére, illetve a szerződés megkötése esetén a teljesítésre nem lenne képes. Ebben az esetben az ajánlatkérőnek az eljárást eredménytelenné kell nyilvánítania.
+(5) Ha az eredményhirdetés az ajánlati felhívásban meghatározott, vagy a (2) bekezdés szerint módosított időpontban nem történt meg, az ajánlatkérő - a késedelemmel kapcsolatban e törvényben vagy egyéb jogszabályokban előírt következmények viselése mellett - haladéktalanul köteles az eljárás eredményét vagy eredménytelenségét kihirdetni.
+(6) Az ajánlatkérő az ajánlatokat a felhívásban meghatározott értékelési szempont alapján bírálja el. Ha az összességében legelőnyösebb ajánlatot kívánja választani, akkor az ajánlatoknak az elbírálás részszempontjai szerinti tartalmi elemeit a felhívásban meghatározott ponthatárok között értékeli, majd az így az egyes tartalmi elemekre adott értékelési pontszámot megszorozza a súlyszámmal, a szorzatokat pedig ajánlatonként összeadja. Az értékelési folyamatban az 59. § (2)-(3) bekezdéseiben foglaltakat is érvényesíteni kell. Az az ajánlat az összességében legelőnyösebb, amelynek az összpontszáma a legnagyobb, vagy amelyet az egyenértékű (azonos összpontszámú) ajánlatok közül a 35. § (1) bekezdése vagy az 59. § (4)-(5) bekezdései alapján előnyben kell részesíteni.
+(7) Ha több ajánlatnak azonos a (6) bekezdés szerint kiszámított összpontszáma és azok közül a 35. § (1) bekezdésére vagy az 59. § (4)-(5) bekezdésére tekintettel az ajánlatkérő nem köteles valamelyiket előnyben részesíteni, az eljárás nyertese az alacsonyabb ellenértéket tartalmazó ajánlat, azonos ellenérték esetén pedig az az ajánlat, mely a nem egyenlő értékelési pontszámot kapott részszempontok közül a legmagasabb súlyszámú részszempontra nagyobb értékelési pontszámot kapott.”
+27. § A Kbt. 60. §-a (1) bekezdésének e) pontja helyébe a következő rendelkezés lép:
+(Eredménytelen az eljárás, ha)
+„e) az ajánlatkérő az eljárást a szerződés megkötésre vagy teljesítésére képtelenné válása miatt [55. § (4) bekezdése] eredménytelenné nyilvánítja;”
+28. § (1) A Kbt. 61. §-ának (1)-(2) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az ajánlatkérő köteles az ajánlatok elbírálásának befejezésekor az 5. számú mellékletben meghatározott minta szerint írásbeli összegezést készíteni az ajánlatokról, az ebben foglalt adatokat az eljárás eredményének vagy eredménytelenségének kihirdetése során ismertetni kell, és azt az eredményhirdetést követő öt munkanapon belül meg kell küldeni az összes ajánlattevőnek.
+(2) Az eredményhirdetésre az ajánlattevőket, továbbá - a közbeszerzéshez központi költségvetési támogatásban részesülő ajánlatkérő esetén - a külön jogszabályban meghatározott szerveket, személyeket meg kell hívni.”
+(2) A Kbt. 61. §-a a következő (4)-(8) bekezdéssel egészül ki:
+„(4) Az ajánlatkérőnek az eljárás eredményéről szóló tájékoztatót legkésőbb annak kihirdetésétől, illetőleg - eredménytelen eljárás esetén - az eredményhirdetés határidejének lejártától számított öt munkanapon belül a 6. számú mellékletben meghatározott minta szerinti hirdetményben közzé kell tennie. A közbeszerzési eljárás e hirdetmény közzétételével, illetve ha a szerződéskötés később történik, azzal zárul le.
+ (5) Az ajánlatkérőnek - ha törvény eltérően nem rendelkezik - az eljárással kapcsolatban keletkezett összes iratot az eljárás lezárulásától számított öt évig meg kell őriznie. Ha az ügyben jogorvoslati eljárás indult, az iratokat annak jogerős befejezéséig, de legalább öt évig kell megőrizni. Az 5. számú melléklet szerinti összegezést - felhívására - a Tanács rendelkezésére kell bocsátani.
+(6) Az ajánlatok felbontásáról készült jegyzőkönyvet (54. §) öt munkanapon belül meg kell küldeni az ajánlattevőnek, továbbá az ajánlattevőt írásban tájékoztatni kell kizárásáról, ajánlatának érvénytelenné nyilvánításáról vagy az eljárásban való részvételre, illetve a szerződés teljesítésére való alkalmatlanságának megállapításáról, valamint ezek indokáról, az erről hozott döntést követő öt munkanapon belül.
+(7) Az ajánlatkérő kérelemre - annak kézhezvételét követő öt munkanapon belül - köteles tájékoztatni a más közbeszerzési eljárásban ajánlatkérőként szereplő felet a 46. § (2) bekezdésének b) pontjában szereplő körülményről.
+(8) Az ajánlatkérő a költségvetési év végén az éves közbeszerzésekről a 7. számú mellékletben meghatározott minta szerint éves összegezést készít, melyet megküld a Tanácsnak.”
+29. § A Kbt. 62. §-a helyébe a következő rendelkezés lép:
+„62. § (1) Eredményes közbeszerzési eljárás alapján a szerződést az 59. § (1) bekezdése szerinti szervezettel (személlyel) kell a felhívás, a dokumentáció és az ajánlat tartalmának megfelelően írásban megkötni. Ha az ajánlatkérő lehetővé tette a közbeszerzés egy részére történő ajánlattételt, a részek tekintetében nyertesekkel kell szerződést kötni. E szerződés szükség esetén az ajánlatoknak, illetve a felhívásnak megfelelően tartalmazhatja az ajánlattevőként szerződést kötők közötti együttműködés feltételeit is.
+(2) A szerződés megkötésének időpontját az ajánlati felhívásban kell megállapítani azzal, hogy az - a 71/B. § (3)-(4) bekezdése szerinti eset kivételével - nem határozható meg az eredményhirdetést követő naptól számított nyolcadik napnál korábbi és a harmincadik (építési beruházás esetén a hatvanadik) napnál későbbi időpontban.
+(3) Az ajánlatkérő az 59. § (1) bekezdése szerinti szervezettel (személlyel) szemben csak abban az esetben mentesül a szerződés megkötésének kötelezettsége alól, ha az eredményhirdetést követően - általa előre nem látható ok következtében - beállott körülmény miatt a szerződés megkötésére vagy teljesítésére nem képes.
+(4) A szerződést az (1) bekezdés szerinti szervezetnek (személynek) kell teljesítenie. A teljesítésben - ha az ajánlatkérő az ajánlati felhívásban az alvállalkozók, illetőleg a teljesítésben egyébként résztvevők megnevezését előírta - csak az ajánlatban megjelölt és az eljárás eredményéről közzétett 6. számú melléklet szerinti hirdetmény 10. pontjában szereplő szervezet (személy) működhet közre kivéve, ha emiatt a szerződéskötést követően - a felek által előre nem látható okból - beállott körülményre tekintettel a szerződés vagy annak egy része nem volna teljesíthető és az ajánlatkérőként szerződést kötő fél más megjelölt szervezet (személy) közreműködéséhez hozzájárul.
+(5) Az ajánlatkérő köteles az ajánlattevőnek a szerződésben meghatározott módon és tartalommal való teljesítésétől számított legkésőbb harminc (építési beruházás esetén hatvan) napon belül az ellenszolgáltatást teljesíteni, kivéve ha törvény eltérően rendelkezik vagy a felek az ellenszolgáltatás halasztott, illetve részletekben történő teljesítésében állapodtak meg.
+(6) Igazolt teljesítés esetén, az (5) bekezdés szerinti határidő eredménytelen elteltét követően az ajánlattevőként szerződést kötő fél azonnali beszedési megbízást nyújthat be az 1. § a)-b) pontja szerinti ajánlatkérő bankszámlája terhére.”
+30. § A Kbt. 63. §-a helyébe a következő rendelkezés lép és a Kbt. a 63. §-a előtt a következő címmel egészül ki:
+„A két szakaszból álló eljárások közös szabályai
+63. § (1) Két szakaszból áll a nyílt előminősítési, a meghívásos és a hirdetmény közzétételével induló tárgyalásos eljárás. Az ilyen eljárások első - részvételi - szakaszában az ajánlatkérő nem kérhet, a részvételre jelentkező pedig nem tehet ajánlatot.
+(2) Sem a részvételi, sem az ajánlattételi szakaszban nem vehet részt, aki a 46. § hatálya alá tartozik.
+(3) A részvételi szakaszt megindító részvételi felhívásban a 44. § (1)-(5) bekezdése alapján meg kell határozni az eljárásban történő részvételre való alkalmasság igazolásának módját és megítélésének szempontjait, illetve azt, hogy az e szempontokkal összefüggő mely körülmények megléte, illetőleg hiánya vagy azok milyen mértékű fogyatékossága miatt minősíti az ajánlatkérő a részvételre jelentkezőt alkalmatlannak a szerződés teljesítésére.
+(4) A két szakaszból álló eljárás során a részvételi felhívásban kell meghatározni az ajánlatok elbírálásának szempontját, továbbá meg lehet határozni a 34. §-ának (3) bekezdésében foglaltakat. A részvételi felhívásra a 32. § (2) bekezdését, a 33. §-ának (2)-(3) bekezdését, valamint a 40. §-át alkalmazni kell.
+(5) A részvételi felhívásban a részvételi jelentkezés határideje nem határozható meg a hirdetmény közzétételétől számított huszonöt napnál rövidebb időtartamban.
+(6) A részvételi felhívást visszavonni, illetve a részvételi határidőt indokolt esetben - az indokok közlése mellett - egyszer meghosszabbítani a részvételi határidő lejártáig közzétett hirdetménnyel lehet. A részvételi szakaszra vonatkozó dokumentációt és a részvételi felhívásnak a részvételi szakaszra vonatkozó részeit, valamint a beszerzés tárgyát és mennyiségét a részvételi határidő lejártáig, annak egyéb elemeit az ajánlattételi határidő lejártáig közzétett hirdetménnyel lehet módosítani.
+(7) A részvételi jelentkezésben az ajánlatkérő által a részvételi felhívásban előírt módon kell igazolni a részvételre jelentkezőnek a szerződés teljesítésére való pénzügyi, gazdasági és műszaki alkalmasságát.
+(8) A két szakaszból álló eljárás részvételi szakaszában 37-38. §-t, a 43. § (4)-(6) bekezdését, az 51-54. §-okat és a 61. § (6) bekezdését megfelelően alkalmazni kell.”
+31. § A Kbt. 64. §-ának helyébe a következő rendelkezés lép:
+„64. § (1) Az ajánlatkérő a részvételi határidő lejártát követő harminc (építési beruházás esetén hatvan) napon belül köteles a részvételre történő jelentkezéseket elbírálni, az eredményt nyilvánosan kihirdetni, valamint az eredményhirdetéstől számított öt munkanapon belül köteles az ajánlati felhívásokat megküldeni. E határidőkre, valamint elmulasztásuk következményeire az 55. § (2) és (4)-(5) bekezdését, valamint a 60. § (1) bekezdésének e) pontját kell alkalmazni.
+(2) Az ajánlatkérő az eredményhirdetéstől számított öt munkanapon belül köteles a részvételi szakasz eredményét a 4. számú mellékletben meghatározott minta szerinti hirdetményben közzétenni, melyben a részvételre jelentkezők alkalmasságának, illetve alkalmatlanságának indokait a részvételi felhívásban meghatározott alkalmassági szempontok szerint kell indokolni.
+(3) A két szakaszból álló eljárás ajánlati szakaszában a közvetlenül megküldött ajánlati felhívásnak - a tárgyalásos eljárás kivételével - legalább a következő adatokat kell tartalmaznia:
+a) az ajánlatkérő nevét, címét, telefon- és telefaxszámát;
+b) hivatkozást a közzétett részvételi felhívásra;
+c) szükség esetén a dokumentáció beszerzési helyét, megkérésének határidejét és pénzügyi feltételeit;
+d) az ajánlatkérő pénzügyi ellenszolgáltatásának feltételeit;
+e) a címet, amelyre az ajánlatot be kell nyújtani, az ajánlatok felbontásának időpontját és helyét, az ajánlatkérő által a felbontásra meghívottakat;
+f) a 34. § (3) bekezdésében foglaltakat, ha azok a részvételi felhívásban nem szerepeltek;
+g) az ajánlati kötöttség időtartamát;
+h) az eredményhirdetés időpontját;
+i) a szerződéskötés időpontját.
+(4) A két szakaszból álló eljárás ajánlati szakaszában - a tárgyalásos eljárás kivételével - az ajánlattételi határidő nem határozható meg az ajánlati felhívás feladásától számított negyven napnál rövidebb időtartamban.
+(5) A két szakaszból álló eljárásban az ajánlattételi határidő meghosszabbítására a 47. §-ának (2)-(3) bekezdését, a közvetlenül megküldött ajánlati felhívás és az azzal kapcsolatosan kibocsátott dokumentáció módosítására a 48. §-ának (1) bekezdését kell alkalmazni azzal az eltéréssel, hogy hirdetmény közzététele helyett egyidejűleg, közvetlenül, írásban kell tájékoztatni az ajánlattevőket.”
+32. § A Kbt. 70. §-ának helyébe a következő rendelkezés lép:
+„70. § (1) Az ajánlatkérő tárgyalásos eljárást alkalmazhat árubeszerzés, építési beruházás, illetve szolgáltatás megrendelése esetén, ha
+a) a nyílt vagy a meghívásos eljárás - a 60. § (1) bekezdésének e) vagy f) pontjában foglaltak kivételével - eredménytelen volt, feltéve, hogy a felhívásnak, illetőleg a dokumentációnak a közbeszerzés tárgyára vonatkozó feltételei időközben nem változtak meg;
+b) a szerződést műszaki-technikai sajátosságok, művészeti szempontok vagy kizárólagos jogok védelme miatt kizárólag egy meghatározott személy képes teljesíteni;
+c) az ajánlatkérő által előre nem látható okból előállt rendkívüli sürgősség miatt e törvényben előírt határidők nem lennének betarthatóak; a rendkívüli sürgősséget indokló körülmények azonban nem eredhetnek az ajánlatkérő mulasztásából;
+d) a beszerzés nyilvánosan közzétett és bárki által igénybe vehető kedvező feltételei csak rövid ideig állnak fenn, és a kedvező feltételek igénybevétele más típusú eljárás alkalmazása esetén meghiúsulna;
+e) az ellenszolgáltatás vagy egyéb szerződéses feltételek meghatározása nem lehetséges olyan pontossággal, illetve egyértelműséggel, mely lehetővé teszi a nyílt vagy meghívásos eljárásban a legkedvezőbb ajánlat kiválasztását.
+(2) Az ajánlatkérő tárgyalásos eljárást alkalmazhat építési beruházás, illetőleg szolgáltatás megrendelése esetén, ha előre nem látható körülmények folytán az építési beruházás, illetve a szolgáltatás teljesítéséhez az eredeti szerződésben nem szereplő kiegészítő építési beruházási munkának, illetve szolgáltatásnak a korábbi nyertes ajánlattevővel való elvégzése vált szükségessé, feltéve, hogy
+a) a kiegészítő építési beruházási munka, illetve szolgáltatás értéke nem haladja meg a korábbi közbeszerzés értékének ötven százalékát, és
+b) a kiegészítő építési beruházási munkát, illetve szolgáltatást aránytalan nehézség nélkül nem lehet műszakilag vagy gazdaságilag elválasztani a korábban kötött szerződéstől, vagy
+c) az elválasztható építési beruházási munka, illetve szolgáltatás feltétlenül szükséges az eredeti szerződés teljesítéséhez.
+(3) Az ajánlatkérő tárgyalásos eljárást alkalmazhat árubeszerzés esetén, ha
+a) az érintett dolgot kizárólag kutatási, kísérleti, tanulmányozási vagy fejlesztési célból állítják elő; ez az eset azonban nem alkalmazható olyan mennyiség esetén, ami megalapozza a piacképességet, illetve a kutatásfejlesztés költségeit fedezi;
+b) a korábban beszerzett dolog részbeni kicserélése vagy bővítése során a korábbi nyertes ajánlattevőnek másikkal történő helyettesítése azzal a következménnyel járna, hogy eltérő és nem illeszkedő műszaki-technikai jellemzőjű dolgokat kellene beszerezni, vagy az ilyen beszerzés aránytalan műszaki-technikai nehézséget eredményezne a működtetésben és a karbantartásban; az ilyen - egy alkalommal, a korábbi nyertes ajánlattevővel kötött - szerződés időtartama azonban nem haladhatja meg a három évet;
+c) ingatlan tulajdonjogának vagy a használatára, hasznosítására vonatkozó jognak a megszerzésére irányul a beszerzés.”
+33. § A Kbt. 71. §-a helyébe a következő rendelkezés lép:
+„71. § (1) A tárgyalásos eljárás hirdetmény közzétételével vagy anélkül indul. Az ajánlatkérőnek a tárgyalásos eljárás megindításáról csak a 70. § (1) bekezdésének a) és e) pontja, valamint (3) bekezdésének a) pontja szerinti esetekben kell - a 9. számú mellékletben meghatározott minta szerinti - hirdetménnyel az ajánlattevőket részvételre felhívnia.
+(2) A tárgyalásos eljárás során nem áll fenn az ajánlatkérőnek, illetve az ajánlattevőnek a 48-50. § szerinti ajánlati kötöttsége, de ez nem járhat azzal, hogy az eljárás alapján megkötött szerződés tárgya olyan jellemzőjében, illetve körülményében tér el az eljárás megkezdésekor beszerezni kívánt beszerzési tárgytól, amely nem tette volna lehetővé tárgyalásos eljárás tartását. Ha az ajánlatkérő az eljárás eredményét kihirdette, a szerződést a felhívás (illetve a dokumentáció) és az ajánlat eredményhirdetéskori tartalma szerint kell megkötni.
+(3) A tárgyalásos eljárásban nem alkalmazhatóak az előminősítési eljárás szabályai. E törvénynek a nyílt közbeszerzési eljárás lefolytatására vonatkozó egyéb rendelkezéseit a (4)-(6) bekezdésben, valamint a 71/A. és 71/B. §-ban foglalt eltérésekkel kell alkalmazni.
+(4) A tárgyalásos eljárásban az ajánlattevők részére közvetlenül megküldött ajánlati felhívásnak legalább a következő adatokat kell tartalmaznia:
+a) az ajánlatkérő nevét, címét, telefon- és telefaxszámát;
+b) szükség esetén a dokumentáció beszerzési helyét, megkérésének határidejét és pénzügyi feltételeit;
+c) a beadandó iratok megjelölését;
+d) az ajánlatkérő pénzügyi ellenszolgáltatásának feltételeit;
+e) a 34. § (3) bekezdésében foglaltakat, ha azok a részvételi felhívásban nem szerepeltek;
+f) az eljárás lefolytatásának menetét és az ajánlatkérő által előírt különös szabályait;
+g) az első tárgyalás időpontját.
+(5) A tárgyalásos eljárásban nem érvényesül az ajánlattételre vonatkozó határidők e törvényben meghatározott legrövidebb tartama, de a határidőt úgy kell megállapítani, hogy az ajánlattevők egyenlő eséllyel megfelelő ajánlatot tehessenek.
+(6) Tárgyalásos eljárásban az eljárás eredményét már az utolsó tárgyalás befejezésekor is ki lehet hirdetni.”
+34. § (1) A Kbt. a 71. §-a után kiegészül a következő 71/A. §-sal:
+„71/A. § (1) A hirdetmény közzétételével induló tárgyalásos eljárásban az ajánlatkérő már a hirdetményben megjelölheti azokat, akiket az eljárásban való részvételre meg kíván hívni, és a megjelöltek számát meghaladó keretszámot előírva meghatározhatja a tárgyalásra meghívottak létszámát is. A keretszám nem lehet kisebb háromnál.
+ (2) A hirdetményben megjelölteken kívül az eljárásban való részvételre mindazok jelentkezhetnek a hirdetmény alapján, akik alkalmasak a szerződés teljesítésére. A tárgyalásra az előírt keretszámnak megfelelő számú - a részvételi felhívásban meghatározott alkalmassági szempontok alapján kiválasztott - ajánlattevőt kell egyidejűleg, közvetlenül, írásban meghívni, amennyiben ezt az alkalmasnak minősített ajánlattevők száma lehetővé teszi.
+(3) Az ajánlattevőknek közvetlenül megküldött ajánlati felhívásban a 71. § (4) bekezdésében foglaltakon túl meg kell jelölni a részvételi felhívás közzétételének időpontját is.”
+(2) A Kbt. a 71/A. § után kiegészül a következő 71/B. §-sal:
+„71/B. § (1) A hirdetmény közzététele nélküli tárgyalásos eljárás - a (3) bekezdés szerinti eset kivételével - ajánlati felhívás kiküldésével kezdődik. Az ajánlati felhívásnak a 71. §-ának (4) bekezdésében foglaltakon kívül tartalmaznia kell a tárgyalásos eljárás 70. § szerinti jogcímét, azt, hogy az ajánlatkérő igényli-e az írásbeli ajánlattételt, valamint a 9. számú melléklet 2/d), 3., 4., 8., 9/a)-c) és 11. pontjaiban foglaltakat, továbbá a 34. § (3) bekezdésében foglaltakat, ha az ajánlatkérő az összességében legelőnyösebb ajánlatot kívánja választani.
+(2) A hirdetmény közzététele nélkül induló tárgyalásos eljárás megkezdésekor meg kell küldeni a Bizottság elnöke részére - telefaxon is - az ajánlati felhívást, továbbá a meghívni kívánt szervezetek (személyek) nevéről, székhelyéről, valamint a tárgyalásos eljárás alkalmazását megalapozó körülményekről szóló tájékoztatást.
+(3) A 70. § (1) bekezdésének c) pontja szerinti, hirdetmény közzététele nélküli tárgyalásos eljárásban azzal az ajánlattevővel kell tárgyalni és a tárgyalás befejezésekor írásban szerződést kötni, aki a szerződést a rendkívüli helyzet által megkívánt idő alatt képes teljesíteni. Ebben az esetben a köztartozások hiányáról [46. § (1) bekezdésének b) pontja, (3) bekezdése] az ajánlattevőnek nyilatkoznia kell, és az ezekkel kapcsolatos igazolásokat legkésőbb a szerződéskötést követő tizenöt napon belül kell csatolni. Az eljárás megkezdéséről telefaxon tájékoztatni kell a Bizottságot, megjelölve a 71. § (4) bekezdésében és az (1)-(2) bekezdésben foglalt adatokat.
+(4) A 70. § (1) bekezdésének d) pontja szerinti, hirdetmény közzététele nélküli tárgyalásos eljárásban az ajánlatkérő a kedvező feltételekről való tudomásszerzést követően haladéktalanul ajánlati felhívást küld telefaxon a kedvező feltételeket felajánlónak és még legalább két ismert ajánlattevőnek. A felhívottakkal a kedvező feltételek fennállásának időtartamán belül kell tárgyalni, és a nyertessel írásban szerződést kötni. A kedvező feltételt felajánló dokumentumot is a 61. § (5) bekezdése szerint kell megőrizni.
+(5) A 70. § (3) bekezdésének c) pontja szerinti, hirdetmény közzététele nélküli tárgyalásos eljárásban lehetőség szerint legalább három ajánlattevő részére kell ajánlati felhívást küldeni.”
+35. § (1) A Kbt. 76. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A Bizottság hatáskörébe tartozik a törvényt önként alkalmazó, valamint - ha törvény így rendelkezik - a 6. § i) pontja szerinti szerződéskötési szabályt alkalmazni köteles szervezet (személy) (1) bekezdésnek megfelelő jogsértésével kapcsolatos jogvita elbírálása.”
+(2) A Kbt. 77. §-a kiegészül a következő (3)-(4) bekezdéssel:
+„(3) A Bizottság elnöke a három tagú tanács tagjai közül kijelöli azt a jogi szakvizsgával rendelkező közbeszerzési biztost, aki koordinálja az eljárás lefolytatását.
+(4) A (3) bekezdés szerint kijelölt közbeszerzési biztos az ideiglenes intézkedésen és a 86. § (4) bekezdése szerinti határozat meghozatalán kívül minden olyan intézkedést megtehet, amelyet a törvény a Bizottság hatáskörébe utal.”
+36. § A Kbt. 79. §-a (4)-(6) bekezdése helyébe a következő rendelkezés lép, egyidejűleg a § az alábbi (7)-(9) bekezdéssel egészül ki:
+„(4) A Bizottság hivatalból jár el az (5)-(6) bekezdés szerinti esetekben, valamint, ha hivatalból való eljárását a következő szervezetek vagy személyek - a hatáskörük ellátása során tudomásukra jutott -, a 76. § (1) bekezdése szerinti eseményekkel kapcsolatban kezdeményezik:
+a) a Tanács tagja vagy elnöke;
+b) a 10. § d) pontja szerinti támogatást nyújtó szervezet;
+c) a központosított közbeszerzés során ajánlatkérésre feljogosított szervezetek;
+d) az Állami Számvevőszék;
+e) a Kormányzati Ellenőrzési Hivatal;
+f) a fővárosi, megyei közigazgatási hivatal;
+g) a Magyar Államkincstár a helyi önkormányzatok címzett, illetőleg céltámogatásának felhasználása tekintetében;
+h) az állampolgári jogok országgyűlési biztosa, a nemzeti és etnikai kisebbségi jogok országgyűlési biztosa, valamint az adatvédelmi biztos.
+(5) Ha a Bizottság elnöke a hirdetmény közzététele nélküli tárgyalásos eljárás megkezdéséről küldött iratok vizsgálata során megállapítja, hogy megalapozottan feltételezhető a közbeszerzési eljárás alapelveinek vagy szabályainak megsértése, az eljáró közbeszerzési biztosok kijelölésével megindítja a Bizottság hivatalból történő eljárását.
+(6) Ha a Bizottság a (3)-(4) és (7) bekezdésnek megfelelően kérelmezett vagy kezdeményezett, folyamatban lévő jogorvoslati eljárás során az addig vizsgáltakon túli jogsértésről szerez tudomást, a 86. § (4) bekezdése szerinti határozat meghozatala előtt ezek vonatkozásában is eljárhat hivatalból. Az újonnan tudomásra jutott jogsértésre vonatkozó tényeket írásban vagy a tárgyaláson a felek és az érdekeltek tudomására kell hozni és azokkal kapcsolatban is be kell szerezni álláspontjukat.
+(7) Az eljárást az e törvény szabályait sértő esemény tudomásra jutásától számított tizenöt napon belül, de legkésőbb az esemény bekövetkezésétől számított kilencven napon belül lehet kérelmezni vagy kezdeményezni, illetve e határidőn belül indítható meg hivatalból az (5) vagy a (6) bekezdés szerint. E határidők elmulasztása jogvesztéssel jár. Ha a Bizottság a (3)-(4) bekezdésnek megfelelően és a határidőn belül kérelmezett vagy kezdeményezett, folyamatban lévő jogorvoslati eljárás során az addig vizsgáltakon túli jogsértésről szerez tudomást, akkor is eljárhat hivatalból, ha az újonnan ismertté vált esemény kilencven napnál régebben következett be, feltéve, hogy azt az addig vizsgált szervezettel (személlyel) azonos szervezet (személy) követte el.
+(8) A (7) bekezdés szerinti határidő lejártának kiszámításakor a jogsértő esemény bekövetkezésének kell tekinteni
+a) jogellenes tartalmú felhívás, illetőleg dokumentáció esetén az ajánlattételi, illetve részvételi jelentkezési határidő lejártát;
+b) az előírt határidőnél később közzétett hirdetmény esetén a hirdetmény megjelenését;
+c) közbeszerzési eljárás mellőzésével történő beszerzés esetén a szerződés megkötését.
+(9) A jogorvoslati eljárást azonban a jogsértő eseménnyel előidézett állapot fennállása esetén a (8) bekezdésben meghatározott időpont előtt is meg lehet indítani.”
+37. § (1) A Kbt. 80. §-ának (1) bekezdése a következő g) ponttal egészül ki:
+(A kérelemben meg kell jelölni)
+„g) hogy a kérelmező kéri-e tárgyalás tartását.”
+(2) A Kbt. 80. §-a (2)-(3) bekezdésének helyébe a következő rendelkezések lépnek:
+„(2) A Bizottság kérelemre indult eljárásáért - az eljárás megindításakor - harmincezer forint igazgatási szolgáltatási díjat kell fizetni.
+ (3) Ha a kérelem az (1) bekezdés szerinti adatokat nem tartalmazza, vagy az igazgatási szolgáltatási díjat nem fizették meg, a Bizottság felhívja a kérelmezőt a hiányok öt napon belüli pótlására.”
+(3) A Kbt. 80. §-a a következő (4)-(6) bekezdéssel egészül ki:
+„(4) Ha a Bizottság megállapítja, hogy a (3) bekezdés szerinti hiánypótlást nem teljesítették, illetőleg a kérelem nem felel meg a 79. § (3) vagy (7) bekezdése szerinti feltételeknek, a kérelmet elutasítja. Az elutasításról szóló határozat ellen a 89-93. § szerinti jogorvoslatnak van helye.
+(5) A Bizottság hivatalból való eljárását kezdeményező iratban meg kell jelölni az (1) bekezdés a)-c) és f) pontjaiban szereplő adatokat és javaslatot lehet tenni az (1) bekezdés d), e) és g) pontjaiban foglaltakra. Csatoltan meg kell küldeni továbbá a Bizottságnak a jogsértéssel érintett beszerzéssel (közbeszerzéssel) kapcsolatban rendelkezésre álló iratok másolatát.
+(6) A (2) bekezdés szerinti díj, a 85. § és a 88. § (1) bekezdésének f) pontja szerinti bírság (pénzbírság) beszedésére a Tanács jogosult, melyet a Tanácsnak a Magyar Államkincstárnál vezetett számlájára kell befizetni. A teljes díj és a bírság (pénzbírság) huszonöt százaléka a Tanács saját bevétele, a fennmaradó hetvenöt százalék a központi költségvetés központosított bevételét képezi.”
+38. § (1) A Kbt. 82. §-a (1) bekezdésének helyébe a következő rendelkezés lép:
+„(1) A Bizottság a folyamatban lévő jogorvoslati ügyben kérelemre vagy hivatalból - a jogorvoslati eljárással érintett beszerzést vagy közbeszerzési eljárást lezáró szerződés megkötéséig - többségi szavazás alapján ideiglenes intézkedéseket tehet, ha megállapítható, hogy e törvény szabályainak megszegése miatt a közbeszerzések tisztasága sérült, vagy ennek veszélye fennáll.”
+(2) A Kbt. 82. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A (2) bekezdés a) pontja szerinti ideiglenes intézkedés alkalmazása a felhívásban előírt és folyamatban lévő határidőket a felfüggesztés időtartamával meghosszabbítja.”
+39. § (1) A Kbt. 88. §-a (1) bekezdésének f)-g) pontja helyébe a következő rendelkezés lép és a bekezdés kiegészül a következő új h) ponttal:
+(A Bizottság határozatában)
+„f) bírságot szab ki az e törvény szabályait megszegő, illetőleg a nyilvánvaló jogsértés ismeretében szerződést kötő szervezettel és a jogsértésért, illetve a szerződéskötésért felelős személlyel, illetőleg a szervezettel jogviszonyban álló, a jogsértésért felelős személlyel és szervezettel szemben;
+g) elrendelheti az 5. § (4) bekezdésének alkalmazását;
+h) a jogsértőt kötelezi az eljárási díj és a jogorvoslati eljárással kapcsolatban felmerült költségek viselésére.”
+(2) A Kbt. 88. §-ának (4)-(5) bekezdése helyébe a következő rendelkezés lép és a § kiegészül a következő (6)-(7) bekezdéssel:
+„(4) A bírság mértéke a közbeszerzés értékének legfeljebb harminc százaléka, de legalább a jogsértő cselekmény elkövetésének időpontjában hatályos éves költségvetési törvényben meghatározott összeg.
+(5) A Bizottság az (1) bekezdésben szereplő intézkedéseket együttesen is alkalmazhatja.
+(6) Ha a Bizottság megsemmisíti az ajánlatkérőnek az eljárást lezáró döntését, az ajánlatkérő jogosult a döntést megalapozó tényezőket ismételten mérlegelni, és a határozat végrehajthatóságának időpontjától számított harminc (építési beruházás esetén hatvan) napon belül új döntést hozni.
+(7) Az e törvény szerinti jogkövetkezmények alkalmazása nem zárja ki a Ptk. 200. §-a (2) bekezdésének alkalmazását az e törvénybe ütköző módon kötött szerződés semmisségének megállapítása tekintetében.”
+40. § A Kbt. 91. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A bíróság a Bizottság határozatát megváltoztathatja és megteheti a 88. § (1) bekezdésének b)-g) pontja szerinti intézkedéseket.”
+41. § (1) A Kbt. 96. §-a (1) bekezdésének b) pontja helyébe a következő rendelkezés lép, egyidejűleg a bekezdés kiegészül az alábbi d)-h) ponttal:
+(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza)
+„b) a közbeszerzések központosítására irányadó részletes szabályokat, a központosított közbeszerzés során ajánlatkérésre feljogosított szervezetek részére fizetendő - kizárólag a végrehajtással felmerülő költségeket fedező - díjat;
+d) az Európai Közösségek segélyprogramjaira irányadó részletes, valamint az e törvénytől eltérő - a programok lebonyolításával összefüggő követelményekhez igazodó - sajátos szabályokat; az erről szóló rendeletben meghatározott hirdetményeket a Közbeszerzési Értesítőben közzé kell tenni;
+e) a Kormány által irányított költségvetési szervek tekintetében egyes, a rendeletben megállapított termékek és szolgáltatások elektronikus úton történő beszerzésének e törvénytől eltérő szabályait; e szabályok megszegése vagy mellőzése esetén a 76-93. §-okat alkalmazni kell;
+f) a haditechnikai eszközök beszerzésére, valamint a nemzetbiztonsági szolgálatok speciális gazdálkodása keretében végrehajtott beszerzésekre irányadó eljárási szabályokat;
+g) a szerződéskötés feltételeként előírt előzetes nemzetbiztonsági ellenőrzés esetén alkalmazandó speciális szabályokat;
+h) azon beszerzések lefolytatásának sajátos szabályait, melyek vonatkozásában az Országgyűlés illetékes bizottsága a 6. § a) pontja alapján a törvény alkalmazását kizáró előzetes döntést hozott.”
+(2) A Kbt. 96. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Felhatalmazást kapnak a helyi önkormányzatok, hogy - amennyiben ezt a helyi beszerzések száma és értéke indokolja - rendeletben szabályozzák az általuk alapított helyi önkormányzati költségvetési szervek vonatkozásában
+a) a közbeszerzési eljárás kiírásával és elbírálásával kapcsolatos tevékenységre és az abban eljáró személyekre vonatkozó - e törvényben nem szabályozott - rendelkezéseket;
+b) a 24. §-sal összhangban a 2. § (3) bekezdése szerinti értékhatár alatti beszerzésekre vonatkozó részletes szabályokat.”
+42. § (1) Ez a törvény a kihirdetésének hónapját követő harmadik hónap első napján lép hatályba, rendelkezéseit a hatálybalépését követően megkezdett beszerzésekre és az azokkal kapcsolatban kérelmezett, kezdeményezett vagy hivatalból megindított jogorvoslati eljárásokra kell alkalmazni.
+(2) A Kbt. e törvény 11. §-ával módosított 14. §-ának (1) bekezdését a Tanács elnöke, illetőleg alelnöke megbízatásának lejártától, a Kbt. 12. §-ának (6) bekezdését és 14. §-a (2)-(4) bekezdését a Tanács elnökének e törvény szerint történt kinevezésétől kell alkalmazni.
+(3) A Kbt. e törvény 6. §-ával módosított 6. §-ának h) pontja, valamint e törvény 9. §-ával módosított 10. §-ának sz) pontja 2000. január 1-jén lép hatályba.
+(4) A Kbt. e törvény 25. §-ával módosított 46. §-a (1) bekezdésének c) pontját az e törvény hatálybalépését követően elkövetett, majd jogerős és végrehajtható döntőbizottsági vagy bírósági határozattal megállapított hamis adatszolgáltatás esetén kell alkalmazni.
+ (5) A Kbt. 50. §-ának (2) bekezdésében az „elbírálási” szó helyébe „eredményhirdetési” szó lép.
+(6) E törvény hatálybalépésével egyidejűleg hatályát veszti a Kbt. 1. §-ának e) pontja után szereplő zárójeles szövegrész, a Kbt. 3. § (4) bekezdésének első mondata, 9. § (2) bekezdésének b) pontja, 10. §-ának c) pontja, 11. §-ának (4) bekezdése, 23. §-ának (3) bekezdése, 26. §-a (5) bekezdésének második mondata, 39. §-a, 42. §-a (1) bekezdésének utolsó mondata, (2) és (6)-(8) bekezdése, 48. §-ának (3) bekezdése, 50. §-ának (3) bekezdése, 56. §-ának (1) bekezdése, 60. §-ának (2)-(3) bekezdése, 68-69. §-a, 73. §-ának (2) bekezdése, 94. §-ának (6) bekezdése, 95. §-a, valamint a Kbt. 50. §-a feletti cím.
+(7) A Kbt. 1-9. számú mellékletei helyébe e törvény 1-9. számú mellékletei lépnek és a Kbt. kiegészül az e törvény 10-11. számú melléklete szerinti 10-11. számú melléklettel.
+(8) A bírságnak az e törvény 39. §-a (2) bekezdésével módosított Kbt. 88. § (4) bekezdése szerinti legalacsonyabb mértéke 1999-ben hétszázezer, természetes személyek tekintetében hetvenezer forint.
+(9) A külön jogszabály szerinti agrártámogatásból végrehajtott beszerzésekre 1999-ben nem terjed ki a Kbt. hatálya.
+43. § Az államháztartásról szóló 1992. évi XXXVIII. törvény 13/B. §-ának helyébe a következő rendelkezés lép:
+„13/B. § (1) Az államháztartás alrendszereihez tartozó szervezetek kötelesek az árubeszerzési, építési beruházási, illetve szolgáltatás-megrendelési célra juttatott támogatások felhasználását - ha ennek a közbeszerzésekről szóló 1995. évi XL. törvény (a továbbiakban: Kbt.) szerinti feltételei fennállnak - a közbeszerzési törvény alkalmazásához kötni. A támogatásról szóló határozatban vagy szerződésben - ha a kedvezményezett egyéb forrással is rendelkezik - úgy kell meghatározni a támogatásból megvalósítandó beszerzést, hogy annak becsült értéke elérje a támogatás mértékét és a felhasználásával kapcsolatos határidőket úgy kell megállapítani, hogy az abból történő beszerzés lefolytatásához a Kbt. alapján szükséges időtartam rendelkezésre álljon.
+(2) A támogatás nyújtása nem köthető olyan feltételhez, hogy az abból történő beszerzésre vonatkozó szerződést a támogatási kérelem elbírálását megelőzően kössék meg, vagy az abból megvalósított fejlesztéshez szükséges árut, szolgáltatást vagy építési beruházást megvalósító szervezetet (személyt) előzetesen válasszák ki.”
+44. § A köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 44. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A köztársasági elnök, az Országgyűlés, az Alkotmánybíróság, az országgyűlési biztos hivatalaiban, a Miniszterelnöki Hivatalban, a Kormányzati Ellenőrzési Irodánál, a Közbeszerzések Tanácsánál, a minisztériumokban, a költségvetési fejezet felügyeletét ellátó szervezeteknél, az Adó- és Pénzügyi Ellenőrzési Hivatalnál - a területi szervei kivételével -, az Országos Műszaki Fejlesztési Bizottság Hivatalánál, továbbá jogszabály által országos hatáskörű szervnek nyilvánított, a Kormány közvetlen felügyelete alatt álló, illetve a Kormány által irányított központi költségvetési szerveknél, valamint az Országos Nyugdíjbiztosítási Főigazgatóságnál és az Országos Egészségbiztosítási Pénztárnál a felsőfokú iskolai végzettségű köztisztviselők illetménykiegészítésének mértéke ötven százalék.”
+
+1. számú melléklet az 1999. évi LX. törvényhez
+
+„1. számú melléklet az 1995. évi XL. törvényhez
+
+ELŐZETES ÖSSZESÍTETT TÁJÉKOZTATÓ
+
+1. Az ajánlatkérő és - ha személyük különböző - a kiegészítő tájékoztatást adó neve, címe, távirati címe, telefon-, telex- és telefaxszámai:
+2. A beszerzések tárgyai, mennyisége vagy értéke (külön részletezve az árubeszerzést, az építési beruházást és a szolgáltatás megrendelését):
+3.* Az eljárások megindításának várható időpontja:
+4.* Beszerzésenként csoportosítva azok az adatok, amelyeket az ajánlatkérő a Kbt. 28/A. §-ának alkalmazása érdekében valamely közbeszerzési eljárásról közöl:
+a) a választani kívánt eljárás:
+b) a beszerzés tárgya és előrelátható mennyisége:
+c) a teljesítés helye és előrelátható határideje:
+5.* Egyéb információk:
+6. A hirdetmény feladásának és kézhezvételének napja:
+A *-gal megjelölt pontban szereplő adatot csak akkor kell beírni, ha az ismert.”
+
+2. számú melléklet az 1999. évi LX. törvényhez
+
+„2. számú melléklet az 1995. évi XL. törvényhez
+
+NYÍLT ELJÁRÁS MEGINDÍTÁSA(AJÁNLATI FELHÍVÁS)
+
+1. Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszámai:
+2. a) A választott eljárás:
+b) A szerződés meghatározása, amire ajánlatot kérnek:
+3. a) A beszerzés tárgya és mennyisége:
+b) A teljesítés helye:
+c) Annak meghatározása, hogy az ajánlattevő a beszerzés tárgyának egy részére tehet-e ajánlatot:
+d)* A részajánlat tételének szempontja:
+4. A teljesítés határideje, vagy a szerződés időtartama:
+5.* a) A dokumentációt rendelkezésre bocsátó szervezet neve és címe:
+b) A dokumentáció megkérésének határideje:
+c) A dokumentáció megvásárlásának feltételei:
+6. a) Az ajánlattételi határidő, mely azonos az ajánlatok felbontásának időpontjával:
+b) Az ajánlat benyújtásának címe (helység, utca, házszám, emelet, szobaszám):
+c) Az ajánlattétel nyelve:
+7. a)* Annak meghatározása, hogy az ajánlatok felbontására az ajánlatkérő a törvény 51. § (2) bekezdésében nevesített személyeken kívül kit hív meg:
+b) Az ajánlatok felbontásának helye:
+8.* a) Az ajánlati biztosíték összegszerűen meghatározott mértéke:
+b) Az ajánlati biztosíték nyújtásának feltételei:
+9. A pénzügyi ellenszolgáltatás teljesítésének feltételei, illetve hivatkozás a vonatkozó előírásokra:
+10.* A nyertes közös ajánlattevőktől gazdasági társaság létrehozásának megkövetelése:
+11. a) Az ajánlattevők pénzügyi, gazdasági és műszaki alkalmassága igazolására kért adatok és tények:
+b) Az ajánlattevőnek a szerződés teljesítésére alkalmatlanná minősítésének szempontjai:
+12. Az ajánlati kötöttség lejártának időpontja:
+13. a) Az ajánlatok elbírálásának szempontja:
+b)** A 34. § (3) bekezdésében foglaltak:
+14. Annak meghatározása, hogy lehet-e több változatú ajánlatot tenni:
+15. a) Az eredményhirdetés időpontja:
+b) A szerződéskötés időpontja:
+16. Egyéb információk:
+17.* Hivatkozás az előzetes összesített tájékoztatásra:
+18. A hirdetmény feladásának és kézhezvételének napja:
+A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges.
+** A 13/b) pontot csak akkor kell kitölteni, ha az összességében legelőnyösebb ajánlatot választják.”
+
+3. számú melléklet az 1999. évi LX. törvényhez
+
+„3. számú melléklet az 1995. évi XL. törvényhez
+
+ELŐMINŐSÍTÉSI ELJÁRÁS (RÉSZVÉTELI FELHÍVÁS)
+
+1. Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszámai:
+2. a) A választott eljárás:
+b) Az eljárás alkalmazása feltételének indokolása:
+c) A szerződés meghatározása, amire ajánlatot kérnek:
+3. a) A beszerzés tárgya és mennyisége:
+b) A teljesítés helye:
+c) Annak meghatározása, hogy az ajánlattevő a beszerzés tárgyának egy részére tehet-e ajánlatot:
+d)* A részajánlat tételének szempontja:
+4. A teljesítés határideje, vagy a szerződés időtartama:
+5.* A nyertes közös ajánlattevőktől gazdasági társaság létrehozásának megkövetelése:
+6. a) A részvételi jelentkezés határideje:
+b) A részvételi jelentkezés benyújtásának címe (helység, utca, házszám, emelet, szobaszám):
+c) A részvételi jelentkezés nyelve:
+7. A részvételi jelentkezésekkel kapcsolatos eredményhirdetés időpontja:
+8.* a) Az ajánlati biztosíték összegszerűen meghatározott mértéke:
+b) Az ajánlati biztosíték nyújtásának feltételei:
+9. A résztvevők pénzügyi, gazdasági és műszaki alkalmassága igazolására kért adatok és tények:
+10. a) A részvételre jelentkezők alkalmassága elbírálásának szempontjai:
+b) A részvételre jelentkezőnek a szerződés teljesítésére alkalmatlanná minősítésének szempontjai:
+c) Az ajánlatok elbírálásának szempontja:
+d)* A 34. § (3) bekezdésében foglaltak:
+11. Annak meghatározása, hogy az ajánlattétel során lehet-e majd több változatú ajánlatot tenni:
+12. Egyéb információk:
+13.* Hivatkozás az előzetes összesített tájékoztatóra:
+14. A hirdetmény feladásának és kézhezvételének napja:
+A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges.”
+
+4. számú melléklet az 1999. évi LX. törvényhez
+
+„4. számú melléklet az 1995. évi XL. törvényhez
+
+TÁJÉKOZTATÓ A KÉT SZAKASZBÓL ÁLLÓ ELJÁRÁS RÉSZVÉTELI SZAKASZÁNAK EREDMÉNYÉRŐL
+
+1. Az ajánlatkérő neve és címe:
+2. a) A beszerzés tárgya:
+b) A választott eljárás:
+3. Az eredményhirdetés időpontja:
+4. Az eljárásra jelentkezők száma:
+5. Az alkalmasnak minősített jelentkezők neve és címe, valamint minősítésük indokai:
+6. Az alkalmatlannak minősített jelentkezők neve és címe, valamint minősítésük indokai:
+7.* Az ajánlattételi szakban meghívni kívánt ajánlattevők neve és címe:
+8. Egyéb információk:
+9. A részvételi felhívás közzétételének napja:
+10. A hirdetmény feladásának és kézhezvételének napja:
+* A 7. pontot csak akkor lehet kitölteni, ha az ajánlatkérő a részvételi felhívásban a 67. § (2) vagy a 71/A. § (1) bekezdése alapján keretszámot határozott meg.”
+
+5. számú melléklet az 1999. évi LX. törvényhez
+
+„5. számú melléklet az 1995. évi XL. törvényhez
+
+ÖSSZEGEZÉS AZ ELJÁRÁSRÓL
+
+1. a) Az ajánlatkérő neve, címe:
+b) A beszerzés tárgya, mennyisége:
+c) Eredményes volt-e az eljárás:
+d)* Eredménytelen eljárás esetén az eredménytelenség indoka:
+2. a) Az érvényes ajánlatot tevő, ki nem zárt és alkalmasnak talált ajánlattevők neve, ajánlatuknak az elbírálás szempontja és - az összességében legelőnyösebb ajánlat választása esetén - annak részszempontjai szerinti tartalmi elemei:
+b)** Az a) pont szerinti ajánlatok értékelése a következő táblázatba foglalva:
+Az ajánlattevő neve:	Az ajánlattevő neve:	Az ajánlattevő neve:
+Az elbírálás	A részszempontok
+részszempontjai	súlyszámai	Értékelési pontszám	É. pont-szám és súlyszám szorzata	Értékelési pontszám	É. pont-szám és súlyszám szorzata	Értékelési pontszám	É. pont-szám és súlyszám szorzata
+A súlyszámmal szor-zott értékelési pontszá-mok összegei ajánlat-tevőnként:
+(A táblázatnak az ajánlattevők nevei alatti osztott oszlopainak bal oldalára az adott ajánlatnak az adott részszempont szerinti tartalmi elemeire megállapított értékelési pontszámot, jobb oldalára az értékelési pontszámnak a súlyszámmal kialakított szorzatát kell beírni.)
+c)** A táblázatban szereplő értékelési pontszámok indokolása:
+3. Az érvénytelen ajánlatot tevő, kizárt, illetve alkalmatlan ajánlattevők neve és az érvénytelenség, a kizárás vagy az alkalmatlanság indokai:
+4. a) Eredményes eljárás esetén a nyertes ajánlattevő neve és ajánlata kiválasztásának indokai:
+b)* A nyertest követő legkedvezőbb ajánlatot tevő neve és ajánlata kiválasztásának indokai:
+5.* A beszerzés azon része, melyre a nyertes, illetve az őt követő ajánlattevő harmadik személlyel szerződést köthet:
+6. Tárgyalásos eljárás esetén az eljárás alkalmazását megalapozó körülmények ismertetése:
+7.* Egyéb információk:
+8.* Hivatkozás az előzetes összesített tájékoztatóra:
+9. A tájékoztató elkészítésének időpontja:
+A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az abban foglalt eset fennáll.
+A **-gal megjelölt pontokat csak akkor kell kitölteni, ha az ajánlatkérő az összességében legelőnyösebb ajánlatot választja.
+
+6. számú melléklet az 1999. évi LX. törvényhez
+
+„6. számú melléklet az 1995. évi XL. törvényhez
+
+TÁJÉKOZTATÓ AZ ELJÁRÁS EREDMÉNYÉRŐL
+
+1. a) Az ajánlatkérő neve és címe:
+b) A beszerzés tárgya és mennyisége:
+c) Eredményes volt-e az eljárás:
+2. a) A választott eljárás:
+b)* Hirdetmény közzététele nélküli tárgyalásos eljárás esetén az eljárás alkalmazását megalapozó körülmények ismertetése:
+c)* Hirdetmény közzététele nélküli tárgyalásos eljárás esetén az ajánlattételre felkértek felsorolása:
+3. Az eredményhirdetés időpontja:
+4.* Az ajánlatok elbírálásának szempontja és a 34. § (3) bekezdésében foglaltak, ha azokat a részvételi felhívásban nem tették közzé:
+5.** A nyertes ajánlattevő neve és címe:
+6.* A nyertes ajánlatot követő legkedvezőbb ajánlatot tevő neve és címe:
+7. A beérkezett ajánlatok száma:
+8.* Az ajánlattevő(k) neve(i) és címe(i):
+9.** Az ellenszolgáltatás összege a beszerzés tárgyának egységeire vetítve:
+10.* a) A beszerzés tárgyának az a része és értéke, amire nézve az ajánlattevő harmadik személlyel kíván szerződést kötni (ha ez az ajánlatban szerepelt):
+b) A beszerzés értékének tíz százalékát meghaladó mértékben igénybe venni kívánt alvállalkozók neve és címe (ha ez az ajánlatban szerepelt):
+c) A teljesítésben egyébként a beszerzés értékének tíz százalékát meghaladó mértékben résztvevő szervezetek (személyek) neve és címe (ha ez az ajánlatban szerepelt):
+11.*** Ha az eljárás eredménytelen, ennek oka:
+12.* Egyéb információ:
+13. a)* Az eljárást megkezdő hirdetmény közzétételének napja:
+b)* Hirdetmény közzététele nélküli tárgyalásos eljárásban az ajánlati felhívás kiküldésének, illetve a 71/B. § (3) bekezdése szerinti esetben a Bizottság tájékoztatásának napja:
+14.* Hivatkozás az előzetes összesített tájékoztatóra:
+15. A hirdetmény feladásának és kézhezvételének napja:
+A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az abban foglalt eset fennáll.
+A **-gal megjelölt pontokat csak akkor kell kitölteni, ha az eljárás eredményes.
+A ***-gal megjelölt pontot csak eredménytelen eljárás esetén kell kitölteni.”
+
+7. számú melléklet az 1999. évi LX. törvényhez
+
+„7. számú melléklet az 1995. évi XL. törvényhez
+
+ÉVES ÖSSZEGEZÉS
+
+1. Az ajánlatkérő éves, értékhatár feletti beszerzéseinek száma és értéke:
+2. Az ajánlatkérő éves, értékhatár feletti beszerzéseinek részletezése az alábbiak szerint:
+a) a beszerzés tárgyai:
+b) az eljárás típusai:
+c) a nyertes hazai és külföldi ajánlattevők száma:
+3. Tárgyalásos eljárások részletezése alkalmazásuk esetei szerint, megadva az éves beszerzések számát, értékét:
+4. a) A bíróság által az adott évben jogerősen megállapított szerződésszegések száma:
+b) A szerződésszegések típusai:
+c) A szerződésszegést elkövető(k) neve, székhelye:
+5. Az ajánlatkérő éves, értékhatár alatti beszerzéseinek száma és értéke:
+6.* Az ajánlatkérő által központosított közbeszerzési eljárásban beszerzett áruk, szolgáltatások éves értéke:
+7.* Hivatkozás az előzetes összesített tájékoztatóra:
+A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az abban foglalt eset fennáll.”
+
+8. számú melléklet az 1999. évi LX. törvényhez
+
+„8. számú melléklet az 1995. évi XL. törvényhez
+
+MEGHÍVÁSOS ELJÁRÁS(RÉSZVÉTELI FELHÍVÁS)
+
+1. Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszámai:
+2. a) A választott eljárás:
+b) Az eljárás alkalmazása feltételének indokolása:
+c) A Kbt. 65. §-a (1) bekezdésének a) pontja szerinti eljárásban az ajánlattételre felhívni kívánt személyek megjelölése:
+d)* A gyorsított eljárás alkalmazása feltételének indokolása:
+e) A szerződés meghatározása, amire ajánlatot kérnek:
+3. a) A beszerzés tárgya és mennyisége:
+b) A teljesítés helye:
+c) Annak meghatározása, hogy az ajánlattevő a beszerzés tárgyának egy részére tehet-e ajánlatot:
+d)* A részajánlat tételének szempontja:
+4. A teljesítés határideje, vagy a szerződés időtartama:
+5.* A nyertes közös ajánlattevőktől gazdasági társaság létrehozásának megkövetelése:
+6. a) A részvételi jelentkezés határideje:
+b) A részvételi jelentkezés benyújtásának címe (helység, utca, házszám, emelet, szobaszám):
+c) A részvételi jelentkezés nyelve:
+7. A részvételi jelentkezésekkel kapcsolatos eredményhirdetés időpontja:
+8.* a) Az ajánlati biztosíték összegszerűen meghatározott mértéke:
+b) Az ajánlati biztosíték nyújtásának feltételei:
+9. A résztvevők pénzügyi, gazdasági és műszaki alkalmassága igazolására kért adatok és tények:
+10. a) A részvételre jelentkezők alkalmassága elbírálásának szempontjai:
+b) A részvételre jelentkezőnek a szerződés teljesítésére alkalmatlanná minősítésének szempontjai:
+c) Az ajánlatok elbírálásának szempontja:
+d)* A 34. § (3) bekezdésében foglaltak:
+11. A Kbt. 65. §-a (1) bekezdésének b) pontja szerinti eljárásban az ajánlatkérő által meghívni kívánt ajánlattevők tervezett száma, keretszáma:
+12 . Annak meghatározása, hogy az ajánlattétel során lehet-e majd több változatú ajánlatot tenni:
+13. Egyéb információk:
+14.* Hivatkozás az előzetes összesített tájékoztatóra:
+15. A hirdetmény feladásának és kézhezvételének napja:
+A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges.”
+
+9. számú melléklet az 1999. évi LX. törvényhez
+
+„9. számú melléklet az 1995. évi XL. törvényhez
+
+TÁRGYALÁSOS ELJÁRÁS (RÉSZVÉTELI FELHÍVÁS)
+
+1. Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszámai:
+2. a) A választott eljárás:
+b) Az eljárás alkalmazása feltételének indokolása:
+c)* A gyorsított eljárás alkalmazása feltételeinek indokolása:
+d) A szerződés meghatározása, aminek megkötése érdekében tárgyalni kívánnak:
+3. a) A beszerzés tárgya és mennyisége:
+b) A teljesítés helye:
+c) Annak meghatározása, hogy az ajánlattevő a beszerzés tárgyának egy részére tehet-e ajánlatot:
+d)* A részajánlat tételének szempontja:
+4. A teljesítés határideje, vagy a szerződés időtartama:
+5.* A nyertes közös ajánlattevőktől gazdasági társaság létrehozásának megkövetelése:
+6. a) A részvételi jelentkezés határideje:
+b) A részvételi jelentkezés benyújtásának címe (helység, utca, házszám, emelet, szobaszám):
+c) A részvételi jelentkezés nyelve:
+d) Az (első) tárgyalás időpontja:
+7. A részvételi jelentkezésekkel kapcsolatos eredményhirdetés időpontja:
+8. A résztvevők pénzügyi, gazdasági és műszaki alkalmassága igazolására kért adatok és tények:
+9. a) A részvételre jelentkezők alkalmassága elbírálásának szempontjai:
+b) A részvételre jelentkezőnek a szerződés teljesítésére alkalmatlanná minősítésének szempontjai:
+c) Az ajánlatok elbírálásának szempontja:
+d)* A 34. § (3) bekezdésében foglaltak:
+10.* Az ajánlatkérő által meghívni kívánt ajánlattevők keretszáma:
+11. Annak meghatározása, hogy lehet-e több változatú ajánlatot tenni:
+12.* Az ajánlatkérő által már kiválasztottak nevei és címei:
+13. Egyéb információk:
+14.* Hivatkozás az előzetes összesített tájékoztatóra:
+15. A hirdetmény feladásának és kézhezvételének napja:
+A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az a beszerzés vonatkozásában szükséges.”
+
+10. számú melléklet az 1999. évi LX. törvényhez
+
+„10. számú melléklet az 1995. évi XL. törvényhez
+
+TÁJÉKOZTATÓ A TÖRVÉNY 4. §-ÁNAK (7) BEKEZDÉSE SZERINTI SZERZŐDÉSKÖTÉSEKRŐL
+
+1. A beszerző szervezet neve és címe:
+2. A beszerzés tárgya és mennyisége:
+3. A szerződéskötés időpontja:
+4. A szerződést teljesítő fél neve és címe:
+5.* A szerződés megkötésére ajánlatot tett egyéb személyek (szervezetek neve és címe):
+6. Az ellenszolgáltatás összege a beszerzés tárgyának egységeire vetítve:
+7. A beszerzés tárgyának az a része és értéke, amire nézve a szerződést teljesítő fél harmadik személyekkel kíván szerződést kötni, e személyek (szervezetek) neve és címe, a beszerzés tárgyának részei szerint feltüntetve:
+8. Egyéb információ:
+9.* A beszerzéssel kapcsolatban előzetesen közzétett nyilvános hirdetmény vagy közlemény megjelenésének időpontja, a megjelentető kiadvány neve:
+10. A hirdetmény feladásának és kézhezvételének napja:
+A *-gal megjelölt pontokat csak akkor kell kitölteni, ha az abban foglalt eset fennáll.
+
+11. számú melléklet az 1999. évi LX. törvényhez
+
+„11. számú melléklet az 1995. évi XL. törvényhez
+
+HIRDETMÉNY MÓDOSÍTÁSA, VISSZAVONÁSA, A DOKUMENTÁCIÓ VAGY A HATÁRIDŐ MÓDOSÍTÁSA
+
+1. Az ajánlatkérő neve, címe, távirati címe, telefon-, telex- és telefaxszáma:
+2. a) A beszerzés tárgya:
+b) A választott eljárás:
+3. E hirdetmény célja:
+4. a) A módosítással (visszavonással) érintett hirdetmény vagy dokumentáció típusa:
+b) Az érintett, illetőleg a dokumentációhoz kapcsolódó hirdetményt tartalmazó Közbeszerzési Értesítő száma, a közzététel napja:
+5. Az eredeti ajánlattételi vagy részvételi jelentkezési határidő lejártának napja:
+6.* a) A módosítással érintett hirdetmény vagy dokumentáció módosuló pontjai és a módosítás szövege:
+b) Az új ajánlattételi vagy részvételi jelentkezési határidő:
+7.* A visszavonás ténye:
+8.* a) A határidő hosszabbítás indoka:
+b) Az új ajánlattételi vagy részvételi jelentkezési határidő:
+9. E hirdetmény feladásának és kézhezvételének napja:
+* A 6-8. pontok közül csak azt kell kitölteni, melyet e hirdetmény célja szükségessé tesz.”
+
+[LÁBJEGYZET_1] A törvényt az Országgyűlés az 1999. június 15-i ülésnapján fogadta el.

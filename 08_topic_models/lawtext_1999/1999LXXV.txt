@@ -1,0 +1,527 @@
+1999. évi LXXV. törvény
+
+a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról  [LÁBJEGYZET_1] 
+
+Az Országgyűlés a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek visszaszorítása érdekében a következő törvényt alkotja:
+
+ÁLTALÁNOS RENDELKEZÉSEK
+
+I. Fejezet
+
+ALAPVETŐ SZABÁLYOK
+
+A törvény célja, az eljárás soronkívülisége
+
+1. § (1) E törvény célja, hogy - közigazgatási-jogi eszközök biztosításával - hatékonyabb védelmet nyújtson a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: Btk.) szerinti, a bűnszervezet keretében elkövetett (Btk. 137. § 8. pont), illetve a bűnszervezet létrehozására (Btk. 263/C. §) irányuló bűncselekményekkel, valamint az e bűncselekményekkel összefüggő egyes jogsértő cselekményekkel szemben.
+(2) Az e törvény egyes rendelkezéseivel érintett hatósági ügyekben soron kívül kell eljárni és határozatot hozni.
+2. § (1) A személyi védelem tárgyában hozott határozat ellen fellebbezésnek helye nincs, a határozat közlésétől számított 3 napon belül lehet kérni az államigazgatási határozat bírósági felülvizsgálatát. A kérelemhez csatolni kell a határozatot.
+(2) A bíróság a kérelem benyújtásától számított 15 napon belül nemperes eljárásban, szükség esetén a felek meghallgatása után határoz. Ha a kérelemnek helyt ad, hatályon kívül helyezi a határozatot, ellenkező esetben a kérelmet elutasítja. A bíróság határozata ellen nincs helye jogorvoslatnak.
+3. § Az e törvény alapján kirótt közrendvédelmi bírságot (12. §), valamint a légi jármű üzemeltetőjével szemben külön törvény szerint kiszabható közrendvédelmi bírságot [35. § (1) bekezdése] kormányrendeletben meghatározott eljárási szabályok szerint, az ott megjelölt célra lehet felhasználni.
+
+Értelmező rendelkezések
+
+4. § E törvény alkalmazásában
+a) üzlet: a rendszeresen (állandóan vagy ideiglenes jelleggel) nyitva tartó kereskedelmi, illetve vendéglátó, idegenforgalmi és szálláshely-szolgáltató értékesítő hely;
+b) üzemeltető: a működési engedéllyel rendelkező személy;
+c) foglalkoztatott: az üzletben munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében munkát végző személy;
+d) az üzlet működésével függ össze: az a cselekmény, amely az üzlet területén az üzemeltető, foglalkoztatott tudomásával vagy közreműködésével valósul meg, illetve amelyet az üzemeltetőtől, a foglalkoztatottól elvárható, a rendes üzletmenet biztosítása érdekében szükséges intézkedés elmulasztása tesz lehetővé, feltéve, hogy - ez utóbbi esetben - az üzemeltető tud, vagy a tőle elvárható gondosság tanúsítása esetén tudhatott volna a foglalkoztatott mulasztásáról;
+e) prostituált: az a személy, aki anyagi ellenszolgáltatásért szexuális szolgáltatást nyújt, függetlenül az ellenszolgáltatás nyújtásának időpontjától, illetve attól, hogy az ellenszolgáltatás a szexuális szolgáltatás igénybe vevőjétől vagy - a szolgáltatásra tekintettel - más személytől származik;
+f) szexuális szolgáltatás: a prostituált olyan, a szolgáltatást igénybe vevővel való testi érintkezést is igénylő tevékenysége, amely a szolgáltatást igénybe vevő szexuális vágyának felkeltésére, illetve annak kielégítésére irányul;
+g) közterület: a közhasználatra szolgáló minden olyan magán-, állami vagy önkormányzati tulajdonban álló terület, amely mindenki számára korlátozás nélkül igénybe vehető, ideértve a közterületnek közútként szolgáló és a magánterületnek a közforgalom elől el nem zárt részét;
+h) védett övezet: a közterületnek az e törvény, illetve a települési (Budapesten a fővárosi) önkormányzat (a továbbiakban: önkormányzat) képviselő-testülete rendeletében meghatározott azon része, ahol a prostituált a szexuális szolgáltatásra nem ajánlkozhat fel, szexuális szolgáltatást nem nyújthat, a védett övezetre vonatkozó tilalmakat a közterület e részén fekvő nyilvános helyre is alkalmazni kell;
+i) türelmi zóna: közterületnek az önkormányzat rendeletében a prostitúció tömeges megjelenése esetén kijelölt azon körzete, ahol a prostituált szexuális szolgáltatásra felajánlkozhat vagy a szexuális szolgáltatására irányuló kezdeményezést elfogadhatja;
+j) a prostitúció tömeges megjelenése: a prostituáltak folyamatos vagy idényjellegű nagyobb számú egyidejű megjelenése, olyan területi koncentrálódása, amely alkalmas a település nyugalmának megzavarására;
+k) szexuális szolgáltatásra felajánlkozás: a prostituáltnak közterületen vagy nyilvános helyen máshoz címzett, a szexuális szolgáltatása nyújtására irányuló szóbeli felhívása (aktív felajánlkozás), a prostituáltnak a szexuális szolgáltatásra irányuló ráutaló magatartása (passzív felajánlkozás), illetve a szexuális szolgáltatást igénybe venni kívánó felhívásának elfogadása;
+l) a szexuális szolgáltatás zaklató jellegű felajánlása: más személy mozgásának, illetve a más személy által vezetett jármű elindulásának, mozgásának megakadályozása, megzavarása, agresszív, szeméremsértő szóbeli felhívás, illetőleg a prostituált erre utaló magatartása;
+m) a szexuális szolgáltatásra felajánlkozás eltűrése: a nyilvános helyet üzemeltető, vagy az ott foglalkoztatott olyan magatartása, amely ösztönzőleg hat a prostituáltak folyamatos tevékenységére;
+n) sajtótevékenységet folytató, illetve egyéb tájékoztatást, hír- vagy műsorszolgáltatást nyújtó: a sajtóról szóló 1986. évi II. törvény, valamint a rádiózásról és televíziózásról szóló 1996. évi I. törvény hatálya alá tartozó, időszaki lap, rádió- és televízióműsor, könyv, röplap, egyéb szöveges kiadvány, a zeneművet, grafikát, rajzot vagy fotót tartalmazó kiadvány, nyilvános közlésre szánt műsoros filmszalag, videokazetta, videolemez, hangszalag és hanglemez, továbbá bármely más, a nyilvános közzététel szándékával készült tájékoztatást vagy műsort tartalmazó technikai eszköz előállításával, kiadásával és nyilvános közlésével kapcsolatos tevékenységet folytató természetes személy, egyéni vállalkozó, jogi személy, valamint jogi személyiséggel nem rendelkező társaság;
+o) nyilvános hely: közterületnek nem tekinthető, mindenki számára nyitva álló hely;
+p) kábítószer-kereskedelemmel függ össze: a visszaélés kábítószerrel (Btk. 282-282/A. §), kóros szenvedélykeltés (Btk. 283. §);
+q) terrorizmussal függ össze: a közérdekű üzem működésének megzavarása (Btk. 260. §), közveszélyokozás (Btk. 259. §), a terrorcselekmény (Btk. 261. §), légi jármű hatalomba kerítése (Btk. 262. §), közveszéllyel fenyegetés (Btk. 270/A. §);
+r) illegális fegyverkereskedelemmel függ össze: a visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §), visszaélés robbanóanyaggal vagy robbantószerrel (Btk. 263. §), fegyvercsempészet (Btk. 263/B. §);
+s) szervezett bűnözéssel függ össze: az a bűntett, amelyet bűnszervezet tagjaként (Btk. 137. § 8. pont) követnek el, illetve a bűnszervezet létrehozása (Btk. 263/C. §).
+
+KÜLÖNÖS RENDELKEZÉSEK
+
+II. Fejezet
+
+Az üzletek működésével összefüggő egyes közrendvédelmi szabályok
+
+5. § (1) A települési önkormányzat jegyzője (a továbbiakban: jegyző) az üzletet közbiztonsági érdekből a büntető- vagy szabálysértési eljárás befejezéséig, de legfeljebb egy évi időtartamra - a nyomozó, illetőleg a szabálysértési hatóság javaslatára - ideiglenesen bezárathatja, ha megállapítja, hogy az üzlet működésével összefüggésben az üzlet üzemeltetőjével vagy foglalkoztatottjával szemben önbíráskodás (Btk. 273. §), csalás (Btk. 318. §), rablás (Btk. 321. §), kifosztás (Btk. 322. §), zsarolás (Btk. 323. §) elkövetése miatt büntető-, illetve szabálysértési eljárás indult.
+(2) A jegyző, a nyomozó, illetve a szabálysértési hatóság javaslatára az (1) bekezdésben meghatározott érdekből és időtartamra az üzletet ideiglenesen akkor is bezárhatja, ha az üzlet működésével összefüggésben emberrablás (Btk. 175/A. §), emberkereskedelem (Btk. 175/B. §), embercsempészés (Btk. 218. §), üzletszerű kéjelgés elősegítése (Btk. 205. §), kitartottság (Btk. 206. §), kerítés (Btk. 207. §), visszaélés kábítószerrel (Btk. 282. §), kóros szenvedélykeltés (Btk. 283. §), vagy a szabálysértésekről szóló 1968. évi I. törvény (a továbbiakban: Sztv.) 92. §-ában meghatározott tiltott kéjelgés, valamint a szexuális szolgáltatásra való felhívás tilalma (Sztv. 92/A. §) miatt indul büntető- vagy szabálysértési eljárás.
+(3) A jegyző az üzlet működési engedélyét visszavonja a szabálysértési, illetőleg a nyomozó hatóság javaslatára, ha az (1)-(2) bekezdésben meghatározott bűncselekményt, illetve szabálysértést bírósági vagy hatósági határozat jogerősen megállapította.
+(4) Az üzlet bezárását, valamint a működési engedély visszavonását elrendelő határozat fellebbezésre tekintet nélkül azonnal végrehajtható.
+6. § Ha az üzlet bezárását, vagy a működési engedély visszavonását az 5. § (1)-(2) bekezdésében meghatározott jogsértés miatt büntető- vagy szabálysértési eljárást folytató szerv indokoltnak tartja, az eljárás megindításáról, illetve a jogerős ügydöntő határozatáról értesíti a működési engedélyt kiadó jegyzőt. Az 5. § (3) bekezdésében meghatározott esetekben a bírósági ügydöntő határozatról az ügyben eljáró nyomozó hatóságot is értesíteni kell.
+
+III. Fejezet
+
+A prostitúció kezelésének egyes közrendvédelmi szabályai
+
+7. § (1) Védett övezet:
+a) a közútnak a közúti járművek közlekedésére szolgáló területe;
+b) az autópályától, az autóúttól, illetve lakott területen kívül az egy-, illetve kétszámjegyű főútvonaltól számított 100 méteren belüli terület;
+c) lakott területen a főútvonaltól számított 50 méteren belüli terület;
+d) a népképviseleti, közigazgatási, bírósági, ügyészi szervek, valamint diplomáciai és konzuli képviseletek és az ezzel egy tekintet alá eső nemzetközi szervezetek és tagjaik elhelyezésére szolgáló épületek, köz- és felsőoktatási, köznevelési, gyermekjóléti és gyermekvédelmi, szociális, közművelődési feladatok ellátására rendelt épületek, a személyforgalom célját szolgáló terminálok (repülőtér, pályaudvar, hajóállomások), a nyilvántartásba vett egyházak szertartásaira szolgáló intézmények, a fegyveres erők objektumai, valamint a temetkezési és egyéb kegyhelyek területén, illetve a közterületen azoktól számított 300 m távolságon belüli terület;
+e) az olyan mellékutcák, ahol a kiskorúak oktatását, nevelését, gyógyítását, tartós elhelyezését szolgáló, valamint gyermekjóléti és gyermekvédelmi intézmény működik.
+(2) Az (1) bekezdés b)-d) pontjaiban meghatározott távolságot közterületen az épület, illetőleg a közút határvonalának bármely pontjától lehet számítani.
+(3) A többlakásos ház közös tulajdonban vagy használatban álló területén, közterületen elhelyezett létesítményekben, illetőleg járműben, valamint a védett övezeten belül a nem lakás céljára szolgáló helyiségben a prostituált szexuális szolgáltatást nem nyújthat.
+8. § (1) Az önkormányzat a prostitúció tömeges megjelenése esetén rendeletében egy türelmi zónát jelölhet ki. Kivételesen - ha egy türelmi zóna kijelölése nem lehetséges - több türelmi zóna is létesíthető. A közterületi prostitúció folyamatos észlelése esetén türelmi zóna kijelölése nem mellőzhető az ötvenezer lélekszám feletti települések esetében.
+(2) Az önkormányzat rendeletében a 7. §-ban meghatározott védett övezeteken kívül a közterület más részein, illetve az ott működő egyes nyilvános helyeken is megtilthatja a prostituáltak tevékenységét.
+(3) Türelmi zóna létesítése esetén az önkormányzat - kivételesen - a 7. § (1) bekezdés b)-c) pontjaiban meghatározott távolsági korlátozásoktól akkor térhet el, ha a zóna határvonala másként nem jelölhető ki.
+(4) Az önkormányzat a védett övezeteken kívül időben is korlátozhatja a prostituáltak tevékenységét. Az önkormányzat e jogosultságát - türelmi zóna kijelölése esetén - a zónában folyó közcélú rendezvények időtartama alatt is érvényesítheti.
+9. § (1) A prostituált a szexuális szolgáltatása igénybevételére csak 18. életévét betöltött személyt hívhat fel, illetőleg csak 18. életévét betöltött személy erre irányuló ajánlattételét fogadhatja el.
+(2) Tilos a szexuális szolgáltatásra felajánlkozás mást, illetőleg másokat zaklató módja.
+(3) A prostituált szexuális szolgáltatásra akkor ajánlkozhat fel, ha rendelkezik a külön jogszabályban előírt orvosi igazolással.
+10. § Tilos a védett övezetben ellenszolgáltatást felajánlva mást szexuális szolgáltatás nyújtására felhívni, illetve más személy szexuális szolgáltatásának felajánlását elfogadni.
+11. § Tilos írásban, kép- vagy hangrögzítő, illetve más berendezés útján szexuális szolgáltatást felajánlani, azt hirdetni vagy ilyen cselekményekben közreműködni.
+12. § (1) Ha a sajtótevékenységet folytató, illetve egyéb tájékoztatást, hír- vagy műsorszolgáltatást nyújtó szervezet közreműködik szexuális szolgáltatás hirdetésében, a szervezet üzemeltetője - ennek hiányában a szervezet - a szolgáltatás egyszeri hirdetését alapul véve hirdetésenként ötszázezer forinttól egymillió forintig terjedő közrendvédelmi bírsággal sújtható.
+(2) A közrendvédelmi bírság alkalmazása a Rendőrség hatáskörébe tartozik.
+
+IV. Fejezet
+
+Bűnmegelőzési ellenőrzés
+
+13. § A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 35. §-a helyébe a következő rendelkezés lép:
+(Bűnmegelőzési ellenőrzés)
+„35. § A Rendőrség bűnmegelőzési célból ellenőrizheti azt, aki a háromévi szabadságvesztésből szabadult, feltéve, ha az általa elkövetett bűncselekmény elbírálásakor a 69. § (2) bekezdésének a)-h) pontjaiban meghatározott körülmények bármelyikét megállapították és a büntetés végrehajtása során tanúsított, a bűnöző életmód folytatására, a bűnöző kapcsolatok felújítására utaló magatartásából alaposan következtetni lehet arra, hogy ismét bűncselekményt fog elkövetni.”
+14. § Az Rtv. a következő 35/A-35/C. §-sal egészül ki:
+„35/A. § (1) A bűnmegelőzési ellenőrzést az elítéltet szabadító büntetés-végrehajtási intézet székhelye szerint illetékes rendőr-főkapitányság a szabadulást megelőzően egy hónappal kezdeményezi a büntetés-végrehajtási intézet székhelye szerinti megyei (fővárosi) bíróságon működő büntetés-végrehajtási bírónál.
+(2) A kérelemnek tartalmaznia kell:
+a) a bűnmegelőzési célból ellenőrizni kívánt személy nevét, lakóhelyét (tartózkodási helyét) és a természetes személyazonosító adatait;
+b) az elítélés alapjául szolgáló bűncselekmény minősítését, a bíróság által kiszabott büntetést, a visszaesői minőséget;
+c) azokat az adatokat, amelyek a bűnmegelőzési ellenőrzés elrendelését megalapozzák, így különösen a büntetés végrehajtása során tanúsított magatartásra vonatkozó, illetve a bűnöző életmód folytatására vagy a bűnöző kapcsolatok felújítására utaló adatokat.
+(3) A bűnmegelőzési ellenőrzést a büntetés-végrehajtási bíró rendeli el, eljárására a büntetések és intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet szabályai az irányadók.
+35/B. § A bűnmegelőzési ellenőrzés alá vont személlyel szemben az e fejezetben meghatározott rendőri intézkedéseken kívül az e törvény 64. § (1) bekezdésében meghatározott, bírói engedélyhez nem kötött titkos információgyűjtés is végezhető.
+35/C. § (1) A bűnmegelőzési ellenőrzést úgy kell végrehajtani, hogy az érintettnek a társadalomba való beilleszkedését ne akadályozza, és törekedni kell arra, hogy az ellenőrzés tényéről az ellenőrzött környezete lehetőleg ne értesüljön.
+(2) A Rendőrség a bűnmegelőzési ellenőrzést nem folytatja tovább, ezzel egyidejűleg a bűnmegelőzési ellenőrzés megszüntetését kezdeményezi, ha az elrendelés okai már nem állnak fenn.”
+
+V. Fejezet
+
+Idegenrendészeti és menekültügyi szabályok
+
+15. § (1) A külföldiek beutazásáról, magyarországi tartózkodásáról és bevándorlásáról szóló 1993. évi LXXXVI. törvény (a továbbiakban: Idtv.) 9. §-ának (2) bekezdése a következő e) ponttal egészül ki:
+(A vízum kiadását meg kell tagadni, ha)
+„e) alaposan feltehető, hogy a kérelmező be- vagy átutazása nem a kérelemben megjelölt utazási, illetve tartózkodási cél megvalósítására szolgál.”
+(2) Az Idtv. 11. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A vízum kiadása
+a) a vízum kiadásra feljogosított külképviselet;
+b) a Külügyminisztérium;
+c) a rendőr-főkapitányság;
+d) a határőr-igazgatóság és annak határforgalmi kirendeltsége;
+e) a Belügyminisztérium kijelölt szerve (a továbbiakban: Belügyminisztérium)
+hatáskörébe (a továbbiakban: vízumkiadó hatóság) tartozik.”
+(3) Az Idtv. 12. §-a helyébe a következő rendelkezés lép:
+„12. § (1) A jogszabályban engedélyhez kötött munkavégzés vagy más adóköteles jövedelemszerző tevékenység folytatása céljából - ha nemzetközi szerződés másként nem rendelkezik - csak az e célra kiadott vízummal lehet beutazni. Az erre irányuló kérelmet a külföldi az állandó vagy szokásos tartózkodási helye szerint illetékes magyar külképviseleten nyújthatja be.
+(2) A munkavállalási vízumkérelemhez a 11. § (3)-(4) bekezdésében foglaltakon felül csatolni kell a magyarországi foglalkoztatás helye szerint illetékes munkaügyi hatóság által kiadott munkavállalási engedélyt.
+(3) A jövedelemszerzési vízumkérelemhez a 11. § (3)-(4) bekezdésében foglaltakon felül csatolni kell a tevékenység folytatásához szükséges, külön jogszabályban meghatározott feltételek teljesítésére vonatkozó igazolást.
+(4) A jövedelemszerzési vízum iránti kérelem a (3) bekezdésben foglalt feltételek teljesítése mellett a külföldiek önálló vállalkozóként történő gazdasági célú letelepedéséről szóló törvényben meghatározott feltételek fennállása esetén, vagy akkor engedélyezhető, ha a tevékenység a Magyar Köztársaság számára gazdasági haszonnal jár vagy tudományos, illetőleg kulturális értéket képvisel.”
+16. § Az Idtv. 16. §-a a következő (6) bekezdéssel egészül ki:
+„(6) Az ideiglenes, illetőleg a huzamos tartózkodási engedély visszavonható, ha a további tartózkodás feltételei megszűntek.”
+17. § Az Idtv. a következő 22/A. §-sal egészül ki:
+„22/A. § (1) A bevándorlási engedélyt az idegenrendészeti hatóság visszavonhatja, ha
+a) a bevándorlási engedély a külföldi által közölt hamis adaton vagy tényen alapult;
+b) a bevándorlás engedélyezésének alapjául szolgáló körülmények jelentősen megváltoztak, feltéve, hogy a folyamatosan Magyarországon lakó külföldi esetében az állandó tartózkodásra jogosító személyazonosító igazolvány kiadásától számítva öt év még nem telt el.
+(2) A bevándorlási engedély visszavonását követően a külföldi beutazása és magyarországi tartózkodása az általános szabályok szerint engedélyezhető.”
+18. § Az Idtv. 23. §-a (1) bekezdésének d) pontja helyébe a következő rendelkezés lép, és az (1) bekezdés a következő f) ponttal egészül ki:
+(Az állami szuverenitás, a nemzetbiztonság, az alkotmányos rend, a közbiztonság védelme érdekében beutazási és tartózkodási tilalmat kell elrendelni azzal a külföldivel szemben)
+„d) aki személy, illetve csoport be- vagy kiutazását (határátlépését) úgy szervezi vagy segíti, hogy a továbbutazás, a harmadik országba történő befogadás nyilvánvalóan nem biztosított, vagy embercsempész tevékenységet folytat; vagy”,
+„f) akinek a beutazására és tartózkodására vonatkozó tilalom érvényesítésére a Magyar Köztársaság nemzetközi szerződésben vagy nemzetközi együttműködés keretében vállalt kötelezettséget.”
+19. § (1) Az Idtv. 24. §-ának (1)-(2) bekezdése helyébe a következő rendelkezések lépnek:
+„24. § (1) A beutazási és tartózkodási tilalom elrendelésére jogosult
+a) a Belügyminisztérium,
+b) az Országos Rendőr-főkapitányság és a rendőr-főkapitányság a 23. § (1) bekezdésének a), d)-e) pontjai, valamint a 23. § (2) bekezdésében foglalt esetben,
+c) a Határőrség Országos Parancsnoksága és a határőr-igazgatóság a 23. § (1) bekezdésének a), d) és (2) bekezdésének a), c) és d) pontjai esetében.
+(2) A beutazási és tartózkodási tilalom elrendelésére a 23. § (1) bekezdésének b) és d), valamint a 23. § (2) bekezdésének e) pontjai esetében a nemzetbiztonsági szervek központi szervei, a 23. § (1) bekezdés f) pontja esetében a Külügyminisztérium a Belügyminisztériumnak javaslatot tehetnek.”
+20. § Az Idtv. 28. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az idegenrendészeti hatóság és a Rendőrség az e törvényben meghatározott idegenrendészeti szabályok megtartását ellenőrizheti, e célból a rendőr jogosult magánlakásba, illetőleg magánterületre is belépni.”
+21. § Az Idtv. 31. §-át megelőző cím a következők szerint módosul, egyidejűleg a 31. § (1)-(2) bekezdése helyébe a következő rendelkezések lépnek:
+„Idegenrendészeti kiutasítás
+31. § (1) Az idegenrendészeti hatóság a Magyar Köztársaság területéről kiutasíthatja azt a külföldit, akivel szemben beutazási és tartózkodási tilalom elrendelésének lenne helye, illetőleg ilyen tilalmat rendeltek el (23. §), vagy aki az ország elhagyására vonatkozó kötelezettségének nem tett eleget.
+(2) Az idegenrendészeti kiutasítás elrendelésére a rendőr-főkapitányság vagy a határőr-igazgatóság (a továbbiakban: a kiutasítást elrendelő szerv) jogosult.”
+22. § Az Idtv. a következő új 31/A. §-sal egészül ki:
+„31/A. § Az idegenrendészeti hatóság a külföldi kiutasításától, illetve a beutazási és tartózkodási tilalom elrendelésétől eltekinthet, feltéve, hogy a külföldi vállalja az ország területének önkéntes elhagyását.”
+23. § (1) Az Idtv. 32. §-ának (1) bekezdése az alábbi mondattal egészül ki:
+„Az idegenrendészeti hatóság a menekültügyi hatóság szakhatósági véleménye megadásáig nem hozhatja meg a visszairányításról, illetve a kiutasításról rendelkező határozatot.”
+(2) Az Idtv. 32. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az idegenrendészeti kiutasításra vonatkozó szabályokat a bevándorolt külföldire a (3) bekezdésben foglalt eltérésekkel kell alkalmazni.”
+(3) Az Idtv. 32. §-a (3) bekezdésének felvezető szövege az alábbiak szerint módosul:
+„(3) Az állandó tartózkodásra jogosító személyi igazolvány kiadásától számított öt év óta folyamatosan Magyarországon lakó bevándorolt külföldi csak akkor utasítható ki, ha”
+(4) Az Idtv. 32. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A bevándorolt külföldivel szemben elrendelt idegenrendészeti kiutasítás esetén a bevándorlási engedélyt vissza kell vonni.”
+24. § Az Idtv. a következő új 32/A. §-sal egészül ki:
+„32/A. § Idegenrendészeti kiutasítás nem alkalmazható olyan bűncselekmény elkövetése miatt, amelynek elbírálása során az eljáró bíróság nem rendelt el kiutasítás mellékbüntetést a külföldivel szemben.”
+25. § Az Idtv. 33. §-ának (1)-(2) bekezdése helyébe a következő rendelkezések lépnek:
+„33. § (1) Az idegenrendészeti kiutasítást alakszerű határozattal kell elrendelni. A rendelkező részben meg kell jelölni a kiutasítás okát, időtartamát, az ország elhagyására előírt kötelezettség határnapját, továbbá az ujjnyomatlevételére vonatkozó kötelezést és a határátlépés helyét.
+(2) A kiutasítást, valamint a beutazási tilalom időtartamát az útlevélbe be kell jegyezni. Az idegenrendészeti hatóság a bejegyzéstől kivételesen eltekinthet, feltéve, hogy a külföldi vállalja az ország területének önkéntes elhagyását.”
+26. § Az Idtv. 34. §-a a következő új (2) bekezdéssel egészül ki, egyidejűleg a jelenlegi (2) bekezdés megjelölése (3) bekezdésre változik:
+„(2) A kiutasítás miatt elrendelt beutazási és tartózkodási tilalom időtartamát a kiutasítás végrehajtásának napjától kell számítani.”
+27. § Az Idtv. 35. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az idegenrendészeti kiutasítást elrendelő határozat elleni fellebbezést a határozat közlésétől számított három napon belül lehet előterjeszteni.”
+28. § Az Idtv. a következő alcímmel, 35/A-35/B. §-sal egészül ki:
+„A bíróság vagy a szabálysértési hatóság által elrendelt kiutasítás végrehajtása
+35/A. § (1) Ha a kiutasítást a bíróság vagy a szabálysértési hatóság rendelte el, a kiutasítás végrehajtása az idegenrendészeti hatóság hatáskörébe tartozik.
+(2) A jogerős kiutasítás büntetésről, intézkedésről a bíróság vagy a szabálysértési hatóság értesíti az idegenrendészeti hatóságot.
+(3) Az idegenrendészeti hatóság a (2) bekezdésben meghatározott értesítés alapján intézkedik
+a) a külföldi ujjnyomatának levételére;
+b) a kiutasítás tényének és a beutazási tilalom időtartamának az úti okmányba történő bejegyzésére, valamint a határátlépés helyének a megállapítására;
+c) a beutazási és tartózkodási tilalom nyilvántartásba vételére;
+d) bevándorolt külföldi esetében a bevándorlási engedély visszavonására.
+(4) A (3) bekezdésben meghatározott beutazási és tartózkodási tilalom nyilvántartásba vételekor a tilalom időtartamát a 34. § (2) bekezdésében foglalt rendelkezés szerint kell számítani. Ha a külföldit a bíróság és a szabálysértési hatóság is kiutasította, a tilalom időtartamát a hosszabb időtartamú kiutasításnak megfelelően kell figyelembe venni.
+(5) Az idegenrendészeti hatóságnak a kiutasítás végrehajtása során a 33. § (3)-(5) bekezdéseiben meghatározott rendelkezéseket a (6) bekezdésben foglalt eltéréssel kell alkalmaznia.
+(6) Ha a kiutasítás végrehajtásának költsége más módon nem biztosítható, azt az idegenrendészeti hatóság megelőlegezi.
+35/B. § Ha a külföldit az idegenrendészeti hatóság és a szabálysértési hatóság is kiutasította, a tilalom időtartamát a hosszabb időtartamú kiutasításnak megfelelően kell figyelembe venni.”
+29. § (1) Az Idtv. 36. §-a helyébe a következő rendelkezés lép:
+„36. § (1) Az idegenrendészeti hatóság a bíróság vagy a szabálysértési hatóság által kiszabott kiutasítás büntetés, intézkedés, valamint a 31. §-ban foglaltak alapján elrendelt kiutasítás végrehajtásának biztosítása érdekében idegenrendészeti őrizetbe veheti azt a külföldit, aki
+a) a hatóság elől elrejtőzött, vagy a kiutasítás végrehajtását más módon akadályozza;
+b) a távozást megtagadja, vagy más alapos ok miatt feltehető, hogy a kiutasítás végrehajtását késlelteti vagy meghiúsítja;
+c) a kiutasítás hatálya alatt és a kiutazás előtt szabálysértést vagy bűncselekményt követett el;
+d) a kötelező tartózkodásra kijelölt helyet engedély nélkül vagy az előírt feltételek hiányában elhagyta, illetve az engedélyben megállapított határidőre nem tért vissza;
+e) szándékos bűncselekmény elkövetése miatt kiszabott szabadságvesztés büntetésből szabadul.
+(2) Ha a külföldi kiutasítására olyan szándékos bűncselekmény elkövetése miatt került sor, amely a kábítószer-kereskedelemmel, terrorizmussal, illegális fegyverkereskedelemmel, embercsempészéssel, pénzmosással, szervezett bűnözéssel függ össze, a kiutasítás végrehajtásának biztosítása érdekében az idegenrendészeti őrizetet el kell rendelni.
+(3) Az idegenrendészeti őrizetet alakszerű határozattal kell elrendelni és azt a közléssel egy időben végre kell hajtani.
+(4) Az idegenrendészeti őrizet legfeljebb öt napra rendelhető el, amelyet az őrizet helye szerint illetékes helyi bíróság a külföldi kiutazásáig meghosszabbíthat.
+(5) Ha az idegenrendészeti őrizet időtartama a harminc napot meghaladja, a bíróság az őrizet fenntartásának szükségességét havonta felülvizsgálja.
+(6) Hat hónapon túli idegenrendészeti őrizet meghosszabbítására csak az őrizet helye szerint illetékes megyei (fővárosi) bíróság jogosult.
+(7) Az idegenrendészeti őrizet a kiutasítás végrehajtása feltételeinek a megteremtéséig, de legfeljebb tizennyolc hónapig tarthat. Azonnal meg kell szüntetni az őrizetet, ha elrendelésének oka megszűnt.
+(8) Ha az idegenrendészeti őrizet elrendelésétől számított tizennyolc hónap alatt a kiutasítás nem hajtható végre, az őrizetet meg kell szüntetni. Az őrizetet elrendelő idegenrendészeti hatóság a külföldi számára kötelező tartózkodási helyet jelöl ki.
+(9) A kijelölt helyen tartózkodó külföldivel szemben a 36. § (1) bekezdésében meghatározott okból az idegenrendészeti őrizet ismételt elrendelésének van helye.”
+30. § Az Idtv. 37. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az idegenrendészeti őrizetet - az elrendelő rendelkezése szerint - rendőrségi fogdában vagy büntetés-végrehajtási intézetben kell végrehajtani, amelynek költségeit az állam megelőlegezi.”
+31. § (1) Az Idtv. 43. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A kötelező tartózkodási helyet közösségi szálláson kell kijelölni, ha a külföldi magát eltartani nem képes, megfelelő lakással, anyagi fedezettel vagy jövedelemmel, az eltartásra köteles meghívóval, illetőleg eltartásra kötelezhető hozzátartozóval nem rendelkezik, továbbá, ha a külföldi fokozott hatósági ellenőrzése közbiztonsági okból indokolt.”
+(2) Az Idtv. 43. §-a a következő új (4)-(6) bekezdéssel egészül ki, egyidejűleg a jelenlegi (4)-(5) bekezdések megjelölése (7)-(8) bekezdésre változik:
+„(4) A közösségi szálláson történő tartózkodással összefüggésben felmerülő költségeket az állam megelőlegezi.
+(5) Ha a kötelező tartózkodási helyet közösségi szálláson jelölték ki, az ott-tartózkodás időtartama a tizennyolc hónapot nem haladhatja meg.
+(6) A kötelező tartózkodási hely elhagyása csak rendkívüli méltánylást érdemlő esetben engedélyezhető, ha
+a) az elrendelésre az (1) bekezdés a) pontja alapján került sor, a személyazonosság megállapításáig;
+b) az elrendelésre az (1) bekezdés c)-d) pontja alapján került sor és megalapozottan valószínűsíthető, hogy a kiutasítás, illetve a visszairányítás hat hónapon belül végrehajtható;
+c) az elrendelésre az (1) bekezdés e) pontja alapján került sor és a külföldi ellen kábítószer-kereskedelemmel, terrorizmussal, embercsempészéssel, illegális fegyverkereskedelemmel, pénzmosással, szervezett bűnözéssel összefüggő bűncselekmény elkövetése miatt büntetőeljárás van folyamatban, a büntetőeljárás befejezéséig.”
+32. § Az Idtv. a következő 43/A. §-sal egészül ki:
+„43/A. (1) Ha a közösségi szálláson történő kötelező tartózkodás elrendelésétől tizennyolc hónap eltelt, de az elrendelés alapjául szolgáló körülmény a külföldinek fel nem róható okból továbbra is fennáll, a külföldi számára más tartózkodási helyet kell kijelölni.
+(2) Az idegenrendészeti hatóság az új tartózkodási helyet kijelölő határozatban előírhatja, hogy a külföldi a kijelölt helyet - lakóhelyet, körzetet - csak engedéllyel hagyhatja el, továbbá a külföldit a hatóság előtti időszakonkénti megjelenésre kötelezheti.
+(3) Az (1) bekezdésben meghatározott esetben az idegenrendészeti hatóság a külföldit a személyazonosságát és a tartózkodás jogcímét igazoló, legfeljebb hat hónapig érvényes okmánnyal látja el, amelynek az érvényességi ideje meghosszabbítható. Az idegenrendészeti hatóság az okmányba a (2) bekezdés szerinti korlátozásokat, valamint az előírt magatartási szabályokat bejegyzi.
+(4) A (2) bekezdés szerint kiállított okmány birtokában a külföldi az elrendelő szerv hozzájárulásával jogosult munkavállalásra.
+(5) Ha a kötelező tartózkodási hely nem közösségi szállás, a kijelöléstől számított tizennyolc hónap elteltével az idegenrendészeti hatóság a (2)-(3) bekezdésekben foglaltak alkalmazásával jár el.
+(6) A (2)-(4) bekezdésekben foglaltak nem érintik a külföldinek az ország elhagyására vonatkozó kötelezettségét, kivéve, ha a jogerős idegenrendészeti kiutasítás végrehajthatóvá válásától, vagy a szabálysértési eljárás keretében hozott kiutasítás intézkedés jogerőre emelkedésétől számítva öt év már eltelt és a végrehajtás nem a külföldi felróható magatartása miatt hiúsult meg.”
+33. § (1) Az Idtv. 47. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) E törvény alkalmazásában idegenrendészeti hatóság az e törvényben hatósági és intézkedési jogkörrel felruházott Belügyminisztérium, rendőrség, határőrség, közigazgatási hivatal, vám- és pénzügyőrség és vízumkiadó szerv.”
+(2) Az Idtv. 48. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A rendőrség és a határőrség idegenrendészeti hatáskörébe tartozó ügyben a Belügyminisztérium közrendi és közbiztonsági okokból eljárhat. Ha első fokon a minisztérium jár el, felettes szerv a miniszter.”
+34. § Az Idtv. 49. §-a helyébe a következő rendelkezés lép:
+„49. § (1) Az idegenrendészeti ügyekben a közigazgatási és bírói eljárások során hozott határozatokat a jelenlévő külföldi előtt anyanyelvén vagy az általa értett más idegen nyelven szóban is közölni kell.
+(2) Idegen nyelv használata esetén - ha az eljáró hatóság képviselője azt nem beszéli - tolmácsot kell alkalmazni. A tolmács díját és költségeit az állam viseli.
+(3) Ha a külföldi ismeretlen helyen tartózkodik, a határozat közlése közszemlére tétel útján történik. Közszemlére tenni csak a határozat rendelkező részét lehet.”
+35. § (1) Az Idtv. 60. §-a a következő (3)-(4) bekezdésekkel egészül ki:
+„(3) Ha a visszaszállítás azonnal nem hajtható végre, a visszaszállításig a külföldi tartózkodásával összefüggésben felmerülő költségeket a légi jármű üzemeltetője (a továbbiakban: üzemeltető) viseli.
+(4) Az (1) bekezdésben foglaltak alapján az idegenrendészeti hatóság a légi jármű üzemeltetőjét járatonként egymillió forintig terjedő közrendvédelmi bírsággal sújthatja.”
+(2) Az Idtv. 64. §-a (1) bekezdésének f) pontja helyébe a következő rendelkezés lép:
+(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza)
+„f) a kötelező tartózkodási hely kijelölésének eljárási rendjét, a közösségi szállás létesítésének követelményeit, a közösségi szállás házirendjét.”
+36. § (1) A menedékjogról szóló 1997. évi CXXXIX. törvény (a továbbiakban: Met.) 32. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A kérelem előterjesztésekor a kérelmezőt a menekültügyi hatóság tájékoztatja eljárási jogairól, kötelezettségeiről, a kötelezettség megszegésének jogkövetkezményeiről és a kijelölt szálláshelyről.”
+(2) A Met. 42. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A menekültügyi hatóság elutasító határozata elleni jogorvoslati kérelmet a bírósághoz a rövidített eljárásra irányadó szabályok szerint lehet benyújtani.”
+(3) A Met. 47. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A menekültügyi eljárás alatt az idegenrendészeti eljárást nem kell felfüggeszteni, de az idegenrendészeti eljárásban hozott, a külföldi kiutasítását vagy visszairányítását elrendelő határozatot a menedékjogi kérelem jogerős elbírálásáig nem lehet végrehajtani.”
+
+VI. Fejezet
+
+A személyes adatok kezelésével összefüggő szabályok
+
+37. § Az Rtv. 42. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+(Kép- és hangfelvétel készítése)
+„(1) A Rendőrség a rendőri intézkedéssel összefüggésben az intézkedéssel érintett személyről, a környezetről, illetőleg a rendőri intézkedés szempontjából lényeges körülményről, tárgyról kép- és hangfelvételt készíthet. A Rendőrség közterületen, közbiztonsági célból képfelvevőt helyezhet el olyan módon, hogy annak jelenléte az állampolgárok számára nyilvánvalóan észlelhető legyen. A felszerelt képfelvevő elhelyezéséről, működtetéséről tájékoztatni kell a lakosságot. A Rendőrség által készített kép- és hangfelvételek, illetőleg az abban szereplő személyes adatok csak az esemény helyszínén elkövetett bűncselekmény vagy szabálysértés miatt kezdeményezett eljárás során, valamint körözött személy azonosítása céljából használhatók fel.”
+38. § (1) Az Rtv. 63. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A titkos információgyűjtés során beszerzett adat a büntetőeljárásban a bizonyítási eszközként való felhasználásáig, továbbá a Rendőrséggel együttműködő személy és a fedett nyomozó kiléte, az információgyűjtés ténye és technikai részlete államtitoknak minősül.”
+(2) Az Rtv. 63. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A Rendőrség erre felhatalmazott szerve, valamint a beszerzett adat és az információgyűjtés ténye tekintetében az ügyész és a bíró a titkos információgyűjtés során külön engedély nélkül megismerheti a védett államtitok tartalmát. A (2) bekezdésben meghatározott adatok és információk nemzetközi egyezmény, nemzetközi szerződés vagy megállapodás, ennek hiányában viszonosság alapján, ha a továbbítás súlyos és közvetlen veszély elhárításához, vagy súlyos bűncselekmény megelőzéséhez szükséges - amennyiben a személyes adatok kezelésének feltételei a külföldi adatkezelőnél minden egyes adat tekintetében teljesülnek - nemzetközi és külföldi bűnüldöző, igazságszolgáltatási szervek részére átadhatók.”
+39. § Az Rtv. 64. §-a a következő (8)-(9) bekezdésekkel egészül ki:
+„(8) A Rendőrség az informátor, a bizalmi személy, a Rendőrséggel titkosan együttműködő más személy, a fedett nyomozó, valamint a fedőokirat és a fedőintézmény védelme érdekében a közigazgatási nyilvántartásokban, így különösen a személyiadat- és lakcímnyilvántartásban, a személyi igazolvány nyilvántartásban, az anyakönyvi nyilvántartásban, az úti okmány nyilvántartásban, a gépjárművezetői engedély és gépjármű nyilvántartásban, az ingatlan-nyilvántartásban, a cégnyilvántartásban fedőadatokat helyezhet el. A fedőadat elhelyezésének ténye, az elhelyezésre vonatkozó rendelkezést tartalmazó okirat vagy más adathordozó államtitoknak minősül. A fedőadatokat törölni kell, ha az elhelyezés alapjául szolgáló bűnüldözési érdek megszűnt.
+(9) Az informátor, a bizalmi személy, a Rendőrséggel titkosan együttműködő más személy által a titkos információgyűjtés keretében másnak okozott kár megtérítésére a 67. § (2) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.”
+40. § Az Rtv. 68. §-ának helyébe a következő rendelkezések lépnek:
+„68. § (1) A Rendőrség titkos információgyűjtésre felhatalmazott nyomozó szervének vezetője az ügyész jóváhagyásával a kétévi vagy ennél súlyosabb szabadságvesztéssel büntetendő, szándékos bűncselekmény felderítése érdekében az üggyel összefüggő adatok szolgáltatását igényelheti az adóhatóságtól, a devizahatóságtól, a szolgáltatást nyújtó távközlési szervezettől, az egészségügyi és a hozzá kapcsolódó adatot kezelő szervtől, továbbá a banktitoknak, értékpapírtitoknak, pénztártitoknak és egyéb üzleti titoknak minősülő adatot kezelő szervtől. A nyomozó szerv az adatszolgáltatás teljesítésére határidőt jelölhet meg. Az adatszolgáltatás ingyenes és nem tagadható meg. Az így kapott információ csak a megjelölt célra használható fel.
+(2) Halaszthatatlan intézkedésként, ha a késedelem veszéllyel jár és az ügy kábítószer-kereskedelemmel, terrorizmussal, illegális fegyverkereskedelemmel, pénzmosással vagy szervezett bűnözéssel függ össze, az adatigényléshez az ügyész előzetes jóváhagyása nem kell, és azt haladéktalanul teljesíteni kell. Ez esetben a megkeresést „halaszthatatlan intézkedés” jelzéssel kell ellátni. Az ügyész jóváhagyása iránt a megkereséssel egyidejűleg intézkedni kell. Ha az ügyész a jóváhagyását megtagadja, a Rendőrség az így beszerzett adatokat haladéktalanul megsemmisíti.
+(3) A biztonsági követelmények érvényesítése érdekében a társadalombiztosítási, egészségügyi, adóelszámolási, költségvetési, pénzügyi, statisztikai adatszolgáltatással, a maradandó irat védelme érdekében végzett levéltári ellenőrzéssel, valamint a speciális működési költségek körébe tartozó valutafelhasználással kapcsolatos eljárási szabályokat - a törvényi előírások keretei között - a Rendőrség és a tárgykör szerint illetékes szervezetek külön megállapodásban rögzíthetik.”
+41. § (1) A Rtv. 69. §-ának (1) bekezdése a következő d) ponttal egészül ki:
+[A Rendőrség bírói engedéllyel a 63. § (1) bekezdésében meghatározott bűnüldözési célból a súlyos bűncselekmények megelőzése érdekében]
+„d) az Interneten vagy más számítástechnikai úton történő levelezés (E-mail) során keletkezett adatokat és információkat megismerheti és felhasználhatja.”
+(2) Az Rtv. 69. §-a a következő új (2) bekezdéssel egészül ki, egyidejűleg a jelenlegi (2)-(6) bekezdések számozása (3)-(7) bekezdésekre változik:
+„(2) Az (1) bekezdés c)-d) pontjában meghatározott eszközök alkalmazása során gyűjtött, a titkos információgyűjtés alapjául szolgáló eljárásban nyilvánvalóan nem érintett személyekre vonatkozó adatokat haladéktalanul meg kell semmisíteni, azok a továbbiakban nem kezelhetők és nem használhatók fel.”
+42. § Az Rtv. 75. §-a helyébe a következő rendelkezés lép:
+„75. § A belső bűnmegelőzési és bűnfelderítő feladatokat ellátó szerv (e törvény alkalmazása szempontjából a továbbiakban: Megelőzési Szolgálat) feladatkörében az e fejezetben szabályozott titkos információgyűjtést a Rendőrségre vonatkozó szabályok szerint végezheti. Az engedély iránti kérelem (70. §), a sürgősségi elrendelés (72. §), valamint a megszüntetés elrendelése [73. § (1) bekezdés] az ellenőrző szerv vezetőjének hatáskörébe tartozik. A feladatkörében eljárva az adatok kezelésére a VIII. fejezetben foglaltak az irányadók.”
+43. § Az Rtv. 76. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Rendőrség a törvényben szabályozott bűnmegelőzési, bűnüldözési (a továbbiakban együtt: bűnüldözési), valamint államigazgatási és rendészeti feladatainak ellátásához - központi, területi és helyi szinten - a bűncselekmény elkövetésével gyanúsítottak, a büntetőeljárás alá vontak, a sértettek és egyéb közreműködők, az államigazgatási eljárásban ügyfelek, valamint egyéb érintettek személyes adatait, illetőleg más adatokat kezeli.”
+44. § Az Rtv. 84. §-ának i) pontja helyébe a következő rendelkezés lép:
+(A Rendőrség a törvényben meghatározott bűnüldözési feladatainak ellátása érdekében kezelheti, illetve az adatkezelésre feljogosított más szervek nyilvántartásából átveheti)
+„i) a 73. § (3) bekezdése alá tartozók kivételével a titkos információgyűjtés alkalmazásával érintett személyek adatait - beleértve a Rendőrséggel együttműködőket és a fedett nyomozókat is - és az alkalmazás eredményét, ha büntetőeljárás nem indul, a titkos információgyűjtés lezárását követő legfeljebb 2 évig, büntetőeljárás lefolytatása esetén a büntethetőség elévüléséig, elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig, illetőleg legfeljebb 20 évig, együttműködők, illetőleg fedett nyomozók esetén az együttműködés, illetőleg a fedett nyomozói tevékenység megszűnésétől számított 20 évig.”
+45. § Az Rtv. 88. §-ának helyébe a következő rendelkezés lép:
+„88. § (1) A Rendőrség a törvényben meghatározott bűnüldözési feladatai teljesítése érdekében - ha az adatvédelem feltételei biztosítottak - az adott bűncselekmény felderítése és nyomozása során bűnüldözési és az államigazgatási rendszereit egymással összekapcsolva egyedi adatkezelést végezhet. Az ennek során keletkezett olyan új adatokat, amelyeket a büntetőeljárás során nem használnak fel, törölni kell.
+(2) A Rendőrség a törvényben meghatározott bűnüldözési feladatai teljesítése érdekében - ha az adatvédelem feltételei biztosítottak - az adott bűncselekmény felderítése, nyomozása során a bűnüldözési adatkezelési rendszereit más rendvédelmi szerv, illetve más nyomozó hatóság adatkezelési rendszerével összekapcsolva egyedi adatkezelést végezhet. Az ennek során keletkezett olyan új adatokat, amelyeket a büntetőeljárás során nem használnak fel, törölni kell.
+(3) A Rendőrség a bűnüldözési feladatainak ellátáshoz más adatkezelési rendszerekből - törvényben meghatározott esetekben és módon - adatokat vehet át. Az adatátvétel tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell.”
+46. § A vámjogról, a vámeljárásról, valamint a vámigazgatásról szóló 1995. évi C. törvény (a továbbiakban: Vám. tv.) a következő 160/A-160/F. §-okkal egészül ki:
+„160/A. § (1) A vámhatóság jogszabályban meghatározott bűnüldözési, államigazgatási és rendészeti feladatai ellátása érdekében személyes adatot, illetőleg bűnüldözési célból különleges adatot kezel.
+(2) A vámhatóság az (1) bekezdésben meghatározott feladatai ellátása érdekében más adatkezelési rendszerekből a felhasználás céljának megjelölésével adatokat kérhet.
+(3) A vámhatóság személyes adatokat az országból külföldi bűnüldözési, igazságszolgáltatási szervek, illetőleg nemzetközi bűnüldöző szervezetek részére nemzetközi szerződés vagy megállapodás, ennek hiányában bűnüldözési érdekből viszonosság alapján, ha a továbbítás súlyos és közvetlen veszély elhárításához, vagy súlyos bűncselekmény megelőzéséhez szükséges - amennyiben a személyes adatok kezelésének feltételei a külföldi adatkezelőnél minden egyes adat tekintetében teljesülnek - nemzetközi és külföldi bűnüldöző, igazságszolgáltatási szervek részére átadhat.
+(4) A vámhatóság a bűnüldözési, rendészeti feladatainak ellátása érdekében az általános munkarend korlátaitól függetlenül adatokat kérhet a személyiadat- és lakcímnyilvántartó szervektől, az országos gépjármű, gépjárművezetői alapnyilvántartásokból, a külföldre utazást korlátozó rendelkezés hatálya alatt állókra és az útlevélre vonatkozó nyilvántartásokból, a bűntettesek (bíróság által jogerősen elítéltek) nyilvántartásaiból, valamint a büntetés-végrehajtási intézetekben fogva tartottak nyilvántartásából. Az adatkérést hiányos és töredék adatok alapján is teljesíteni kell.
+(5) A (4) bekezdésben foglaltak szerint átvett adat felhasználásának jogszerűségéért az átvevő szerv vezetője tartozik felelősséggel.
+(6) A vámhatóság az eljárásban részt vevők személyazonosító és lakcím adatait, továbbá az ügy azonosító adatait ügyviteli célból, az eljárás megindításától az alapul szolgáló irat selejtezéséig kezeli.
+(7) A vámhatóság által kezelt adatokat személyazonosításra alkalmatlan módon, statisztikai célra fel lehet használni.
+(8) A pénzügyminiszter, az országos parancsnok, a főigazgató, a területi vámszerv vezetője, illetőleg bűncselekménnyel kapcsolatban a nyomozó szerv vezetője a közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
+160/B. § (1) A vámhatóság a jogszabályban meghatározott bűnüldözési feladatainak ellátása érdekében kezelheti, illetve az adatkezelésre feljogosított szervek nyilvántartásából átveheti:
+a) a felderítetlenül maradt bűncselekmény kriminalisztikai szempontból fontos jellemzőit a bűncselekmény elkövetőjének felderítéséig, vagy ennek hiányában a büntethetőség elévüléséig;
+b) a bűncselekmény helyszínén rögzített nyomokat, anyagmaradványokat, eszközöket, szagmintákat a bűncselekmény elkövetőjének felderítéséig, vagy ennek hiányában a büntethetőség elévüléséig;
+c) a szándékos bűncselekmény elkövetésének alapos gyanúja miatt kihallgatott személy adatait, ujjlenyomatát, személyleírását, fényképét, hang- és szagmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait a bűncselekmény büntethetőségének elévülésétől, vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítéstől számított 20 évig;
+d) szándékos bűncselekmény alapos gyanúja miatt kihallgatott, illetőleg ilyen bűncselekmény elkövetése miatt elítélt személy cselekményének kriminalisztikai szempontból fontos jellemzőit a büntethetőség elévüléséig, vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig;
+e) a szervezett bűnözésre utaló cselekményekben vagy tényállásokban érintett személyek, kapcsolataik adatait és kriminalisztikai szempontból fontos jellemzőit az érintett személyre vonatkozóan keletkezett utolsó adatot követő 20 évig;
+f) olyan személyek adatait, akikkel szemben nemzetközi kötelezettségvállalás alapján nemzetközi bűnüldözési intézkedéseket kell foganatosítani, valamint e személyek kapcsolatainak adatait és kriminalisztikai szempontból fontos jellemzőit a büntethetőség elévüléséig vagy a nemzetközi kötelezettségvállalásban meghatározott ideig;
+g) az egyes bűncselekmények nyomozása során a felderítéssel és bizonyítással kapcsolatban keletkezett iratokban szereplő személyek és kapcsolataik adatait, illetve az eljárási helyzetükre vonatkozó adatokat, valamint a hozzájuk fűződő nyomozási adatokat az ügyben hozott jogerős ítéletig vagy a nyomozás megszüntetése esetén a bűncselekmény büntethetőségének elévüléséig;
+h) a titkos információgyűjtés során keletkezett adatokat, ha büntetőeljárás nem indul, a gyűjtés lezárását követő 2 évig;
+i) a titkos információgyűjtés alkalmazásával érintett személyek adatait - beleértve a vámhatósággal együttműködőket és a fedett nyomozókat is - és az alkalmazás eredményét, ha büntetőeljárás nem indul, a titkos információgyűjtés lezárását követő legfeljebb 2 évig, büntetőeljárás lefolytatása esetén a büntethetőség elévüléséig, elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig, illetőleg legfeljebb 20 évig, együttműködők, valamint fedett nyomozók esetén az együttműködés, illetve a fedett nyomozói tevékenység megszűnésétől számított 20 évig.
+(2) A vámhatóság adatkezelést végző szerve az (1) bekezdés a)-f), valamint h)-i) pontjában meghatározott adatokról az érintett személynek nem adhat felvilágosítást. Ez a rendelkezés nem korlátozza a büntetőeljárásban résztvevők jogait.
+160/C. § (1) A bűnüldözési célból kezelt személyes és különleges adatok - ha törvény eltérően nem rendelkezik - csak bűnüldözési célra használhatók fel.
+(2) A vámhatóság a törvényben meghatározott bűnüldözési feladatai teljesítése érdekében - ha az adatvédelem feltételei biztosítottak - az adott bűncselekmény felderítése és nyomozása során bűnüldözési és államigazgatási rendszereit egymással összekapcsolva egyedi adatkezelést végezhet. Az ennek során keletkezett olyan új adatokat, amelyeket a büntetőeljárás során nem használnak fel, törölni kell.
+(3) A vámhatóság a törvényben meghatározott bűnüldözési feladatai teljesítése érdekében - ha az adatvédelem feltételei biztosítottak - az adott bűncselekmény felderítése, nyomozása során a bűnüldözési adatkezelési rendszereit más rendvédelmi szerv, illetve más nyomozó hatóság adatkezelési rendszerével összekapcsolva egyedi adatkezelést végezhet. Az ennek során keletkezett olyan új adatokat, amelyeket a büntetőeljárás során nem használnak fel, törölni kell.
+(4) A vámhatóság a bűnüldözési feladatainak ellátásához más adatkezelési rendszerekből - törvényben meghatározott esetekben és módon - adatokat vehet át. Az adatátvétel tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell.
+160/D. § (1) A vámhatóság a bűnüldözési feladatainak ellátása érdekében a polgárok személyi adatának és lakcímének nyilvántartásaiban, valamint egyéb igazgatási nyilvántartási rendszerekben a cél megjelölésével jelzések elhelyezését rendelheti el, melyben az érintett feltartóztatását, vagy adatváltozás esetén értesítés adását kérheti.
+(2) Az adatkezelő szerv a vámhatóságnak az (1) bekezdés szerinti megkeresését köteles teljesíteni.
+(3) A jelzés elhelyezéséről, annak okáról és a jelzés alapján tett intézkedésről - bűnüldözési érdekből - a vámhatóság, valamint a jelzést tartalmazó nyilvántartást kezelő szerv az érintettet nem tájékoztathatja.
+(4) A jelzés elhelyezésének elrendeléséért és megszüntetéséért, illetve a kért intézkedésért a jelzést kérő szerv vezetője tartozik felelősséggel.
+160/E. § (1) A vámhatóság bűnüldözési célú adatkezelési rendszereibe csak a vámhatóság, illetve a vámhatóság működését ellenőrző Megelőzési Szolgálat (Rtv. 75. §) tagja, a pénzügyminiszter által kijelölt személy, az adatvédelmi biztos, valamint a törvény által feljogosított más szerv képviselője tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást.
+(2) Az (1) bekezdésben foglaltakon kívül, törvényben meghatározott feladataik teljesítése érdekében, a cél megjelölésével adatszolgáltatást kérhetnek:
+a) a nyomozó hatóság,
+b) a bíróság,
+c) az ügyészség,
+d) a nemzetbiztonsági szolgálatok,
+e) a határőrség illetékes szerve,
+f) a Külügyminisztérium illetékes szerve,
+g) a honvédelmi igazgatás illetékes szerve,
+h) a törvényben meghatározott más szervezet.
+A szabálysértési és rendészeti célú adatkezelés
+160/F. § (1) A vámhatóság a szabálysértési felelősségre vont személy személyazonosító adatait, lakcímét, az elkövetett cselekmény megjelölését, az alkalmazott büntetést vagy intézkedést, illetőleg az ügy számát a szabálysértési felelősségre vont személyek nyilvántartási rendszerében 2 évig kezeli.
+(2) A vámhatóság az általa igazoltatott személy személyazonosító adatait, lakcímét, illetőleg az igazoltatásra okot adó körülmények megjelölését az igazoltatás alá vont személyek nyilvántartási rendszerében 2 évig kezeli.
+(3) A vámhatóság a vámáruk szállításával, a jövedéki törvény hatálya alá tartozó termékek ellenőrzésével, valamint az utasok csomagjainak e törvényben meghatározott ellenőrzésével érintett személyek személyazonosító adatait, lakcímét, illetőleg az ellenőrzés eredményét az ellenőrzés alá vont személyek nyilvántartási rendszerében 2 évig kezeli.”
+47. § Az adózás rendjéről szóló 1990. évi XCI. törvény 47. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Az adóhatóság a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, adótitoknak minősülő adatokról.”
+48. § (1) A devizáról szóló 1995. évi XCV. törvény (a továbbiakban: Dtv.) 78. §-a (3) bekezdésének g) pontja a következők szerint módosul:
+„g) a bíróságnak, az ügyészségnek.”
+(2) A Dtv. 78. §-a a következő (4)-(5) bekezdéssel egészül ki, egyidejűleg a (4) bekezdés számozása (6) bekezdésre változik:
+„(4) A devizahatóság megkeresésre tájékoztatja az általa kezelt adatokról
+a) a folyamatban lévő büntetőeljárás keretében eljáró nyomozó hatóságot,
+b) a külön törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervet;
+c) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot.
+(5) A devizahatóság a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő adatokról.”
+49. § A távközlésről szóló 1992. évi LXXII. törvény 25. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A távközlési szolgáltató a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő távközlési adatokról.”
+50. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 23. §-a a következő (3) bekezdéssel egészül ki:
+„(3) A kezelést végző orvos a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő egészségügyi és személyazonosító adatokról.”
+51. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény 49. §-a a következő új (5) bekezdéssel egészül ki:
+„(5) A pénzügyi intézmény a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak minősülő adatokról.”
+52. § Az értékpapírok forgalomba hozataláról, a befektetési szolgáltatásokról és az értékpapír-tőzsdéről szóló 1996. évi CXI. törvény 114. §-a a következő (6) bekezdéssel egészül ki:
+„(6) A befektetési szolgáltató, a tőzsde, az elszámoló ház a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak minősülő adatokról.”
+53. § A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 79. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A pénztár a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak vagy pénztártitoknak minősülő adatokról.”
+54. § A biztosítóintézetekről és a biztosítási tevékenységről szóló 1995. évi XCVI. törvény 97. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A biztosító a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, biztosítási titoknak minősülő adatokról.”
+55. § A cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény 5. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A szolgálat a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő cégadatokról.”
+56. § Az ingatlan-nyilvántartásról szóló 1972. évi 31. törvényerejű rendelet 63. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Az ingatlan-nyilvántartást kezelő szerv a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő adatokról.”
+57. § A kulturális javak védelméről és a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 12. §-a a következő (4)-(5) bekezdésekkel egészül ki:
+„(4) A törvényben meghatározott feladataik teljesítése érdekében a cél megjelölésével, az Igazgatósághoz intézett írásbeli megkereséssel a (2) bekezdésben meghatározott adatok szolgáltatását igényelheti:
+a) a bíróság, az ügyészség,
+b) a nyomozó hatóság,
+c) a nemzetbiztonsági szolgálat,
+d) az adóhatóság.
+(5) Az Igazgatóság a nyomozó hatóságot a „halaszthatatlan intézkedés” jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő adatokról.”
+58. § A Met. 55. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az 51. § (1) bekezdés e) pontjában meghatározott adat csak a nyomozó hatóság és az ügyészség, továbbá törvényben meghatározottak szerint a nemzetbiztonsági szolgálatok és a menekültügyben hozott közigazgatási határozatot felülvizsgáló bíróság részére adható át.”
+59. § (1) Az Idtv. 54. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az adatkezelő szerv a nyilvántartásból - az 53. § (2) bekezdésében felsorolt szerveken kívül - csak az igazságszolgáltatási és bűnüldözési szervek, a nemzetbiztonsági szervek, a menekültügyi hatóság, valamint a közigazgatási hivatal (a továbbiakban: adatigénylésre jogosult szerv) részére, továbbá nemzetközi szerződés alapján az abban meghatározott adatkörben és szervek részére szolgáltathat adatot.”
+(2) Az Idtv. 56. §-a (1) bekezdésének f) pontja helyébe a következő rendelkezés lép:
+„f) Az engedély kiadása vagy meghosszabbítása iránti kérelem elutasítása, valamint az engedély visszavonása és ennek indoka.”
+
+VII. Fejezet
+
+Titokvédelmi rendelkezések
+
+60. § (1) Az államtitokról és szolgálati titokról szóló 1995. évi LXV. törvény (a továbbiakban: Ttv.) melléklete a következő új címmel és 30/A. ponttal egészül ki:
+„Megelőzési Szolgálat
+30/A. A Megelőzési Szolgálat (a továbbiakban: MSZ) tevékenységi körében államtitokkörbe tartoznak:
+a) A titkos információgyűjtés eszközeinek, az erők és módszerek alkalmazásának eljárási szabályai.
+Az államtitokká minősítés leghosszabb érvényességi ideje: 30 év.
+b) Az MSZ konkrét személyre, ügyre vonatkozó titkos információgyűjtő tevékenysége során keletkezett és az ehhez kapcsolódó minden konkrét adat a büntetőeljárásban történő felhasználásig, valamint a nyilvántartásaik, tekintet nélkül az adathordozóra, fajtájára.
+Az államtitokká minősítés leghosszabb érvényességi ideje: 90 év.
+c) A Be. 127. §-ának (3) bekezdése és 139. §-ának (3) bekezdése alapján ügyészi jóváhagyással megtagadott, illetve megszüntetett nyomozás során keletkezett előterjesztések, javaslatok és jelentések, amelyek az együttműködő gyanúsítottra vonatkoznak.
+Az államtitokká minősítés leghosszabb érvényességi ideje: 90 év.
+d) A bűncselekmények felderítése során keletkezett információk, amelyek nem tartoznak a büntetőeljárás keretébe.
+Az államtitokká minősítés leghosszabb érvényességi ideje: 90 év.
+e) A nemzetbiztonsági szolgálatoknak az MSZ-szel történő együttműködéséből származó olyan adatok, amelyekből a nemzetbiztonsági szolgálatok tevékenysége megállapítható.
+Az államtitokká minősítés leghosszabb érvényességi ideje: 90 év.
+f) A Rendőrségről szóló 1994. évi XXXIV. törvény 65. §-a alapján létrehozott fedőintézmények jellegével összefüggő, valamint a pénzügyi eszközeik forrását tartalmazó adatok.
+Az államtitokká minősítés leghosszabb érvényességi ideje: 90 év.
+g) Az MSZ-szel együttműködő személy és a fedett nyomozó kiléte, valamint a Rendőrségről szóló 1994. évi XXXIV. törvény 64. § (8) bekezdése alapján az ott megjelölt nyilvántartásokban lévő fedőadatok elhelyezésének ténye és az elhelyezésre vonatkozó rendelkezést tartalmazó okirat vagy más adathordozó.
+Az államtitokká minősítés leghosszabb érvényességi ideje: 90 év.
+h) Az MSZ titkos információgyűjtésével kapcsolatos oktatási célú kiadványok.
+Az államtitokká minősítés leghosszabb érvényességi ideje: 30 év.”
+(2) A Ttv. melléklete a következő 33/A. ponttal egészül ki:
+„33/A. A Határőrséggel együttműködő személy és a fedett nyomozó kiléte, valamint a Rendőrségről szóló 1994. évi XXXIV. törvény 64. § (8) bekezdése alapján az ott megjelölt nyilvántartásokban lévő fedőadatok elhelyezésének ténye és az elhelyezésre vonatkozó rendelkezést tartalmazó okirat vagy más adathordozó.
+Az államtitokká minősítés leghosszabb érvényességi ideje: 90 év.”
+(3) A Ttv. melléklete a következő 46/A. ponttal egészül ki:
+„46/A. A Rendőrséggel együttműködő személy és a fedett nyomozó kiléte, valamint a Rendőrségről szóló 1994. évi XXXIV. törvény 64. § (8) bekezdése alapján az ott megjelölt nyilvántartásokban lévő fedőadatok elhelyezésének ténye és az elhelyezésre vonatkozó rendelkezést tartalmazó okirat vagy más adathordozó.
+Az államtitokká minősítés leghosszabb érvényességi ideje: 90 év.”
+(4) A Ttv. mellékletének 48. pontja helyébe a következő rendelkezés lép:
+„48. A Rendőrségről szóló 1994. évi XXXIV. törvény 64. § (1) bekezdés c) pontja, valamint a 68/B. §-a alapján létrehozott fedőintézmények jellegével összefüggő, valamint a pénzügyi eszközeik forrását tartalmazó adatok.”
+(5) A Ttv. mellékletének 137/E. pontja helyébe a következő rendelkezés lép:
+„137/E. A vámjogról, a vámeljárásról, valamint a vámigazgatásról szóló 1995. évi C. törvény 175. §-a (3) bekezdésének c) pontja alapján a Rendőrségről szóló 1994. évi XXXIV. törvény 64. § (1) bekezdésének c) pontjában, valamint a 68/B. §-ában meghatározott fedőintézmények jellegével összefüggő, valamint a pénzügyi eszközeik forrását tartalmazó adatok.”
+(6) A Ttv. melléklete a következő 137/G. ponttal egészül ki:
+„137/G. A Vám- és Pénzügyőrséggel együttműködő személy és a fedett nyomozó kiléte, valamint a Rendőrségről szóló 1994. évi XXXIV. törvény 64. § (8) bekezdése alapján, az ott megjelölt nyilvántartásokban lévő fedőadatok elhelyezésének ténye és az elhelyezésre vonatkozó rendelkezést tartalmazó okirat vagy más adathordozó.
+Az államtitokká minősítés leghosszabb érvényességi ideje: 90 év.”
+
+ZÁRÓ RENDELKEZÉSEK
+
+VIII. Fejezet
+
+Hatályba léptető és átmeneti rendelkezések
+
+61. § (1) Ez a törvény - a (2)-(3) bekezdésben foglalt eltéréssel - a kihirdetését követő második hónap első napján lép hatályba, rendelkezéseit - a II., III. és az V. fejezetben foglaltak kivételével - a folyamatban lévő ügyekben is alkalmazni kell.
+(2) A törvény 15. §-ának (2) bekezdése, 19. §-ának (1) bekezdése, 33. §-a, valamint a 74. §-ának (2) bekezdése 2000. január 1-jén lép hatályba, rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell. A 28. §-ban a szabálysértési hatóságra, illetőleg a szabálysértési hatóság által elrendelt kiutasításra vonatkozó rendelkezéseket külön törvény lépteti hatályba.
+(3) A 64-67. § rendelkezései a kihirdetést követő 8. napon lépnek hatályba.
+(4) E törvény hatálybalépésével egyidejűleg - a 63. §-ban foglalt módosításra figyelemmel - lép hatályba a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 605. §-ának (8)-(12) bekezdése.
+(5) 1999. december 31-ig ahol az Rtv. 67/A. § (1) bekezdése bűncselekmény megalapozott gyanúját említi, azon alapos gyanút, ahol a feljelentés határozattal történő elutasítását említi, azon a nyomozás megtagadását kell érteni.
+(6) E törvény hatálybalépésével egyidejűleg hatályát veszti:
+a) a Dtv. 78. §-a (3) bekezdésének g) pontja,
+b) az Rtv. 63. §-ának (4) bekezdése, 64. §-a (1) bekezdésének a) pontja, 65. §-a, 66. §-ának (2) bekezdése, 84. §-ának r) pontja, 95. §-a, 101. §-a (1) bekezdésének m) pontja;
+c) az Idtv. 32. §-a (3) bekezdésének c) pontja;
+d) a határőrizetről és a Határőrségről szóló 1997. évi XXXII. törvény (a továbbiakban: Hőr. tv.) 23. §-a (3) bekezdésében az „és tanintézetek” szövegrész, valamint a 83. § (3) bekezdésének c) pontja.
+(7) Az Rtv. 90. § (3) bekezdése 2000. január 1-jén hatályát veszti.
+(8) Az Rtv. 90. § (1) bekezdésének c) pontja 2001. január 1-jén hatályát veszti.
+
+Felhatalmazó szabályok
+
+62. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a közrendvédelmi bírságokból befolyó pénzösszegek felhasználásának célját és eljárási szabályait.
+(2) Felhatalmazást kap az egészségügyi miniszter, hogy - a prostitúció kezelésének közrendvédelmi szabályai érvényesülése érdekében - rendeletben szabályozza az egészségügyi vizsgálatok, illetve az ilyen vizsgálatokat folytató egészségügyi intézmények körét, a nemi úton terjedő betegségek létét vagy hiányát tanúsító orvosi igazolás tartalmi követelményét, kiadásának rendjét.
+(3) A települési önkormányzat képviselő-testülete, fővárosban a fővárosi közgyűlés - a kerületi önkormányzatok képviselő-testületeivel egyeztetve - a prostitúció folytatásának további szabályait, így különösen a közterületnek a védett övezeten kívüli területen védetté nyilvánított más részeit, a védett övezeten kívül működő egyes, védetté nyilvánított nyilvános helyek meghatározását, a prostitúció tömeges megjelenésének tartalmi követelményeit, a türelmi zóna kijelölésének részletes szabályait rendeletben állapítja meg. A türelmi zóna helyének kijelölése tekintetében egyetértési jogot gyakorolnak azok a kerületi önkormányzatok, amelyek az egyeztetés során vállalják, hogy a saját területükön türelmi zónát alakítanak ki. Ha a prostitúció tömeges (4. § j) pont), az önkormányzatnak a rendeletet a törvény hatálybalépésétől számított hat hónapon belül, ha pedig a jelenség a törvény hatálybalépése után válik tömegessé az e törvény megállapításától számított kilencven napon belül kell a rendeletet megalkotni.
+(4) Felhatalmazást kap az igazságügyminiszter, hogy az e törvényben foglalt módosításokkal érintett Rtv., Vám. tv., Idtv., Hőr. tv., illetve APEH tv. egységes szerkezetbe foglalt szövegét a Magyar Közlönyben közzé tegye.
+
+Módosuló jogszabályok
+
+63. § (1) A Be. 605. §-a (9) bekezdésének az Rtv. 64. §-a (1) bekezdésének f) pontját érintő rendelkezése helyébe a következő rendelkezés lép:
+„f) mintavásárlás végzése érdekében informátort, bizalmi személyt, a Rendőrséggel titkosan együttműködő más személyt vagy fedett nyomozót, továbbá - az ügyész engedélyével - álvásárlás, bizalmi vásárlás, bűnszervezetbe való beépülés, illetve - a 2. § (4) bekezdésére is figyelemmel - ellenőrzött szállítás folytatása érdekében fedett nyomozót alkalmazhat.”
+(2) A Be. 605. §-a (11) bekezdésének az Rtv. 68/F. §-ának a) pontját érintő rendelkezése helyébe a következő rendelkezés lép, és a (11) bekezdésnek az Rtv. 68/F. §-át érintő rendelkezése a következő e) ponttal egészül ki:
+[A 64. § (1) bekezdése b) pontjának alkalmazása szempontjából]
+„a) mintavásárlás: az informátor, a bizalmi személy, a Rendőrséggel titkosan együttműködő más személy vagy a fedett nyomozó által végrehajtott olyan leplezett ügylet, amelynek célja, hogy a bűncselekmény felderítése érdekében a bűncselekménnyel összefüggésbe hozható anyagok, tárgyak, eszközök vagy ezek mintái, alkatrészei további vizsgálat céljából a Rendőrség birtokába kerüljenek, illetve a bűncselekmény történeti tényállása megismerhető legyen;”
+„e) fedett nyomozó: a titkos információgyűjtés keretében eljáró, a kilétét leplező rendőr.”
+64. § (1) A szabálysértésekről szóló 1968. évi I. törvény (a továbbiakban: Sztv.) 17. § (1)-(2) bekezdése helyébe a következő rendelkezés lép:
+„17. § (1) A pénzbírság legalacsonyabb összege ezer forint, legmagasabb összege százezer forint.
+(2) Az önkormányzat rendelete húszezer forintban állapíthatja meg a pénzbírság legmagasabb összegét.”
+(2) Az Sztv. 17/A. §-a helyébe a következő rendelkezés lép:
+„17/A. § Ha a szabálysértés miatt kiszabható pénzbírság legmagasabb összegét törvény vagy kormányrendelet:
+a) ötezer forintban határozta meg, a pénzbírság legmagasabb összege tízezer forint;
+b) tízezer forintban határozta meg, a pénzbírság legmagasabb összege húszezer forint;
+c) húszezer forintban határozta meg, a pénzbírság legmagasabb összege negyvenezer forint;
+d) harmincezer forintban határozta meg, a pénzbírság legmagasabb összege hatvanezer forint;
+e) ötvenezer forintban határozta meg, a pénzbírság legmagasabb összege százezer forint.”
+(3) Az Sztv. 18. §-a helyébe a következő rendelkezés lép:
+„18. § (1) A pénzbírságot meg nem fizetés esetében - ha az a munkabérből (egyéb járandóságból) nem hajtható be - elzárásra kell átváltoztatni.
+(2) Nincs helye átváltoztatásnak, ha a pénzbírságot felügyelet (35. és 36. §) alkalmazta, illetőleg helyszíni bírságolás keretében szabták ki.
+(3) Az átváltoztatás során ezer forinttól kétezer forintig terjedő összeg helyett egy-egy napi elzárást kell számítani. A pénzbírságot helyettesítő elzárás egy napnál rövidebb és hatvan napnál hosszabb nem lehet.
+(4) Az átváltoztatásról az a helyi bíróság rendelkezik, amelynek illetékességi területén a jogerős határozatot hozó szabálysértési hatóság működik.
+(5) Az elzárásra átváltoztatás szükségességének fölmerülése esetén a szabálysértési hatóság az ügy iratait haladéktalanul megküldi a (4) bekezdésben meghatározott bíróságnak.
+(6) A bíróság az átváltoztatásról tizenöt napon belül, tárgyalás nélkül dönt. Törvénysértés esetén a szabálysértési hatóság határozatát hatályon kívül helyezi.
+(7) Az elzárásra átváltoztatás tárgyában hozott bírósági határozattal szemben nincs helye jogorvoslatnak.”
+(4) Az Sztv. 83. §-a helyébe a következő rendelkezés lép:
+„83. § A helyszíni bírság összege kétszáz forinttól tízezer forintig terjedhet.”
+65. § Az Sztv. 92. §-a helyébe a következő rendelkezés lép:
+„Tiltott kéjelgés
+92. § (1) Ha a prostituált a törvényben vagy törvény felhatalmazása alapján hozott önkormányzati rendeletben meghatározott korlátozást, illetve tilalmat megszegi, ötvenezer forintig terjedő pénzbírsággal sújtható.
+(2) A prostituált százezer forintig terjedő pénzbírsággal sújtható, ha
+a) a szexuális szolgáltatása igénybevételére felhívott személy tizennegyedik életévét betöltött kiskorú, vagy kiskorúnak az ilyen szolgáltatás nyújtására iráynuló ajánlattételét fogadja el;
+b) a szexuális szolgáltatásra való felajánlkozása zaklató jellegű;
+c) nem rendelkezik a külön jogszabályban előírt orvosi igazolással.
+(3) Az (1)-(2) bekezdésben meghatározott szabálysértés elkövetőjével szemben kiutasításnak is helye van.
+(4) Az (1)-(2) bekezdésben meghatározott szabálysértés miatti eljárás a Rendőrség hatáskörébe tartozik.”
+66. § Az Sztv. a következő 92/A. §-sal egészül ki:
+„Szexuális szolgáltatásra való felhívás tilalma
+92/A. § (1) Aki a külön jogszabály szerint meghatározott védett övezetben ellenszolgáltatást felajánlva mást szexuális szolgáltatás nyújtására felhív, illetve más személy szexuális szolgáltatásának felajánlását elfogadja, ötvenezer forintig terjedő pénzbírsággal sújtható.
+(2) Az (1) bekezdésben leírt szabálysértés miatt az eljárás a Rendőrség hatáskörébe tartozik.”
+67. § Az Sztv. a következő 92/B. §-sal egészül ki:
+„A szexuális szolgáltatás felkínálásának, hirdetésének tilalma
+92/B. § (1) Aki szexuális szolgáltatást írásban, kép- vagy hangrögzítés, illetőleg más berendezés útján felajánl, hirdet, vagy az ilyen cselekményben közreműködik, ötvenezer forintig terjedő pénzbírsággal sújtható.
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Rendőrség hatáskörébe tartozik.”
+68. § (1) Az Rtv. a következő 2/A. §-sal egészül ki:
+„2/A. § A lakosság élet- és vagyonvédelmének biztosítása érdekében létesült társadalmi önvédelmi szervezetek tagjainak a közbiztonsága javítására irányuló, a rendőrséggel együttműködési megállapodás szerint végzett tevékenysége közfeladat.”
+(2) Az Rtv. 5. §-a (1) bekezdésének c) pontja helyébe a következő rendelkezés lép:
+(A belügyminiszter az irányító jogkörében)
+„c) irányítja a Rendőrség költségvetési gazdálkodását, az országos rendőrfőkapitány javaslatára jóváhagyja a Rendőrség fejlesztési terveit, továbbá a Rendőrség gazdálkodása tekintetében célszerűségi és eredményességi ellenőrzést végez.”
+69. § Az Rtv. 33. §-ának (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az előállítottat szóban vagy írásban az előállítás okáról tájékoztatni kell, és az előállítás időtartamáról részére igazolást kell kiállítani.”
+70. § (1) Az Rtv. 64. §-a (1) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+[A Rendőrség a 63. § (1) bekezdésében meghatározott bűnüldözési feladatának teljesítése érdekében]
+„a) informátort, bizalmi személyt vagy a Rendőrséggel titkosan együttműködő más személyt vehet igénybe;”
+71. § (1) Az Rtv. a következő 90/A. §-sal egészül ki:
+„90/A. § (1) A rendőri intézkedéssel járó közúti baleset során az érintett kérheti a balesetben érintett többi személy név és lakcím adatát, jogi személy, jogi személyiséggel nem rendelkező szervezet megnevezését, székhelyének (telephelyének) címét, a jármű hatósági jelzésének adatát, a kötelező gépjármű-felelősségbiztosítási kötvény számát és a biztosítóintézet megnevezését. Az intézkedő rendőr az adatokat az érintettel a helyszínen közli.
+(2) A rendőrhatóság a közúti balesettel érintett írásos kérelmére igazolást ad a baleset idejéről, helyéről, továbbá az (1) bekezdésben felsorolt adatokról.
+(3) A (2) bekezdésben megjelölt adatokat az eljáró rendőrhatóság a balesettel érintett, illetve a biztosítóintézet kérelmére a kárrendezési eljárás lefolytatásához a biztosítóintézetnek megküldi.”
+(2) Az Rtv. 94. §-a helyébe a következő rendelkezés lép:
+„94. § (1) A Kormány a Megelőzési Szolgálat útján gondoskodik
+a) a Rendőrség, a Határőrség, a polgári védelem hivatásos szervei, az állami és hivatásos önkormányzati tűzoltóság, a Vám- és Pénzügyőrség, az Adó- és Pénzügyi Ellenőrzési Hivatal Nyomozóhatósága, a büntetés-végrehajtási szervezet,
+b) az a) pontban felsorolt szervek irányítását ellátó minisztériumoknak, az Adó- és Pénzügyi Ellenőrzési Hivatalnak a felsorolt szervek irányításával és ellenőrzésével kapcsolatos szervezeti egységei
+belső bűnmegelőzési célú ellenőrzéséről és a bűnfelderítésről.
+(2) A Megelőzési Szolgálat végzi
+a) az (1) bekezdés a) pontjában felsorolt szervek hivatásos, köztisztviselői és közalkalmazotti állományába tartozók;
+b) az (1) bekezdés b) pontjában meghatározott minisztériumi szervezeti egységek hivatásos, köztisztviselői, közalkalmazotti és állományába tartozók által elkövetett hivatali bűncselekmények, hivatalos személyként elkövetett bűncselekmények, a szolgálati helyen vagy a hivatali tevékenységgel összefüggésben elkövetett más bűncselekmények, továbbá a katonai bűncselekmények felderítését a nyomozás elrendeléséig, ha a felderítés nem tartozik a polgári vagy a katonai nemzetbiztonsági szolgálat hatáskörébe.
+(3) Ahol a jogszabály Megelőzési Szolgálatról szól, ott az 5. § (1) bekezdés b) pontjában, a 75. §-ban, illetve az (1)-(2) bekezdésben rögzített tevékenységet folytató szervet kell érteni.”
+72. § Az Rtv. 101. §-a (1) bekezdésének h) pontja helyébe a következő rendelkezés lép:
+(Felhatalmazást kap a belügyminiszter, hogy rendeletben állapítsa meg)
+„h) a bűnmegelőzési ellenőrzés elrendelésével, valamint a különleges eszközök és módszerek engedélyezésével, igénybevételével kapcsolatos szabályokat.”
+73. § Az Rtv. 102. §-a a következő (2) bekezdéssel egészül ki, egyidejűleg a jelenlegi szöveg megjelölése (1) bekezdésre módosul:
+„(2) A titkos információgyűjtés eszközei, módszerei (Rtv. VII. fejezet) alkalmazásának részletes szabályait a belügyminiszter állapítja meg.”
+74. § (1) A Hőr. tv. 25. §-a (1) bekezdésének j) pontja helyébe a következő rendelkezés lép:
+(A belügyminiszter a Határőrség működésének irányítása körében)
+„j) irányítja a Határőrség költségvetési gazdálkodását, az országos parancsnok javaslatára jóváhagyja a Határőrség fejlesztési terveit, továbbá a Határőrség gazdálkodása tekintetében célszerűségi és eredményességi ellenőrzést végez;”
+(2) A Hőr. tv. 53. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Ha jogszabály másként nem rendelkezik, az országos parancsnokság másodfokon bírálja el az igazgatóság első fokú közigazgatási határozata ellen benyújtott fellebbezést.”
+75. § (1) A Hőr. tv. 59. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Határőrség a 22. § (2) bekezdésében meghatározott feladatainak végrehajtása érdekében az Rtv. VII. fejezetében meghatározott szabályok szerint titkos információgyűjtést végezhet.”
+(2) A Hőr. tv. 59. §-a a következő új (2) bekezdéssel egészül ki, és a jelenlegi (2) bekezdés jelölése (3) bekezdésre változik:
+„(2) A Határőrség speciális működési kiadásai felhasználásának külső állami szerv által történő ellenőrzése kizárólag törvényességi szempontból történhet. E körben célszerűségi és eredményességi szempont szerinti ellenőrzés - a 25. § (1) bekezdésének j) pontját kivéve - nem végezhető.”
+(3) A Hőr. tv. 69. §-ának (1) bekezdése helyébe a következő rendelkezés lép, továbbá új (2) bekezdéssel egészül ki, és a jelenlegi (2) bekezdés jelölése (3) bekezdésre változik:
+„(1) A Határőrség bűnüldözési és bűnmegelőzési célból a kiutazásig, de legfeljebb kilencven napig kezeli a határon átlépő külföldiek személyazonosító adatait, illetőleg ha a határátlépés gépjárművel történik, annak forgalmi rendszámát is.
+(2) Az (1) bekezdés rendelkezéseit a határon ki- és belépő magyar állampolgárok esetében is alkalmazni kell, azzal az eltéréssel, hogy az adatok kezelése a határátlépéstől számított kilencven napig történhet.”
+76. § (1) A Hőr. tv. 83. §-a a következő új (2) bekezdéssel egészül ki, és a jelenlegi (2) bekezdés megjelölése (3) bekezdésre változik:
+„(2) Felhatalmazást kap a Kormány, hogy megállapítsa a Határőrség fedőintézmény létrehozásával kapcsolatos eljárásának részletes szabályait.”
+(2) A Hőr. tv. 83. §-ának jelenlegi (3) bekezdése a következő e) ponttal egészül ki, és megjelölése (4) bekezdésre változik:
+(Felhatalmazást kap a belügyminiszter, hogy rendeletben állapítsa meg)
+„e) a különleges eszközök és módszerek engedélyezésével, igénybevételével kapcsolatos szabályokat.”
+(3) A Hőr. tv. 83. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A titkos információgyűjtés eszközei, módszerei (Rtv. VII. fejezet) alkalmazásának részletes szabályait a belügyminiszter állapítja meg.”
+77. § (1) A Vám. tv. 173. §-a (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A vámigazgatás a pénzügyigazgatás része. A vámigazgatást a pénzügyminiszter irányítja és felügyeli. Ennek keretében irányítja a Vám- és Pénzügyőrség költségvetési gazdálkodását, az országos parancsnok javaslatára jóváhagyja fejlesztési terveit, továbbá a Vám- és Pénzügyőrség gazdálkodása tekintetében célszerűségi és eredményességi ellenőrzést végez.”
+(2) A Vám. tv. 174. §-a (2)-(3) bekezdésének helyébe a következő rendelkezés lép és új (4)-(5) bekezdéssel egészül ki, ezzel egyidejűleg a jelenlegi (4)-(5) bekezdés számozása (6)-(7) bekezdésre változik:
+„(2) A Vám és Pénzügyőrségnek az országos parancsnok által kijelölt nyomozó hatóságai a büntetőeljárásról szóló törvény alapján a vámszervezet nyomozó hatósági hatáskörébe tartozó bűncselekmények elkövetésének megelőzése, felderítése, megszakítása, az elkövető kilétének megállapítása, az elkövető elfogása, a körözött személy felkutatása, tartózkodási helyének megállapítása, továbbá a bizonyítékok megszerzése céljából a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: rendőrségi törvény) VII. fejezetében meghatározottak szerint titkos információgyűjtést végeznek. A rendőrségi törvény 68/D. § (1) bekezdésének alkalmazása szempontjából a 173. § (1) bekezdésében foglaltakat kell kivételként tekinteni.
+(3) A vámhatóság az informátor, a bizalmi személy, a vámhatósággal titkosan együttműködő más személy, a fedett nyomozó, valamint a fedőokirat és a fedőintézmény védelme érdekében a közigazgatási nyilvántartásokban, így különösen a személyiadat- és lakcímnyilvántartásban, a személyi igazolvány nyilvántartásban, az anyakönyvi nyilvántartásban, az úti okmány nyilvántartásban, a gépjármű-vezetői engedély és gépjármű nyilvántartásban, az ingatlan-nyilvántartásban, a cégnyilvántartásban fedőadatokat helyezhet el. A fedőadat elhelyezésének ténye, az elhelyezésre vonatkozó rendelkezést tartalmazó okirat vagy más adathordozó államtitoknak minősül. A fedőadatokat törölni kell, ha az elhelyezés alapjául szolgáló bűnüldözési érdek megszűnt.
+(4) Az informátor, a bizalmi személy, a vámhatósággal titkosan együttműködő más személy által a titkos információgyűjtés keretében másnak okozott kár megtérítésére a rendőrségi törvény 67. § (2) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
+(5) Felhatalmazást kap a Kormány, hogy megállapítsa a Vám- és Pénzügyőrség fedőintézmény létrehozásával, fenntartásával kapcsolatos eljárásának részletes szabályait.”
+(3) A Vám. tv. 174. §-a a következő (8) bekezdéssel egészül ki:
+„(8) A titkos információgyűjtés eszközei, módszerei (rendőrségi törvény VII. fejezet) alkalmazásának részletes szabályait a pénzügyminiszter állapítja meg.”
+78. § Az Adó- és Pénzügyi Ellenőrzési Hivatal egyes feladatairól szóló 1998. évi XCIII. törvény (APEH tv.) 20. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A titkos információgyűjtés eszközei, módszerei (rendőrségi törvény VII. fejezet) alkalmazásának részletes szabályait a pénzügyminiszter állapítja meg.”
+79. § (1) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hsztv.) a következő új 256/A. §-sal egészül ki:
+(A határőrség hivatásos állományára vonatkozó szabályok)
+„256/A. § A határőrség hivatásos állományú tagjaira megfelelően alkalmazni kell a 261-262. §-ok rendelkezéseit.”
+(2) A Hsztv. 325. §-a a következő új (3) bekezdéssel egészül ki:
+(Vegyes szabályok)
+„(3) A hivatásos állomány tagjaira megfelelően alkalmazni kell a 261-262. §-ok rendelkezéseit.”
+80. § A büntetések és intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet a következő alcímmel és 13/A. §-sal egészül ki:
+„Bűnmegelőzési ellenőrzés
+13/A. § (1) A büntetés-végrehajtási bíró az elítéltet szabadító büntetés-végrehajtási intézet székhelye szerint illetékes rendőr-főkapitányság (a továbbiakban: kezdeményező) kezdeményezésére bűnmegelőzési ellenőrzést rendelhet el.
+(2) A büntetés-végrehajtási bíró a bűnmegelőzési ellenőrzés elrendeléséről az elítélt szabadulásának napjáig végzéssel határoz.
+(3) A bűnmegelőzési ellenőrzést meg kell szüntetni
+a) a szabadságvesztésből szabadulást követő egy év elteltével;
+b) a kezdeményező kérelmére, ha az elrendelés okai már nem állnak fenn.”
+81. § Az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény 3. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Ezt a törvényt a honvédelmi, a külkereskedelmi igazgatási, a társadalombiztosítási, családtámogatási, az adó-, jövedéki és vámigazgatási, az iparjogvédelmi, az idegenrendészeti és a menedékjogi ügyekben, továbbá a tisztességtelen piaci magatartás tilalmáról és a versenykorlátozásról, az árak megállapításáról, a biztosítóintézetekről és a biztosítási tevékenységről, a hitelintézetekről és a pénzügyi vállalkozásokról, az értékpapírok forgalomba hozataláról, a befektetési szolgáltatásokról és az értékpapír-tőzsdéről, az önkéntes kölcsönös biztosító pénztárakról, valamint a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvényben meghatározott, valamint az atomenergia alkalmazása körébe tartozó tevékenységekre vonatkozó ügyekben akkor kell alkalmazni, ha jogszabály másként nem rendelkezik.”
+82. § A külföldre utazásról szóló 1998. évi XII. törvény 18. §-ának (1) bekezdése a következők szerint módosul:
+„(1) A 16. § (1) bekezdésében meghatározott korlátozás hatálya alatt álló állampolgár kérelmére az útlevélhatóság - különös méltánylást érdemlő okból - meghatározott időtartamú külföldre utazást engedélyezhet. Az utazás engedélyezéséhez a 16. § (1) bekezdésének a)-c) pontjában meghatározott esetben a vádirat benyújtásáig az ügyész, azt követően a bíróság, a 16. § (1) bekezdésének d) pontja esetében a büntetés-végrehajtási bíró, az e) pontja esetében pedig a 16. § (3) bekezdésben meghatározott szerv hozzájárulása szükséges.”
+
+[LÁBJEGYZET_1] A törvényt az Országgyűlés az 1999. június 22-i ülésnapján fogadta el.

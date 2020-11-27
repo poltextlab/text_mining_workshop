@@ -1,0 +1,74 @@
+1999. évi LIV. törvény
+
+az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről  [LÁBJEGYZET_1] 
+
+Az Országgyűlés a bűnüldözés hatékonyságának növelése érdekében a nemzetközi együttműködés eszközeinek felhasználására a következő törvényt alkotja:
+
+I. Fejezet
+
+Alapvető rendelkezések
+
+1. § E törvény célja az Európai Unió bűnüldözési információs rendszerével megvalósuló adat- és információcsere szabályainak megállapítása, valamint a Nemzetközi Bűnügyi Rendőrség Szervezete (az INTERPOL) keretében megvalósuló együttműködés megerősítése.
+2. § E törvény alkalmazásában
+a) nemzetközi bűnüldözési szervezet: az Európai Rendőrségi Hivatal (EUROPOL) központja és nemzeti egységei, valamint a Nemzetközi Bűnügyi Rendőrség Szervezete (INTERPOL) központja és nemzeti irodái;
+b) magyar bűnüldöző szerv: törvény alapján nyomozóhatósági jogkörrel rendelkező szerv;
+c) bűnüldözési adat: a Rendőrségről szóló 1994. évi XXXIV. törvény VIII. fejezetében meghatározott bűnüldözési adatkezelés körébe tartozó adat.
+
+A Nemzetközi Bűnügyi Együttműködési Központ
+
+3. § (1) A magyar bűnüldöző szerv a nemzetközi bűnüldözési szervezettel folytatott együttműködése során a Rendőrség szervezetébe tartozó Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) útján továbbít adatot, információt, illetőleg kezdeményez adat-, illetve információigénylést vagy egyéb intézkedést.
+(2) Az INTERPOL-lal történő együttműködés során a Rendőrség a szervezet alapszabálya és működési elvei szerint folytat információcserét a tagországokkal és az INTERPOL Főtitkárságával. Az INTERPOL tagság nemzetközi kötelezettségvállalásnak minősül.
+4. § (1) A NEBEK jogosult annak a személyes és bűnüldözési adatnak - beleértve a titkos információgyűjtéssel érintett adatot és információt is - a kezelésére, átvételére és továbbítására, amely a nemzetközi bűnüldözési szervezet hatáskörébe tartozik, különösen ha az adat a szervezet hatáskörébe tartozik, különösen ha az adat a szervezett bűnözéssel, terrorizmussal, kábítószer-bűnözéssel, nukleáris és radioaktív anyaggal, embercsempészettel, emberkereskedelemmel, gépjárművekkel, illetve az EURO-val kapcsolatos bűncselekményekkel függ össze.
+ (2) A NEBEK jogosult - közvetlen hozzáféréssel is - az (1) bekezdés alapján érkezett megkeresés teljesítéséhez szükséges személyes és bűnüldözési adatot térítés nélkül átvenni bármely adatkezelésből, amelyre törvény bűnüldözési célból felhatalmazást ad.
+(3) Az adatátviteli igényt a megkeresett adatkezelő haladéktalanul köteles a leggyorsabb adattovábbítási úton teljesíteni. Az adattovábbítás tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell.
+5. § (1) A NEBEK a nemzetközi megkeresés alapján köteles és jogosult az általa beszerzett adatot - beleértve a titkos információgyűjtéssel érintett személyes adatot és információt is - a nemzetközi szerződésben meghatározottak szerint a titokvédelmi előírásoknak megfelelően védett távadat-átviteli hálózat igénybevételével, a külföldre telepített összekötője útján továbbítani a megkereső bűnüldözési szervezethez.
+(2) A NEBEK köteles az (1) bekezdés alapján továbbított adatot adatvédelmi ellenőrzés céljából rögzíteni és azt hat hónapig megőrizni. Az így tárolt adatot az ellenőrzés lefolytatása után legkésőbb 30 nap elteltével törölni kell.
+6. § (1) A magyar bűnüldöző szervnek a NEBEK útján történő adatszolgáltatás kezdeményezésekor közölnie kell az adat- vagy információszolgáltatás célját, az adat törlésére, megsemmisítésére vonatkozó szabályokat, illetőleg a tájékoztatási és helyesbítési (törlési) jog gyakorlásával kapcsolatos korlátozásokat.
+(2) A magyar bűnüldöző szerv által nemzetközi bűnüldözési szervezet részére szolgáltatott információn, adaton - a nemzetközi bűnüldözési szervezet követelményeinek megfelelően - fel kell tüntetni az információ felhasználhatóságát.
+7. § (1) A NEBEK a részére megküldött, az általa átvett vagy továbbított adatot a nemzetközi szerződésben foglaltaktól eltérő célra nem használhatja fel, azt - az eljárásra hatáskörrel és illetékességgel rendelkező bűnüldöző szerv, valamint adatvédelmi ellenőrző szerv kivételével - más külföldi és hazai szervnek vagy személynek nem továbbíthatja, abból strukturált adatállományt csak akkor hozhat létre, ha ezt a vonatkozó nemzetközi szerződés lehetővé teszi.
+(2) A különböző nemzetközi szerződések alapján létrehozott adatállományokat elkülönítetten kell kezelni, azok egymással nem, csak a nemzetközi bűnüldözési szervezet központi adatállományával kapcsolhatók össze.
+(3) A NEBEK a külföldről átvett adat kezelésekor és továbbításakor köteles figyelembe venni mindazon feltételeket és korlátozásokat, amelyeket az adatátadó vele közölt. Ezekről az adat továbbításakor az adatátvevőt tájékoztatni kell.
+(4) A NEBEK a rendelkezésére álló adatot és információt a nemzetközi bűnüldözési szervezet szabályai szerint elemzési célra feldolgozhatja.
+8. § A NEBEK köteles az érintettet - kérelmére - a nemzetközi szerződésben foglaltaknak megfelelően tájékoztatni az általa kezelt vagy továbbított adatairól, illetőleg teljesíteni a helyesbítés iránti kérelmet.
+9. § (1) A NEBEK köteles a nemzetközi bűnüldözési szervezet központjába továbbított adatot nemzetközi szerződésben meghatározott határidőben felülvizsgálni és szükség esetén a törlést elrendelni, valamint jelezni a nemzetközi bűnüldözési szervezet központjának az általa korábban továbbított adatok törlését vagy helyesbítését.
+(2) Amennyiben a nemzetközi bűnüldözési szervezet jelzi, hogy az általa vagy részére továbbított adat téves vagy helytelen adattovábbítás történt, a NEBEK haladéktalanul kezdeményezi az adathelyesbítést vagy törlést és erről tájékoztatja a nemzetközi bűnüldözési szervezetet.
+10. § (1) A NEBEK vezetője, illetőleg az adattovábbításban érintett hazai adatkezelő szerv vezetője gondoskodik a nemzetközi bűnüldözési szervezet által meghatározott, illetőleg a nemzetközi szerződésben foglalt adatbiztonsági és titokvédelmi követelmények betartásáról.
+(2) A NEBEK vezetője a Magyar Köztársaság által kötött nemzetközi szerződés hatálya alá tartozó adat esetében a Ttv. 5/C. §-ának (3), az 5/E. §-ának (3), a 10. §-ának (5) és a 18. §-ának (6) bekezdéseiben meghatározott hatáskörben eljárhat.
+(3) A NEBEK tevékenységével kapcsolatos közérdekű adat nyilvánosságra hozatalát a NEBEK vezetője megtagadhatja, ha ezt bűnüldözési, bűnmegelőzési cél feltétlenül indokolttá teszi, ha nemzetközi szerződés így rendelkezik, vagy ha a nemzetközi bűnüldözési szervezet ezt kéri.
+
+II. Fejezet
+
+Az adatvédelmi felelős
+
+11. § (1) A NEBEK adattovábbítási tevékenységével kapcsolatos adatvédelmi ellenőrzési feladatokat az adatvédelmi felelős látja el. Az adatvédelmi felelős a belügyminiszter javaslata alapján a miniszterelnök által kinevezett köztisztviselő.
+(2) Az adatvédelmi felelős közszolgálati jogviszonyával kapcsolatos munkáltatói jogokat - a kinevezés és a felmentés kivételével - a belügyminiszter gyakorolja.
+(3) A Közös Nemzetközi Adatvédelmi Ellenőrző Testületben Magyarországot az adatvédelmi felelős képviseli.
+12. § (1) Az adatvédelmi felelős ellenőrzi a személyes adatok külföldre továbbításának jogszerűségét. Ennek során jogosult betekinteni a NEBEK által kezelt iratokba és adatokba, továbbá azokból adatszolgáltatást kérni.
+(2) Az adatvédelmi felelős jogosult megismerni a NEBEK által kezelt minősített adatot.
+(3) Az adatvédelmi felelős adatvédelmi ellenőrző tevékenysége során egyedi ügyben nem utasítható.
+13. § (1) Ha az adatvédelmi felelős tevékenysége során jogszerűtlen adatkezelést vagy adattovábbítást észlel, a NEBEK vezetőjét az adattovábbítás megtiltására vagy felfüggesztésére, a jogellenes állapot megszüntetésére, illetőleg a hibás adat kijavítására vagy kijavíttatására szólítja fel. A NEBEK vezetője haladéktalanul köteles megtenni a szükséges intézkedéseket és erről 30 napon belül tájékoztatni az adatvédelmi felelőst.
+(2) Ha a NEBEK vezetője a felszólításnak nem tett eleget, az adatvédelmi felelős tájékoztatja a belügyminisztert és egyidejűleg kéri a jogellenes állapot megszüntetését.
+14. § (1) Az adatvédelmi felelős az érintettnek az adatai kezelésével és jogai gyakorlásával összefüggő kérelmét 30 napon belül kivizsgálja és intézkedik a jogsérelem megszüntetése iránt.
+(2) Az érintett kérelmével a nemzetközi szervezet központi adatvédelmi szervéhez is fordulhat.
+15. § Az adatvédelmi felelős e törvény szerinti jogosítványai az adatvédelmi biztos jogosítványait nem érintik.
+
+III. Fejezet
+
+Záró rendelkezések
+
+16. § Ez a törvény a Magyar Köztársaság által az EUROPOL-lal kötött nemzetközi szerződést kihirdető törvénnyel egyidejűleg lép hatályba.
+17. § Felhatalmazást kap a belügyminiszter, hogy a pénzügyminiszterrel egyetértésben rendeletben szabályozza a NEBEK jogállását, részletes feladat- és hatáskörét.
+
+Módosuló jogszabályok
+
+18. § A vámjogról, a vámeljárásról, valamint a vámigazgatásról szóló 1995. évi C. törvény 155. §-a az alábbi (6) bekezdéssel egészül ki:
+„(6) A vámhatóság a nyomozóhatósági jogkörébe tartozó bűncselekményekkel összefüggésben keletkezett személyes és bűnüldözési adatokat - beleértve a titkos információgyűjtés során keletkezett adatokat is - az EUROPOL és az INTERPOL részére az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló törvény rendelkezései alkalmazásával vehet, illetőleg adhat át, ha a továbbítás súlyos vagy közvetlen veszély elhárításához, vagy bűncselekmény megelőzéséhez szükséges és a személyes adatok kezelésének feltételei a külföldi adatkezelőnél minden egyes adat tekintetében teljesülnek.”
+19. § A határőrizetről és a Határőrségről szóló  1997. évi XXXII. törvény 61. §-ának (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A Határőrség személyes és bűnüldözési adatokat - beleértve a titkos információgyűjtés során keletkezett adatokat is - külföldi és nemzetközi bűnüldöző, határőrizeti és igazságszolgáltatási szervek részére nemzetközi egyezmény, nemzetközi szervek részére nemzetközi egyezmény, nemzetközi szerződés, ennek hiányában viszonosság alapján átadhat, ha a továbbítás súlyos vagy közvetlen veszély elhárításához vagy bűncselekmény megelőzéséhez szükséges és a személyes adatok kezelésének feltételei a külföldi adatkezelőnél minden egyes adat tekintetében teljesülnek. Az EUROPOL-lal és az INTERPOL-lal való adatkapcsolat tekintetében az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló törvény adatkezelési szabályait kell alkalmazni.”
+20. § Az államtitokról és a szolgálati titokról szóló 1995. évi LXV. törvény (a továbbiakban: Ttv.) 18. §-ának (3) bekezdése helyébe a következő rendelkezés lép, illetve az alábbi új (4)-(5) bekezdéssel egészül ki, egyidejűleg a jelenlegi (4) bekezdés az alábbi kiegészítéssel (6) bekezdésre változik:
+„(3) Államtitkot külföldi szervnek vagy személynek átadni, az adat átadásának engedélyezésére törvény felhatalmazása alapján jogosult minősítő írásbeli engedélyével lehet.
+(4) A Ttv. 3. § (1) bekezdés, valamint a 4. § (1) bekezdés hatálya alá tartozó adatot külföldre vagy külföldről diplomáciai, illetve konzuli futár, valamint a nemzetközi jog alapján velük azonos kiváltságokat és mentességeket élvező személy továbbíthat, illetőleg ilyen adat vezetékes és vezeték nélküli adatátviteli rendszerben is - kizárólag rejtjelezve - továbbítható.
+(5) A Ttv. 5/B. § (4) bekezdésének hatálya alá tartozó adat külföldre vagy külföldről a nemzetközi szerződésben meghatározott személy útján, illetőleg vezetékes vagy vezeték nélküli adatátviteli rendszerben is továbbítható.
+(6) A (2)-(4) bekezdés alapján a honvédelmi vagy külügyi érdekből minősített adat esetén a miniszter vagy az általa felhatalmazott személy, továbbá rendvédelmi szerv esetében a központi szerv vezetője, rendőrség esetében törvényben felhatalmazott személy is adhat engedélyt.”
+
+[LÁBJEGYZET_1] A törvényt az Országgyűlés az 1999. június 1-jei ülésnapján fogadta el.
